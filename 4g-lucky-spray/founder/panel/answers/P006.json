@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Rp189 ribu buat spray 5 ml itu hampir seminggu penghasilan narik, padahal di Shopee yang mirip ada Rp50-an ribu. Toko baru tanpa ulasan pula, mending uangnya buat dapur.",
+  "objection": "Harganya kemahalan untuk botol sekecil itu dan belum jelas manfaatnya apa. Terus kalau paket COD datang ke rumah, istri yang terima dan bayar, pasti ditanya isinya apa.",
+  "would_change_my_mind": "Harga di bawah Rp75 ribu dan bisa diambil sendiri di titik ambil atau dikirim ke tempat lain, bukan ke rumah.",
+  "price_too_cheap": 20000,
+  "price_cheap": 45000,
+  "price_expensive": 85000,
+  "price_too_expensive": 120000
+}

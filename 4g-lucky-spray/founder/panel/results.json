@@ -1,0 +1,142 @@
+{
+ "business": "4G Lucky Herbal Spray Pria (dropship, iklan Meta ke landing page, COD)",
+ "seed": 7,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 0,
+ "passes": 20,
+ "buy_rate": 0.0,
+ "by_segment": [
+  [
+   "Pedagang/pemilik usaha kecil, usia 40+",
+   4,
+   0.0
+  ],
+  [
+   "Karyawan swasta/pabrik/PNS golongan bawah",
+   7,
+   0.0
+  ],
+  [
+   "Pria muda baru menikah, karyawan kota",
+   2,
+   0.0
+  ],
+  [
+   "Pekerja harian/buruh/ojol/sopir, menikah",
+   7,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Pemburu murah marketplace",
+   4,
+   0.0
+  ],
+  [
+   "Impulsif lihat iklan",
+   2,
+   0.0
+  ],
+  [
+   "Penurut jamu dan herbal",
+   3,
+   0.0
+  ],
+  [
+   "Skeptis pernah tertipu",
+   4,
+   0.0
+  ],
+  [
+   "Pembaca ulasan",
+   3,
+   0.0
+  ],
+  [
+   "Pembeli diam-diam COD",
+   4,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$78,452,000 and up",
+   7,
+   0.0
+  ],
+  [
+   "$46,775,000 to $78,452,000",
+   7,
+   0.0
+  ],
+  [
+   "under $46,775,000",
+   6,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "price",
+   11,
+   [
+    "Rp189 ribu buat botol 5 ml itu kemahalan, di Shopee yang mirip-mirip ada Rp50–100 ribu, jamu kuat di warung cuma Rp30 ribuan. Iklannya juga nggak bilang efeknya apa, toko baru belum ada ulasan, jadi saya nggak mau jadi orang pertama yang coba.",
+    "Malam-malam lihat iklan begini mungkin saya sempat isi form COD, tapi pas kurir datang dan istri tanya Rp189.000 buat botol 5 ml isinya cuma daun jambu sama lidah buaya, ya saya tolak paketnya. Kalau cuma buat bersih-bersih, sabun biasa juga bisa."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "trust",
+   8,
+   [
+    "Saya sudah beberapa kali kena iklan produk pria yang ujungnya tidak terasa apa-apa, dan ini toko baru tanpa ulasan sama sekali. Rp189 ribu untuk botol 5 ml itu hampir seminggu uang jajan saya, mending beli jamu kuat di tukang jamu langganan yang sudah jelas.",
+    "Saya sudah pernah kena produk oles dari iklan yang nggak terasa apa-apa, dan ini toko baru tanpa satu ulasan pun. Rp189.000 untuk botol 5 ml yang iklannya sendiri tidak bilang manfaatnya apa, saya nggak mau jadi korban lagi."
+   ],
+   [
+    "P003",
+    "P004"
+   ]
+  ],
+  [
+   "need",
+   1,
+   [
+    "Iklannya cuma bilang semprot, ratakan, selesai, tapi tidak bilang buat apa. Saya sudah beberapa kali COD produk pria yang tidak terasa apa-apa, jadi kalau dari awal tidak jelas gunanya, Rp189 ribu untuk botol 5 ml itu buang uang, apalagi uang belanja dipegang istri."
+   ],
+   [
+    "P013"
+   ]
+  ]
+ ],
+ "why_yes": [],
+ "flip": [
+  "Harga di bawah Rp100 ribu dan ada ulasan pembeli asli yang banyak di Shopee atau TikTok Shop, bukan testimoni dari admin.",
+  "Harga di bawah Rp75.000 per botol, plus ada ulasan atau testimoni pembeli lain dari orang Jawa yang sudah pakai.",
+  "Ada teman atau saudara yang sudah pakai dan bilang terasa, atau saya lihat ulasan asli di Shopee dengan harga di bawah Rp75 ribu supaya kalau gagal tidak terlalu rugi.",
+  "Ulasan asli dari pembeli lain (bukan testimoni buatan admin) di marketplace yang bisa saya cek, plus harga coba satu botol di bawah Rp100.000 supaya kalau zonk nggak terlalu nyesek.",
+  "Kalau harganya sekitar Rp99 ribu per botol dan ada ulasan pembeli asli, atau barangnya ada di Shopee/TikTok Shop dengan rating bagus supaya saya bisa bandingkan dulu.",
+  "Harga di bawah Rp75 ribu dan bisa diambil sendiri di titik ambil atau dikirim ke tempat lain, bukan ke rumah.",
+  "Ada banyak ulasan asli dari pembeli (termasuk yang jelek dan dijawab jujur) di marketplace seperti Shopee, plus bisa ambil di titik pengambilan atau dikirim ke kantor supaya tidak sampai ke rumah.",
+  "Harga di bawah Rp50.000 dan ada teman ojol atau tetangga yang sudah pakai dan bilang cocok.",
+  "Harga di bawah 75 ribu per botol dan ada ulasan pembeli asli yang banyak di marketplace.",
+  "Ada teman atau tetangga yang sudah pakai dan bilang benar terasa, plus ada ukuran kecil buat coba di harga sekitar Rp50 ribu.",
+  "Harga coba di bawah Rp75 ribu untuk satu botol, plus ada testimoni pembeli asli yang bilang jelas rasanya beda dari sabun biasa.",
+  "Ada teman atau orang yang saya kenal yang sudah pakai dan bilang memang ada gunanya, plus harga coba di bawah Rp75 ribu.",
+  "Ulasan atau testimoni jujur dari pria lain yang sudah pakai (misalnya di TikTok atau di toko) yang jelas bilang manfaatnya terasa, plus harga coba di bawah Rp100 ribu.",
+  "Ulasan asli dari pembeli lain (bukan testimoni buatan) plus versi sachet atau botol kecil murah di bawah Rp50 ribu untuk coba dulu, dan garansi uang kembali kalau iritasi.",
+  "Kalau produk yang sama dijual di Shopee atau Tokopedia dengan banyak ulasan asli, termasuk ulasan jelek yang dijawab dengan baik, dan harganya sekitar Rp100 ribu.",
+  "Ada ukuran coba sekitar Rp50–70 ribu, plus testimoni orang biasa kayak saya yang bilang nggak panas dan nggak iritasi.",
+  "Ada ukuran coba yang murah, sekitar Rp50–75 ribu COD, plus banyak ulasan pembeli asli yang bilang tidak panas dan tidak perih.",
+  "Harga di bawah Rp60 ribu per botol, dijual di toko atau apotek dekat rumah, dan ada teman atau tukang jamu langganan yang sudah pakai dan bilang cocok.",
+  "Ada di Shopee dengan ratusan ulasan asli dari pembeli (termasuk yang bintang rendah tapi tetap jujur), dan ada ukuran coba sekitar Rp50 ribu.",
+  "Harga satu botol di bawah Rp100 ribu, ditambah ada testimoni pembeli asli yang bisa saya lihat."
+ ],
+ "purchases_first_month_per_buyer": null,
+ "price_answers": 20
+}

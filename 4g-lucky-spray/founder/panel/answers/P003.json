@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Saya sudah beberapa kali kena iklan produk pria yang ujungnya tidak terasa apa-apa, dan ini toko baru tanpa ulasan sama sekali. Rp189 ribu untuk botol 5 ml itu hampir seminggu uang jajan saya, mending beli jamu kuat di tukang jamu langganan yang sudah jelas.",
+  "objection": "Iklannya tidak bilang manfaatnya apa, cuma 'perawatan', bahannya daun jambu dan lidah buaya. BPOM-nya kosmetik, bukan berarti terasa. Saya takut ini cuma barang murah yang dijual mahal, dan 5 ml habis dalam beberapa kali pakai.",
+  "would_change_my_mind": "Ada teman atau saudara yang sudah pakai dan bilang terasa, atau saya lihat ulasan asli di Shopee dengan harga di bawah Rp75 ribu supaya kalau gagal tidak terlalu rugi.",
+  "price_too_cheap": 15000,
+  "price_cheap": 35000,
+  "price_expensive": 75000,
+  "price_too_expensive": 120000
+}

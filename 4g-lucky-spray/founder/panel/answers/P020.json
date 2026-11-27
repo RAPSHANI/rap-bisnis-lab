@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Rp189 ribu buat botol 5 ml yang cuma cukup beberapa kali pakai itu terlalu mahal buat gaji saya, di Shopee banyak spray sejenis di bawah Rp100 ribu. Paket polos dan COD memang bikin tenang, tapi tokonya baru dan belum ada ulasan, jadi saya pasti mikir dua kali lalu batal.",
+  "objection": "Harganya mahal untuk isi sekecil itu, iklannya juga nggak bilang efeknya apa, jadi saya nggak tahu bayar Rp189 ribu dapat apa. Takut sudah dipesan lalu nyesel dan nolak paketnya lagi.",
+  "would_change_my_mind": "Harga satu botol di bawah Rp100 ribu, ditambah ada testimoni pembeli asli yang bisa saya lihat.",
+  "price_too_cheap": 25000,
+  "price_cheap": 60000,
+  "price_expensive": 110000,
+  "price_too_expensive": 160000
+}

@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Omar",
+  "age": 25,
+  "segment": "Pedagang/pemilik usaha kecil, usia 40+",
+  "income": 124376000,
+  "behaviour": "Pemburu murah marketplace",
+  "behaviour_how": "Selalu cek harga di Shopee/Tokopedia/TikTok Shop dulu, tahu produk serupa ada yang Rp50–100 ribu.",
+  "objection": "Sudah sering tertipu iklan produk pria yang tidak terasa apa-apa",
+  "habit": "kamu pernah beli jamu kuat Rp20–35 ribu dari warung"
+ },
+ {
+  "id": "P002",
+  "name": "Raj",
+  "age": 33,
+  "segment": "Pedagang/pemilik usaha kecil, usia 40+",
+  "income": 102449000,
+  "behaviour": "Impulsif lihat iklan",
+  "behaviour_how": "Gampang tergoda iklan malam hari, langsung isi form COD, kadang menyesal dan menolak paket.",
+  "objection": "Kalau cuma pembersih, kenapa semahal itu? Sabun biasa juga bisa",
+  "habit": "uang belanja rumah tangga dipegang istri"
+ },
+ {
+  "id": "P003",
+  "name": "Emil",
+  "age": 42,
+  "segment": "Karyawan swasta/pabrik/PNS golongan bawah",
+  "income": 65724000,
+  "behaviour": "Penurut jamu dan herbal",
+  "behaviour_how": "Lebih percaya jamu, madu, dan herbal; minum jamu kuat dari warung atau tukang jamu.",
+  "objection": "Sudah sering tertipu iklan produk pria yang tidak terasa apa-apa",
+  "habit": "kamu punya aplikasi Shopee dan sering cek harga di sana"
+ },
+ {
+  "id": "P004",
+  "name": "Owen",
+  "age": 55,
+  "segment": "Pria muda baru menikah, karyawan kota",
+  "income": 57035000,
+  "behaviour": "Skeptis pernah tertipu",
+  "behaviour_how": "Pernah beli obat kuat/oles dari iklan yang tidak terasa apa-apa, sekarang curiga dengan semua iklan sejenis.",
+  "objection": "Istri bisa curiga kalau tiba-tiba pakai produk begini",
+  "habit": "kamu pernah menolak paket COD karena berubah pikiran"
+ },
+ {
+  "id": "P005",
+  "name": "Sana",
+  "age": 55,
+  "segment": "Karyawan swasta/pabrik/PNS golongan bawah",
+  "income": 77644000,
+  "behaviour": "Pemburu murah marketplace",
+  "behaviour_how": "Selalu cek harga di Shopee/Tokopedia/TikTok Shop dulu, tahu produk serupa ada yang Rp50–100 ribu.",
+  "objection": "Benar terdaftar BPOM atau palsu?",
+  "habit": "kamu malu bertanya ke apoteker soal masalah pria"
+ },
+ {
+  "id": "P006",
+  "name": "Maya",
+  "age": 26,
+  "segment": "Pekerja harian/buruh/ojol/sopir, menikah",
+  "income": 34959000,
+  "behaviour": "Pemburu murah marketplace",
+  "behaviour_how": "Selalu cek harga di Shopee/Tokopedia/TikTok Shop dulu, tahu produk serupa ada yang Rp50–100 ribu.",
+  "objection": "Istri bisa curiga kalau tiba-tiba pakai produk begini",
+  "habit": "kamu malu bertanya ke apoteker soal masalah pria"
+ },
+ {
+  "id": "P007",
+  "name": "Selin",
+  "age": 50,
+  "segment": "Pria muda baru menikah, karyawan kota",
+  "income": 88268000,
+  "behaviour": "Pembaca ulasan",
+  "behaviour_how": "Baca review bintang 1 dulu dan cek BPOM sebelum beli apa pun yang dipakai di badan.",
+  "objection": "Takut paketnya ketahuan istri, orang rumah, atau kurir",
+  "habit": "uang belanja rumah tangga dipegang istri"
+ },
+ {
+  "id": "P008",
+  "name": "Ruby",
+  "age": 37,
+  "segment": "Pekerja harian/buruh/ojol/sopir, menikah",
+  "income": 26485000,
+  "behaviour": "Penurut jamu dan herbal",
+  "behaviour_how": "Lebih percaya jamu, madu, dan herbal; minum jamu kuat dari warung atau tukang jamu.",
+  "objection": "Benar terdaftar BPOM atau palsu?",
+  "habit": "uang belanja rumah tangga dipegang istri"
+ },
+ {
+  "id": "P009",
+  "name": "Nora",
+  "age": 26,
+  "segment": "Pedagang/pemilik usaha kecil, usia 40+",
+  "income": 92586000,
+  "behaviour": "Pemburu murah marketplace",
+  "behaviour_how": "Selalu cek harga di Shopee/Tokopedia/TikTok Shop dulu, tahu produk serupa ada yang Rp50–100 ribu.",
+  "objection": "Kalau cuma pembersih, kenapa semahal itu? Sabun biasa juga bisa",
+  "habit": "uang belanja rumah tangga dipegang istri"
+ },
+ {
+  "id": "P010",
+  "name": "Fatima",
+  "age": 30,
+  "segment": "Pekerja harian/buruh/ojol/sopir, menikah",
+  "income": 26638000,
+  "behaviour": "Skeptis pernah tertipu",
+  "behaviour_how": "Pernah beli obat kuat/oles dari iklan yang tidak terasa apa-apa, sekarang curiga dengan semua iklan sejenis.",
+  "objection": "Sudah sering tertipu iklan produk pria yang tidak terasa apa-apa",
+  "habit": "kamu scroll Facebook sebelum tidur jam 10–12 malam"
+ },
+ {
+  "id": "P011",
+  "name": "Tariq",
+  "age": 28,
+  "segment": "Karyawan swasta/pabrik/PNS golongan bawah",
+  "income": 48011000,
+  "behaviour": "Pembeli diam-diam COD",
+  "behaviour_how": "Malu beli di apotek, hanya mau COD lewat iklan, takut paket ketahuan istri atau keluarga.",
+  "objection": "Kalau cuma pembersih, kenapa semahal itu? Sabun biasa juga bisa",
+  "habit": "kamu pernah menolak paket COD karena berubah pikiran"
+ },
+ {
+  "id": "P012",
+  "name": "Felix",
+  "age": 28,
+  "segment": "Pekerja harian/buruh/ojol/sopir, menikah",
+  "income": 46775000,
+  "behaviour": "Skeptis pernah tertipu",
+  "behaviour_how": "Pernah beli obat kuat/oles dari iklan yang tidak terasa apa-apa, sekarang curiga dengan semua iklan sejenis.",
+  "objection": "Sudah sering tertipu iklan produk pria yang tidak terasa apa-apa",
+  "habit": "kamu scroll Facebook sebelum tidur jam 10–12 malam"
+ },
+ {
+  "id": "P013",
+  "name": "Zoe",
+  "age": 27,
+  "segment": "Pedagang/pemilik usaha kecil, usia 40+",
+  "income": 166428000,
+  "behaviour": "Impulsif lihat iklan",
+  "behaviour_how": "Gampang tergoda iklan malam hari, langsung isi form COD, kadang menyesal dan menolak paket.",
+  "objection": "Sudah sering tertipu iklan produk pria yang tidak terasa apa-apa",
+  "habit": "uang belanja rumah tangga dipegang istri"
+ },
+ {
+  "id": "P014",
+  "name": "Dev",
+  "age": 29,
+  "segment": "Karyawan swasta/pabrik/PNS golongan bawah",
+  "income": 78452000,
+  "behaviour": "Skeptis pernah tertipu",
+  "behaviour_how": "Pernah beli obat kuat/oles dari iklan yang tidak terasa apa-apa, sekarang curiga dengan semua iklan sejenis.",
+  "objection": "Takut panas, iritasi, atau efek samping di area sensitif",
+  "habit": "kamu pernah menolak paket COD karena berubah pikiran"
+ },
+ {
+  "id": "P015",
+  "name": "Yusuf",
+  "age": 36,
+  "segment": "Karyawan swasta/pabrik/PNS golongan bawah",
+  "income": 70759000,
+  "behaviour": "Pembaca ulasan",
+  "behaviour_how": "Baca review bintang 1 dulu dan cek BPOM sebelum beli apa pun yang dipakai di badan.",
+  "objection": "Rp189 ribu untuk 5 ml itu mahal, di marketplace ada yang di bawah Rp100 ribu",
+  "habit": "uang belanja rumah tangga dipegang istri"
+ },
+ {
+  "id": "P016",
+  "name": "Theo",
+  "age": 39,
+  "segment": "Pekerja harian/buruh/ojol/sopir, menikah",
+  "income": 35529000,
+  "behaviour": "Pembeli diam-diam COD",
+  "behaviour_how": "Malu beli di apotek, hanya mau COD lewat iklan, takut paket ketahuan istri atau keluarga.",
+  "objection": "Takut panas, iritasi, atau efek samping di area sensitif",
+  "habit": "kamu scroll Facebook sebelum tidur jam 10–12 malam"
+ },
+ {
+  "id": "P017",
+  "name": "Alma",
+  "age": 29,
+  "segment": "Pekerja harian/buruh/ojol/sopir, menikah",
+  "income": 26453000,
+  "behaviour": "Pembeli diam-diam COD",
+  "behaviour_how": "Malu beli di apotek, hanya mau COD lewat iklan, takut paket ketahuan istri atau keluarga.",
+  "objection": "Takut panas, iritasi, atau efek samping di area sensitif",
+  "habit": "kamu malu bertanya ke apoteker soal masalah pria"
+ },
+ {
+  "id": "P018",
+  "name": "Freya",
+  "age": 33,
+  "segment": "Karyawan swasta/pabrik/PNS golongan bawah",
+  "income": 70974000,
+  "behaviour": "Penurut jamu dan herbal",
+  "behaviour_how": "Lebih percaya jamu, madu, dan herbal; minum jamu kuat dari warung atau tukang jamu.",
+  "objection": "Benar terdaftar BPOM atau palsu?",
+  "habit": "kamu pernah beli jamu kuat Rp20–35 ribu dari warung"
+ },
+ {
+  "id": "P019",
+  "name": "Harper",
+  "age": 41,
+  "segment": "Pekerja harian/buruh/ojol/sopir, menikah",
+  "income": 24554000,
+  "behaviour": "Pembaca ulasan",
+  "behaviour_how": "Baca review bintang 1 dulu dan cek BPOM sebelum beli apa pun yang dipakai di badan.",
+  "objection": "Sudah sering tertipu iklan produk pria yang tidak terasa apa-apa",
+  "habit": "kamu punya aplikasi Shopee dan sering cek harga di sana"
+ },
+ {
+  "id": "P020",
+  "name": "Emma",
+  "age": 29,
+  "segment": "Karyawan swasta/pabrik/PNS golongan bawah",
+  "income": 81123000,
+  "behaviour": "Pembeli diam-diam COD",
+  "behaviour_how": "Malu beli di apotek, hanya mau COD lewat iklan, takut paket ketahuan istri atau keluarga.",
+  "objection": "Rp189 ribu untuk 5 ml itu mahal, di marketplace ada yang di bawah Rp100 ribu",
+  "habit": "kamu pernah menolak paket COD karena berubah pikiran"
+ }
+]
