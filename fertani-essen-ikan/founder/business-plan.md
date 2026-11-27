@@ -2,19 +2,19 @@
 
 **Verdict: Not yet**
 
-- ✓ Each order diterima pembeli earns Rp3.502 before fixed costs (2% contribution).
-- ✓ Year 1 operating profit: Rp7.025.040.
+- ✓ Each order diterima pembeli earns Rp14.310 before fixed costs (9% contribution).
+- ✓ Year 1 operating profit: Rp24.816.600.
 - ✗ 0 of 20 simulated buyers buy (0%, the bar is 25%).
 
 | key number | |
 | --- | ---: |
-| Price | Rp149.500 a order diterima pembeli |
-| Profit margin at plan | 2% per order diterima pembeli |
-| Break-even | 2 order diterima pembelis a day |
-| Year 1 operating profit | Rp7.025.040 |
-| Startup spend | Rp1.500.000 |
-| Cash needed before it pays for itself | Rp1.500.000 |
-| Startup money earned back | month 4 |
+| Price | Rp158.500 a order diterima pembeli |
+| Profit margin at plan | 9% per order diterima pembeli |
+| Break-even | 1 order diterima pembelis a day |
+| Year 1 operating profit | Rp24.816.600 |
+| Startup spend | Rp500.000 |
+| Cash needed before it pays for itself | Rp500.000 |
+| Startup money earned back | month 1 |
 | Buyer panel | 0 buy · 20 pass |
 
 ## The idea
@@ -23,7 +23,7 @@
 - Who it is for: pemancing hobi kolam air tawar (mas, nila, lele, bawal, patin, gurame): kolam harian, kilo gebrus, galatama, lomba. Pasar nasional, fokus Jawa–Bali (gratis ongkir).
 - What it sells, at what price: botol 30 kapsul. Paket: Beli 1 = Rp129.000 (1 botol), Beli 1 Gratis 1 = Rp139.000 (2 botol), Beli 2 Gratis 1 = Rp169.000 (3 botol). Harga sudah termasuk ongkir (gratis ongkir Jawa–Bali, ongkir dibayar RAP dari harga jual). HPP dropship Rp18.450 per botol (angka dari RAP/supplier).
 - Where and how: online. Iklan Meta (FB/IG) -> landing page form.id (katalogco) -> checkout COD / transfer / VA / QRIS. Pengiriman oleh supplier (dropship).
-- Budget and constraints: total modal Rp6.000.000 untuk uji. COD tersedia; supplier tidak punya data retur (RTS); ongkir retur ditanggung RAP. Tidak ada tim, tidak ada stok (dropship). Ongkir rata-rata per paket BELUM DIKONFIRMASI: estimasi Rp20.000.
+- Budget and constraints: total modal Rp6.000.000 untuk uji. COD tersedia; supplier tidak punya data retur (RTS); ongkir retur ditanggung RAP. Tidak ada tim, tidak ada stok (dropship). Ongkir dari gudang Jakarta Rp12.000 (terdekat) s/d Rp30.000 (Bali). Barang retur kembali ke supplier dan dana dikembalikan. RAP membayar HPP di depan. RAP boleh mengubah harga jual (di atas HPP).
 
 ### Catatan konteks
 - Default pasar CLAUDE.md (wisatawan Jawa Tengah) TIDAK berlaku untuk bisnis ini.
@@ -32,21 +32,21 @@
 
 ## Summary
 
-**Verdict: Not yet.** Yang gagal: 0 dari 20 pembeli simulasi membeli (batas 25%). Angka CFO di atas kertas lolos, tetapi tipis: setiap order yang diterima hanya menyisakan Rp3.502 (2%) di asumsi CPA Rp50.000 dan retur COD 25%. Break-even 2 order diterima per hari; proyeksi tahun 1 Rp7,0 juta adalah ilustrasi dari angka estimasi.
+**Verdict: Not yet.** Yang gagal: 0 dari 20 pembeli simulasi membeli, baik dengan penawaran supplier (v1) maupun penawaran yang diperbaiki (v2). Batasnya 25%. Angka CFO lolos tetapi tipis: dengan paket 2 botol Rp139.000 dan 3 botol Rp169.000, setiap order diterima menyisakan Rp14.310 (9%) pada CPA Rp45.000 dan RTS 25%. CPA maksimum impas Rp55.733. Proyeksi tahun 1 hanya ilustrasi.
 
-**Apa yang harus berubah dulu:** bukti dan kepercayaan, bukan budget iklan. Penolakan panel terbagi dua: harga (10 dari 20, "Rp129 ribu untuk satu botol essen") dan kepercayaan (9 dari 20, "tidak ada nama toko, komposisi, atau testimoni"). Perbaikan: video uji kolam milik RAP, landing page sendiri dengan nama toko dan WA, dan paket 3 botol sebagai default (Rp56.333/botol, sekitar Rp2.500 per sesi). Skill: founder-offer, founder-pricing (sudah ditulis).
+**Apa yang harus berubah dulu:** bukti dari pihak ketiga. Di v2, menghapus opsi 1 botol Rp129.000 menurunkan keluhan harga (10 → 7), tetapi keluhan kepercayaan naik (9 → 10). Video dari pemilik toko tidak dipercaya; yang dipercaya adalah teman sekolam dan posting di grup FB mancing lokal. Hampir semua pembeli simulasi minta 1 botol Rp30.000–60.000 untuk coba, dan harga itu tidak bisa menanggung iklan Meta. Jadi langkah pertama adalah jual eceran secara organik untuk mendapatkan testimoni, lalu iklan.
 
-**Bisnis ini:** dropship essen umpan pancing berbentuk kapsul untuk pemancing kolam di Jawa–Bali, dijual lewat Meta Ads ke landing page dengan COD.
+**Bisnis ini:** dropship essen umpan pancing kapsul untuk pemancing kolam di Jawa–Bali, lewat Meta Ads ke landing page, COD.
 
-**Board dan panel sepakat:** tidak ada bukti, dan harga sekitar 3x essen cair. Board (2 FUND IF, 1 PASS) menambahkan: produk ini komoditas antar-reseller, dan RAP tidak memiliki apa pun yang bisa dipertahankan. Bedanya, board melihat celah format kapsul, sedangkan panel tidak menganggap kapsul cukup berharga untuk membayar selisih harganya.
+**Board dan panel sepakat:** masalah utamanya bukti, dan produk ini mudah ditiru reseller lain. Board (2 FUND IF, 1 PASS) melihat format kapsul sebagai celah, sedangkan panel belum mau membayar untuk itu.
 
-**Risiko terbesar:** CPA dan RTS nyata. Di CPA Rp75.000 dan RTS 35%, uji Rp3 juta rugi sekitar Rp1,39 juta. Penangkalnya adalah stop-loss tertulis di `cfo.md` dan batas rugi total Rp2 juta.
+**Risiko terbesar:** CPA dan RTS nyata, ditambah kas yang tertahan karena RAP membayar di depan (sekitar Rp2–2,5 juta saat puncak). Terburuk (CPA Rp75.000, RTS 35%) uji Rp2,5 juta rugi ~Rp1,05 juta. Penangkal: stop-loss di `cfo.md`, batas rugi Rp1,5 juta.
 
-**Yang dibutuhkan:** maksimal Rp3 juta iklan dalam dua fase, Rp1 juta cadangan retur, Rp0,5 juta produk dan kreatif, dan Rp1,5 juta talangan COD. Sisa modal tidak disentuh.
+**Yang dibutuhkan:** iklan Rp2,5 juta dalam dua fase, talangan Rp2,5 juta, produk/kreatif Rp0,5 juta, cadangan retur Rp0,5 juta.
 
-**Satu hal minggu ini:** beli 1 paket lewat jalur pembeli dan pakai sendiri di kolam. Kalau RAP tidak melihat bedanya, hentikan uji sebelum mengeluarkan uang untuk iklan.
+**Satu hal minggu ini:** beli 1 paket, uji di kolam, posting jujur di 3–5 grup FB mancing lokal, dan tawarkan 1 botol Rp59.000 lewat WA. Kalau dalam 7 hari tidak ada yang membeli eceran, jangan pasang iklan.
 
-*Panel adalah pembeli simulasi dan angkanya proyeksi; pembeli nyata dan tarif nyata yang mengonfirmasi. Bukan nasihat keuangan, hukum, atau pajak.*
+*Panel adalah pembeli simulasi dan angkanya proyeksi. Bukan nasihat keuangan, hukum, atau pajak.*
 
 ## What the board said
 
@@ -190,38 +190,49 @@ These are simulated buyers, not customers. Use this to find objections and weak 
 
 ## Pricing
 
-**Kesimpulan:** jangan jual "1 botol Rp129.000" sebagai penawaran utama. Panel menilai rentang wajar per botol Rp15.000–70.000 (PME Rp70.188), sehingga Rp129.000 jauh di atasnya, dan 0 dari 20 pembeli simulasi membeli. Masalahnya: menurunkan harga per order juga mematikan iklan, karena Meta Ads + COD butuh nilai order sekitar Rp140.000+ agar CPA Rp50.000 masih tertutup. Jalan keluarnya adalah **jual paket, bicara per botol dan per sesi**: 3 botol Rp169.000 = Rp56.333/botol (masuk rentang wajar) = sekitar Rp2.800 per sesi mancing. Keyakinan: sedang.
+**Kesimpulan:** untuk iklan Meta, pakai **2 paket saja: 2 botol Rp139.000 dan 3 botol Rp169.000 (default)**, tanpa opsi 1 botol. Ini struktur dengan margin tertinggi yang saya hitung; menurunkan harga atau menambah botol justru menurunkan batas CPA. Tetapi panel kedua juga 0/20, dan permintaan yang paling sering adalah **1 botol Rp30.000–60.000**. Harga segitu tidak bisa menanggung iklan Meta. Artinya masalahnya bukan angka harga, melainkan **kanal**: produk ini lebih cocok dijual eceran di marketplace atau dititip di toko pancing. Keyakinan: sedang.
 
 ### 1. Bukti
-- Panel (20 pembeli simulasi, `pricing-curve.md`): PMC Rp15.019, OPP Rp25.125, IPP Rp40.219, PME Rp70.188. Median "terlalu mahal" Rp90.000. Simulasi = batas atas, bukan bukti.
-- Kompetitor (`competitors.md`): essen cair harian Rp18.000–55.000/botol, premium lomba Rp96.000–450.000.
-- CFO: margin sebelum iklan dan retur per paket (ongkir estimasi Rp20.000, COD 3%): 1 botol Rp86.680; 2 botol Rp77.930; 3 botol Rp88.580. Paket 2 botol justru paling tipis.
+- Panel v1 (pitch supplier, ada opsi 1 botol Rp129.000): 0/20, PME Rp70.188 per botol. Alasan: harga 10, trust 9.
+- Panel v2 (tanpa 1 botol, ada nama toko, video pemilik, per sesi, bonus prabayar): 0/20, PME Rp70.048, OPP Rp59.717, IPP Rp40.403 (`pricing-curve-v2.md`). Alasan bergeser: **trust 10, harga 7, kebiasaan 3**. Menghapus jangkar Rp129.000 mengurangi keluhan harga, tetapi tidak menambah pembeli.
+- Catatan metode: 2 dari 20 pembeli v2 menjawab harga per paket, bukan per botol, sehingga kurvanya sedikit bias ke atas.
+- Video dari pemilik toko tidak cukup: beberapa pembeli simulasi menyebutnya "belum tentu berhasil di kolam saya". Yang mereka percaya adalah teman sekolam atau grup Facebook mancing lokal.
 
-### 2. Rangkaian harga (pakai harga supplier, ubah penyajiannya)
-| Paket | Harga | Per botol | Per sesi* | Peran |
+### 2. Perbandingan struktur (ongkir rata-rata Rp18.325, COD 3%, HPP kembali saat retur)
+| Struktur | Harga rata-rata | Per botol | Margin sebelum iklan | CPA maks impas (RTS 25%) |
 |---|---|---|---|---|
-| Coba: 1 botol | Rp129.000 | Rp129.000 | ~Rp5.700 | jangkar, jangan didorong |
-| **Hemat: 2 botol** | Rp139.000 | Rp69.500 | ~Rp3.100 | "paling banyak dipilih" (hanya tulis kalau memang benar) |
-| **Juragan: 3 botol** | Rp169.000 | Rp56.333 | ~Rp2.500 | default di form, margin terbaik |
-*Asumsi 1,5 kapsul per sesi (halaman: 1–2 kapsul). Bandingkan dengan tiket kolam Rp30.000–60.000 per sesi.
+| **B: 2 btl Rp139rb / 3 btl Rp169rb (35/65)** | Rp158.500 | Rp59.811 | Rp86.528 | **Rp55.733** |
+| A: 2 btl Rp129rb / 4 btl Rp179rb (30/70) | Rp164.000 | Rp48.235 | Rp77.650 | Rp48.888 |
+| C: 3 btl Rp149rb / 5 btl Rp199rb (40/60) | Rp179.000 | Rp42.619 | Rp76.740 | Rp47.855 |
+| 1 botol Rp59.000 | Rp59.000 | Rp59.000 | ~Rp20.455 | ~Rp6.200 (tidak layak iklan) |
 
-### 3. Penawaran pembuka
-Bonus gratis non-diskon untuk 2 minggu pertama dengan tanggal berakhir yang nyata (mis. panduan racikan PDF + masuk grup WA "lapor strike"). Jangan pakai countdown palsu: timer "Flash Sale" di halaman supplier menunjukkan 0 dan "Tersisa 30" tidak bisa dibuktikan.
+A dan C hanya lebih baik kalau harga per botol yang lebih murah menurunkan CPA lebih dari ~Rp7.000. Itu belum terbukti, jadi B dipakai dulu.
 
-### 4. Yang diuji dengan pembeli nyata
-- A: tiga paket seperti di atas, 3 botol dipilih otomatis.
-- B: hanya 2 paket (2 dan 3 botol), tanpa opsi 1 botol.
-Ukur: CPA per order masuk, % paket 3 botol, RTS. **Tanyakan ke supplier apakah RAP boleh mengubah harga jual di landing page sendiri**; kalau boleh, uji juga 2 botol Rp149.000 (menaikkan margin paket tengah).
+### 3. Rangkaian harga yang direkomendasikan
+| Kanal | Paket | Harga |
+|---|---|---|
+| Meta Ads → landing page | Hemat 2 botol | Rp139.000 |
+| Meta Ads → landing page | **Juragan 3 botol (default)** | Rp169.000 (~Rp2.500/sesi) |
+| Fase 2, hanya jika CPA uji B > Rp55.000 | 4 botol (120 kapsul) | Rp179.000 |
+| Marketplace / toko pancing (kanal kedua, tanpa iklan) | 1 botol | Rp49.000–59.000 (ESTIMASI, cek biaya platform & aturan dropship) |
 
-### 5. Keberatan harga dari panel (verbatim)
-- "Rp129 ribu buat satu botol essen? Di Shopee essen ikan mas yang terjual ribuan cuma 15–30 ribu" (P004)
-- "Seratus tiga puluh ribu buat essen itu sama dengan dua hari kerja saya" (P006)
-- "Rp129 ribu buat satu botol essen yang toko dan komposisinya saja nggak jelas, mending uangnya buat tiket galatama." (P001)
+### 4. Penawaran pembuka
+Bonus non-diskon (panduan racikan + grup WA) untuk prabayar, dengan tanggal akhir nyata. Tanpa countdown palsu.
 
-### Catatan "paket coba kecil"
-11 dari 20 pembeli simulasi minta ukuran coba Rp15.000–50.000. Sebagai dropshipper, RAP tidak bisa membuatnya, dan harga segitu tidak menutup iklan. Ini sinyal bahwa produk ini lebih cocok dijual di marketplace/toko pancing daripada lewat iklan COD.
+### 5. Yang diuji dengan pembeli nyata
+1. Organik dulu (Rp0): posting video uji di 3–5 grup FB pemancing lokal, tawarkan 1 botol Rp59.000 lewat WA. Ini menguji permintaan dan memberi testimoni pihak ketiga.
+2. Meta Fase 1 dengan struktur B.
+3. Fase 2 hanya jika lulus gerbang CFO.
+
+### 6. Keberatan harga verbatim (v2)
+- "Paket paling murah Rp139 ribu, padahal essen di Shopee Rp20-30 ribu sudah banyak yang terjual ribuan." (P004)
+- "Seratus enam puluh ribu itu uang makan saya..." (v2 panel, lihat `panel-v2/results.md`)
+- Panel v1: "Rp129 ribu buat satu botol essen? Di Shopee essen ikan mas yang terjual ribuan cuma 15–30 ribu" (P004)
 
 ## The offer
+
+> **Pembaruan v2 (27 Nov 2026):** opsi 1 botol dihapus dari iklan; paket 2 botol Rp139.000 dan 3 botol Rp169.000 (default). Panel ulang dengan nama toko, video pemilik, harga per sesi, dan bonus prabayar tetap 0/20, tetapi alasan bergeser ke kepercayaan (10/20). Pelajaran: **video dari pemilik toko tidak dipercaya**. Bukti harus datang dari pihak ketiga: posting strike pembeli di grup FB mancing lokal, atau pemancing kolam yang dikenal. Jadi langkah pertama adalah menjual beberapa botol secara organik (eceran lewat WA/grup FB) untuk mengumpulkan testimoni nyata sebelum iklan berbayar.
+
 
 **Kesimpulan:** penawaran saat ini gagal di "likelihood" (tidak ada bukti). Perbaikan termurah dan terbesar adalah bukti milik RAP sendiri: video uji kolam, nama toko, kontak WA, dan cara pakai yang jelas. Bonus dan garansi hanya membantu setelah itu. Keyakinan: tinggi untuk diagnosis, sedang untuk dampaknya.
 
@@ -252,51 +263,52 @@ Ukur: CPA per order masuk, % paket 3 botol, RTS. **Tanyakan ke supplier apakah R
 "Paket Juragan Anti-Zonk: 3 botol, 90 kapsul, ~Rp2.500 per sesi".
 
 ### Uji ulang panel
-Tidak dijalankan. Perbaikan utamanya (video bukti) tidak bisa "dilihat" pembeli simulasi, jadi uji ulang hanya akan mengukur kecenderungan model untuk setuju. Uji yang benar adalah iklan nyata kecil (lihat `launch.md`).
+v2 dijalankan dengan 20 kartu yang sama (seed 7), `panel-v2/results.md`: 0/20 membeli. Alasan: trust 10, harga 7, kebiasaan 3. Permintaan yang paling sering: 1 botol Rp30.000–60.000 untuk coba, dan bukti dari teman sekolam/grup FB. Uji yang benar tetap pembeli nyata (lihat `launch.md`).
 
 ## The numbers
 
-**Kesimpulan:** di asumsi dasar (CPA Rp50.000, RTS 25%) setiap order yang diterima hanya menyisakan **Rp3.502 (2%)**. Ini praktis impas: harga turun 10% atau biaya naik 15% langsung rugi. Bisnis ini hidup atau mati di dua angka yang belum ada datanya: **CPA dan RTS**. Keyakinan: tinggi untuk strukturnya, rendah untuk angkanya (semua estimasi).
+**Kesimpulan:** data supplier memperbaiki angka, tetapi belum mengubah gambaran besarnya. Dengan paket 2/3 botol, ongkir rata-rata Rp18.325, dan HPP yang dikembalikan saat retur, setiap order diterima menyisakan **Rp14.310 (9%)** pada CPA Rp45.000 dan RTS 25%. Batas impasnya **CPA Rp55.733 per order masuk**. Turun harga 10% atau biaya naik 15% masih membuat rugi. Keyakinan: tinggi untuk strukturnya, rendah untuk CPA dan RTS (belum ada data nyata).
 
-- **Margin:** sebelum iklan dan retur, satu order rata-rata (Rp149.500) menyisakan Rp83.502. Iklan dan retur memakan hampir semuanya.
-- **Angka yang harus dijaga: CPA maksimum per order masuk** (impas):
+**Apa yang berubah dari v1:** ongkir lebih murah (Rp18.325 vs estimasi Rp20.000), opsi 1 botol dihapus, dan supplier memastikan HPP kembali saat retur. Margin naik dari 2% ke 9%, sebagian karena target CPA diturunkan ke Rp45.000. Pada CPA Rp50.000 sisa per order masih Rp7.644.
 
-| RTS | CPA maks | Laba per order diterima @ CPA 30rb / 40rb / 50rb / 60rb / 75rb |
+### Laba per order diterima menurut CPA × RTS
+| RTS | CPA maks impas | CPA 30rb / 40rb / 45rb / 50rb / 60rb / 75rb |
 |---|---|---|
-| 15% | Rp64.977 | 41.149 / 29.384 / 17.620 / 5.855 / -11.792 |
-| 25% | Rp52.626 | 30.169 / 16.835 / 3.502 / -9.831 / -29.831 |
-| 35% | Rp40.276 | 15.810 / 425 / -14.960 / -30.344 / -53.421 |
+| 15% | Rp68.050 | 44.765 / 33.001 / 27.118 / 21.236 / 9.471 / -8.176 |
+| 25% | Rp55.733 | 34.310 / 20.977 / 14.310 / 7.644 / -5.690 / -25.690 |
+| 35% | Rp43.415 | 20.639 / 5.254 / -2.438 / -10.131 / -25.515 / -48.592 |
 
-- **Skenario uji iklan Rp3.000.000:** terbaik (CPA 35rb, RTS 15%) ≈ 86 order, laba ~Rp2,57 juta; dasar (50rb, 25%) ≈ 60 order, laba ~Rp158 ribu; **terburuk (75rb, 35%) ≈ 40 order, rugi ~Rp1,39 juta**, belum termasuk biaya kreatif.
-- **Kas:** Rp1,5 juta awal (kreatif + cadangan retur) + iklan. Pertanyaan penting yang belum terjawab: **apakah RAP membayar HPP+ongkir ke supplier di depan, atau dipotong dari pencairan COD?** Kalau di depan, 60 order butuh dana talangan sekitar Rp3,7 juta selama 7–14 hari pencairan COD.
+### Uji iklan Rp2.500.000
+- Terbaik (CPA Rp35rb, RTS 15%): ~71 order, 61 diterima, laba ~Rp2,36 juta.
+- Dasar (CPA Rp45rb, RTS 25%): ~56 order, 42 diterima, laba ~Rp596 ribu.
+- **Terburuk (CPA Rp75rb, RTS 35%): ~33 order, 22 diterima, rugi ~Rp1,05 juta**, ditambah Rp0,5 juta kreatif.
 
-**Rekomendasi pembagian modal Rp6.000.000:**
-| Pos | Jumlah | Catatan |
-|---|---|---|
-| Fase 1 iklan (hari 1–7) | Rp1.500.000 | ~Rp200rb/hari, 3 kreatif |
-| Fase 2 iklan (hari 8–21) | Rp1.500.000 | hanya jika lulus gerbang di bawah |
-| Cadangan ongkir retur | Rp1.000.000 | |
-| Produk uji + kreatif | Rp500.000 | |
-| Dana talangan COD / tidak disentuh | Rp1.500.000 | |
+### Kas: bayar di depan
+Setiap order menahan sekitar **Rp67.218** (HPP Rp48.893 + ongkir Rp18.325) sampai COD cair, dan ini perlu dikonfirmasi apakah ongkir juga dibayar di depan. Kalau 56 order tersebar dalam 3 minggu dan pencairan COD 10–14 hari, uang yang tertahan pada puncaknya sekitar **Rp2–2,5 juta**. Dana retur (HPP) kembali lebih lambat lagi.
 
-**Stop-loss tertulis:**
-1. Satu kreatif dimatikan jika sudah habis Rp150.000 tanpa order.
-2. Setelah Rp750.000 di fase 1: CPA > Rp70.000 → hentikan semua, evaluasi.
-3. Masuk fase 2 hanya jika CPA ≤ Rp45.000 **dan** RTS terukur (≥20 paket selesai) ≤ 25%.
-4. Batas rugi total uji: **Rp2.000.000**. Lewat itu, berhenti, apa pun kata intuisi.
+### Pembagian modal Rp6.000.000 (revisi)
+| Pos | Jumlah |
+|---|---|
+| Iklan Fase 1 (7 hari, ~Rp170rb/hari) | Rp1.200.000 |
+| Iklan Fase 2 (14 hari, hanya jika lulus gerbang) | Rp1.300.000 |
+| Talangan HPP + ongkir (bayar di depan) | Rp2.500.000 |
+| Produk uji + kreatif | Rp500.000 |
+| Cadangan rugi ongkir retur | Rp500.000 |
 
-**Tiga cara memperbaiki margin** (dihitung, bukan tebakan):
-1. Turunkan RTS 25% → 15% (konfirmasi WA sebelum kirim, dorong prabayar): CPA maks naik dari Rp52.626 ke Rp64.977; laba per order @CPA 50rb naik dari Rp3.502 ke Rp17.620.
-2. Turunkan CPA 50rb → 40rb (video bukti, kreatif lebih baik): laba per order naik ke Rp16.835 (RTS 25%).
-3. Naikkan porsi paket 3 botol / hapus opsi 1 botol: margin sebelum iklan paket 3 botol Rp88.580 vs paket 2 botol Rp77.930.
+**Stop-loss:** (1) kreatif mati setelah Rp150rb tanpa order; (2) setelah Rp600rb, CPA > Rp65.000 → stop; (3) Fase 2 hanya jika CPA ≤ Rp45.000 dan RTS ≤ 25% dari ≥20 paket selesai; (4) **batas rugi total Rp1.500.000**.
 
-**Syarat board soal uang:** stop-loss dan budget di depan: terpenuhi di dokumen ini. Konfirmasi ongkir nyata, kebijakan retur, dan arus kas supplier: **belum**.
+### Tiga cara memperbaiki margin (dihitung)
+1. RTS 25% → 15% (konfirmasi WA, bonus prabayar): CPA maks Rp55.733 → Rp68.050; laba @CPA 45rb Rp14.310 → Rp27.118.
+2. CPA 45rb → 35rb: laba per order naik ~Rp13.333 (RTS 25%).
+3. Porsi 3 botol 65% → 85%: margin sebelum iklan paket 3 botol ~Rp90.255 vs 2 botol ~Rp79.605, jadi rata-rata naik ~Rp2.130 per order.
 
-Catatan: ini bukan nasihat keuangan atau pajak; cek ke akuntan sebelum skala besar. Proyeksi 12 bulan di bawah hanya ilustrasi; untuk dropship uji, yang penting adalah tabel CPA × RTS di atas.
+**Syarat board soal uang:** budget, stop-loss, ongkir nyata, dan kebijakan retur sudah terpenuhi. Arus kas COD (lama pencairan, apakah ongkir dibayar di depan) belum.
+
+Bukan nasihat keuangan atau pajak. Proyeksi 12 bulan di bawah hanya ilustrasi dari tool.
 
 ---
 
-## Unit economics: Fertani Essen Ikan (dropship, Meta Ads ke landing page, COD)
+## Unit economics: Fertani Essen Ikan (dropship, Meta Ads ke landing page, COD) - penawaran v2
 
 Every number below comes from the input file. Nothing is looked up or guessed.
 
@@ -304,57 +316,57 @@ Every number below comes from the input file. Nothing is looked up or guessed.
 
 | line | per order diterima pembeli |
 | --- | ---: |
-| Price | Rp149.500 |
-| HPP rata-rata 2,25 botol x Rp18.450 (mix paket 15/45/40, ESTIMASI mix) | -Rp41.513 |
-| Ongkir kirim (ESTIMASI Rp20.000, belum dikonfirmasi) | -Rp20.000 |
-| Biaya COD 3% (ESTIMASI) | -Rp4.485 |
-| Kerugian retur COD dibebankan ke order diterima: RTS 25% x ongkir 2 arah Rp40.000 / 0,75 (ESTIMASI) | -Rp13.333 |
-| Iklan Meta: CPA Rp50.000 per order masuk / 0,75 diterima (ESTIMASI) | -Rp66.667 |
-| **Contribution** (what each order diterima pembeli leaves to pay the fixed costs) | **Rp3.502** (2%) |
+| Price | Rp158.500 |
+| HPP rata-rata 2,65 botol x Rp18.450 (mix 35% paket 2 botol / 65% paket 3 botol, ASUMSI mix) | -Rp48.893 |
+| Ongkir kirim rata-rata (ESTIMASI tertimbang dari Rp12.000 Jakarta s/d Rp30.000 Bali) | -Rp18.325 |
+| Biaya COD 3% (ESTIMASI) | -Rp4.755 |
+| Kerugian retur: RTS 25% x ongkir 2 arah Rp36.650 / 0,75 (HPP dikembalikan supplier) | -Rp12.217 |
+| Iklan Meta: CPA Rp45.000 per order masuk / 0,75 diterima (ESTIMASI) | -Rp60.000 |
+| **Contribution** (what each order diterima pembeli leaves to pay the fixed costs) | **Rp14.310** (9%) |
 
 ### The margin that matters
 
 Fixed costs: Rp150.000 a month (Landing page / form builder + domain (ESTIMASI) Rp150.000).
 
-- **Break-even: 2 order diterima pembelis a day.** Below that you lose money every month.
-- **Profit margin at your plan** (8 a day): **2%** of every sale, after every cost.
+- **Break-even: 1 order diterima pembelis a day.** Below that you lose money every month.
+- **Profit margin at your plan** (6 a day): **9%** of every sale, after every cost.
 
 ### Year 1, month by month
 
-| month | order diterima pembelis a day | revenue | profit | cumulative (after Rp1.500.000 startup) |
+| month | order diterima pembelis a day | revenue | profit | cumulative (after Rp500.000 startup) |
 | ---: | ---: | ---: | ---: | ---: |
-| 1 | 2 | Rp8.970.000 | Rp60.120 | -Rp1.439.880 |
-| 2 | 4 | Rp17.940.000 | Rp270.240 | -Rp1.169.640 |
-| 3 | 6 | Rp26.910.000 | Rp480.360 | -Rp689.280 |
-| 4 | 8 | Rp35.880.000 | Rp690.480 | Rp1.200 |
-| 5 | 8 | Rp35.880.000 | Rp690.480 | Rp691.680 |
-| 6 | 8 | Rp35.880.000 | Rp690.480 | Rp1.382.160 |
-| 7 | 8 | Rp35.880.000 | Rp690.480 | Rp2.072.640 |
-| 8 | 8 | Rp35.880.000 | Rp690.480 | Rp2.763.120 |
-| 9 | 8 | Rp35.880.000 | Rp690.480 | Rp3.453.600 |
-| 10 | 8 | Rp35.880.000 | Rp690.480 | Rp4.144.080 |
-| 11 | 8 | Rp35.880.000 | Rp690.480 | Rp4.834.560 |
-| 12 | 8 | Rp35.880.000 | Rp690.480 | Rp5.525.040 |
+| 1 | 2 | Rp9.510.000 | Rp708.600 | Rp208.600 |
+| 2 | 3 | Rp14.265.000 | Rp1.137.900 | Rp1.346.500 |
+| 3 | 4 | Rp19.020.000 | Rp1.567.200 | Rp2.913.700 |
+| 4 | 5 | Rp23.775.000 | Rp1.996.500 | Rp4.910.200 |
+| 5 | 6 | Rp28.530.000 | Rp2.425.800 | Rp7.336.000 |
+| 6 | 6 | Rp28.530.000 | Rp2.425.800 | Rp9.761.800 |
+| 7 | 6 | Rp28.530.000 | Rp2.425.800 | Rp12.187.600 |
+| 8 | 6 | Rp28.530.000 | Rp2.425.800 | Rp14.613.400 |
+| 9 | 6 | Rp28.530.000 | Rp2.425.800 | Rp17.039.200 |
+| 10 | 6 | Rp28.530.000 | Rp2.425.800 | Rp19.465.000 |
+| 11 | 6 | Rp28.530.000 | Rp2.425.800 | Rp21.890.800 |
+| 12 | 6 | Rp28.530.000 | Rp2.425.800 | Rp24.316.600 |
 
-- **Year 1 operating profit: Rp7.025.040** on Rp376.740.000 of revenue.
-- After the Rp1.500.000 startup spend: Rp5.525.040.
-- Startup money earned back: month 4.
-- Cash you need before it pays for itself: **Rp1.500.000**.
+- **Year 1 operating profit: Rp24.816.600** on Rp294.810.000 of revenue.
+- After the Rp500.000 startup spend: Rp24.316.600.
+- Startup money earned back: month 1.
+- Cash you need before it pays for itself: **Rp500.000**.
 
 ### What if
 
 | scenario | margin at plan | break-even a day | year 1 profit |
 | --- | ---: | ---: | ---: |
-| Base plan | 2% | 2 | Rp7.025.040 |
-| Price -10% | -9% | never | -Rp30.648.960 |
-| Volume -20% | 2% | 2 | Rp5.260.032 |
-| Unit costs +15% | -13% | never | -Rp48.162.204 |
+| Base plan | 9% | 1 | Rp24.816.600 |
+| Price -10% | -2% | never | -Rp4.664.400 |
+| Volume -20% | 8% | 1 | Rp19.493.280 |
+| Unit costs +15% | -5% | never | -Rp15.412.410 |
 
-Tool tidak memberi red flag, tetapi margin 2% dan sensitivitas di atas adalah red flag menurut CFO. They are only as good as the inputs: check every cost against a real quote.
+No red flags in these numbers. They are only as good as the inputs: check every cost against a real quote.
 
 ## Marketing
 
-**Kesimpulan:** satu-satunya pesan yang layak diuji adalah **bukti + praktis**: video asli di kolam, lalu "tidak tumpah, tidak bau, takaran pasti". Jangan berjualan "ikan pasti nyambar". Target CPA ≤ Rp45.000 per order masuk; di atas Rp52.626 rugi (RTS 25%). Keyakinan: sedang.
+**Kesimpulan:** satu-satunya pesan yang layak diuji adalah **bukti + praktis**: video asli di kolam, lalu "tidak tumpah, tidak bau, takaran pasti". Jangan berjualan "ikan pasti nyambar". Target CPA ≤ Rp45.000 per order masuk; di atas Rp55.733 rugi (RTS 25%, paket 2/3 botol). Keyakinan: sedang.
 
 ### Posisi
 "Essen kapsul untuk pemancing kolam yang malas ribet: buka, campur, lempar. Tambahan untuk racikanmu, ~Rp2.500 per sesi." Bukan essen juara lomba (pembeli lomba skeptis dan setia pada merek terbukti).
@@ -390,26 +402,26 @@ Produk ini **umpan pancing, bukan kesehatan**: BPOM tidak relevan dan kebijakan 
 | Tanggal | Kegiatan |
 |---|---|
 | 30 Nov–5 Des | Order 1 paket via jalur pembeli, mancing & rekam di kolam harian, bikin 3 video (hook 1, 2, 4), siapkan landing page sendiri + WA. Cek Meta Ad Library untuk "Fertani" dan "essen kapsul" |
-| 7–13 Des (Fase 1) | 1 kampanye, 1 ad set, 3 kreatif, Rp200rb/hari. Konfirmasi setiap order via WA dalam 1 jam |
+| 7–13 Des (Fase 1) | 1 kampanye, 1 ad set, 3 kreatif, ~Rp170rb/hari. Konfirmasi setiap order via WA dalam 1 jam |
 | 14 Des | Evaluasi gerbang (CPA, % paket 3 botol, RTS awal). Matikan yang kalah |
 | 14–27 Des (Fase 2) | Hanya jika lulus: pemenang + 3 kreatif baru (hook 3, 5, 6), naik maks 20%/2 hari |
 | 21–27 Des | Libur sekolah/Natal: niat mancing biasanya naik (asumsi). Hari ke-14 pertama minta video dari pembeli di grup WA |
 
 ### Split budget
-Fase 1 Rp1,5 juta: 3 kreatif × ~Rp500rb. Fase 2 Rp1,5 juta: 70% ke pemenang, 30% uji kreatif baru.
+Fase 1 Rp1,2 juta: 3 kreatif × ~Rp400rb. Fase 2 Rp1,3 juta: 70% ke pemenang, 30% uji kreatif baru. Kreatif terbaik kemungkinan adalah repost video strike dari pembeli organik (dengan izin), bukan video pemilik toko.
 
 ### Angka yang dipantau harian
 CPM, CTR link (target ≥1,5%), biaya per klik, konversi landing page (target ≥2%), **CPA per order masuk (≤Rp45.000)**, % paket 3 botol (≥40%), % order terkonfirmasi WA, dan RTS per minggu (≤25%).
 
 ## Launch plan
 
-**Kesimpulan:** uji 3 minggu dengan maksimal Rp3 juta iklan dan batas rugi Rp2 juta. Jangan mulai iklan sebelum 4 hal ini beres: video bukti sendiri, landing page sendiri, jawaban supplier soal ongkir/retur/arus kas, dan lembar catatan order. Keyakinan: tinggi.
+**Kesimpulan (v2):** mulai dari uji organik Rp0 (jual eceran lewat grup FB + WA) untuk mengumpulkan testimoni pihak ketiga, lalu uji iklan 3 minggu maksimal Rp2,5 juta dengan batas rugi Rp1,5 juta dan talangan Rp2,5 juta. Jangan mulai iklan sebelum 4 hal ini beres: video bukti sendiri, landing page sendiri, jawaban supplier soal ongkir/retur/arus kas, dan lembar catatan order. Keyakinan: tinggi.
 
 ### Uji murah dulu (sebelum iklan, minggu 30 Nov–5 Des)
 1. Beli 1 paket lewat jalur pembeli: catat lama kirim, kondisi paket, nama pengirim, dan apakah ada isi selain botol.
 2. Pakai sendiri 2–3 sesi di kolam harian. **Kalau RAP sendiri tidak melihat bedanya, berhenti di sini** (hemat ~Rp5,8 juta).
-3. Posting video jujur di 2–3 grup Facebook pemancing lokal (organik, Rp0): lihat komentar dan DM. Ini uji minat termurah.
-4. Tanyakan supplier secara tertulis: tarif ongkir per zona, siapa yang menerima barang retur dan apakah HPP dikembalikan, RAP bayar di depan atau dipotong dari COD, berapa lama pencairan, boleh tidak ubah harga jual, produsen dan komposisi.
+3. Posting video jujur di 3–5 grup Facebook pemancing lokal (organik, Rp0) dan tawarkan 1 botol Rp59.000 lewat WA. Target: 10 botol terjual dan minimal 3 pembeli mau posting hasil strike. Kalau dalam 7 hari tidak ada yang beli eceran, iklan Rp139.000+ hampir pasti gagal.
+4. Sudah dijawab supplier: ongkir Rp12.000–30.000, retur kembali ke supplier dan dana dikembalikan, RAP bayar di depan, harga boleh diubah. Masih perlu: lama pencairan COD, apakah ongkir juga dibayar di depan, produsen dan komposisi (untuk menjawab keberatan trust).
 
 ### Hitung mundur
 | Kapan | Apa | Pemilik |
@@ -428,13 +440,13 @@ CPM, CTR link (target ≥1,5%), biaya per klik, konversi landing page (target �
 | Hari | Cek | Keputusan |
 |---|---|---|
 | Tiap hari | Spend per kreatif, order | Matikan kreatif Rp150rb tanpa order |
-| Hari 4 (~Rp750rb) | CPA | > Rp70.000 → stop total |
+| Hari 4 (~Rp600rb) | CPA | > Rp65.000 → stop total |
 | Hari 7 | CPA, % paket 3 botol | CPA ≤ Rp45.000 → siapkan fase 2 |
 | Hari 10–14 | RTS dari ≥20 paket selesai | RTS ≤ 25% → fase 2 jalan; > 35% → stop |
 | Hari 21 | Laba nyata (order diterima × margin − iklan − retur) | Lanjut, ubah, atau berhenti |
 | Hari 30 | Repeat order dari grup WA, ulasan | Kalau lanjut: minta eksklusivitas/label sendiri ke supplier, buka toko Shopee/TikTok Shop sebagai kanal kedua |
 
-Batas rugi total: **Rp2.000.000**. Lewat itu berhenti.
+Batas rugi total: **Rp1.500.000**. Lewat itu berhenti. Paket iklan: 2 botol Rp139.000 / 3 botol Rp169.000 (default).
 
 ## Not done yet
 

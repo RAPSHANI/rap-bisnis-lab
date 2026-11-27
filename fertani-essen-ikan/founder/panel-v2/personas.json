@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Omar",
+  "age": 22,
+  "segment": "Pemancing galatama/lomba yang rutin ikut kontes",
+  "income": 118196000,
+  "behaviour": "Ikut kata teman sekolam",
+  "behaviour_how": "Membeli essen yang dipakai pemancing yang sering strike di kolam yang sama.",
+  "objection": "Takut barang tidak sampai atau beda, mending COD saja",
+  "habit": "kamu sering zonk 2–3 jam tanpa sambaran"
+ },
+ {
+  "id": "P002",
+  "name": "Raj",
+  "age": 38,
+  "segment": "Pemancing galatama/lomba yang rutin ikut kontes",
+  "income": 93832000,
+  "behaviour": "Pemancing lomba yang cari keunggulan",
+  "behaviour_how": "Mau bayar mahal untuk essen yang terbukti juara, tapi skeptis dengan produk baru tanpa nama.",
+  "objection": "Belum ada testimoni, ikan beneran makan atau cuma klaim?",
+  "habit": "kamu punya tas pancing yang pernah bau karena essen tumpah"
+ },
+ {
+  "id": "P003",
+  "name": "Emil",
+  "age": 45,
+  "segment": "Karyawan/pegawai yang mancing akhir pekan",
+  "income": 77271000,
+  "behaviour": "Pemula yang gampang tergoda iklan",
+  "behaviour_how": "Baru 1–2 tahun mancing, sering zonk, tertarik iklan yang menjanjikan ikan cepat makan.",
+  "objection": "Merek Fertani belum pernah dengar, komposisinya apa?",
+  "habit": "kamu sering zonk 2–3 jam tanpa sambaran"
+ },
+ {
+  "id": "P004",
+  "name": "Owen",
+  "age": 54,
+  "segment": "Pemilik usaha kecil, mancing untuk santai",
+  "income": 232534000,
+  "behaviour": "Pemburu murah marketplace",
+  "behaviour_how": "Membandingkan harga di Shopee/Tokopedia, beli yang Rp20–50 ribu dengan banyak terjual.",
+  "objection": "Di Shopee pasti ada yang lebih murah",
+  "habit": "kamu mancing di kolam harian dekat rumah tiap Minggu pagi"
+ },
+ {
+  "id": "P005",
+  "name": "Sana",
+  "age": 51,
+  "segment": "Pekerja harian/buruh/ojol yang mancing di kolam harian",
+  "income": 45589000,
+  "behaviour": "Ikut kata teman sekolam",
+  "behaviour_how": "Membeli essen yang dipakai pemancing yang sering strike di kolam yang sama.",
+  "objection": "Tiap kolam beda selera ikan, satu essen untuk semua ikan kok bisa",
+  "habit": "tiket kolam harian Rp30–60 ribu sekali mancing"
+ },
+ {
+  "id": "P006",
+  "name": "Maya",
+  "age": 47,
+  "segment": "Pekerja harian/buruh/ojol yang mancing di kolam harian",
+  "income": 33554000,
+  "behaviour": "Ikut kata teman sekolam",
+  "behaviour_how": "Membeli essen yang dipakai pemancing yang sering strike di kolam yang sama.",
+  "objection": "Saya biasa racik sendiri, kapsul malah ribet dibuka",
+  "habit": "kamu mancing di kolam harian dekat rumah tiap Minggu pagi"
+ },
+ {
+  "id": "P007",
+  "name": "Selin",
+  "age": 52,
+  "segment": "Pemilik usaha kecil, mancing untuk santai",
+  "income": 185143000,
+  "behaviour": "Beli di toko pancing dekat kolam",
+  "behaviour_how": "Beli essen langsung di warung/toko pancing sebelum mancing, tidak suka belanja online.",
+  "objection": "Rp129 ribu satu botol itu mahal, essen cair cuma 30–40 ribu",
+  "habit": "kamu sering zonk 2–3 jam tanpa sambaran"
+ },
+ {
+  "id": "P008",
+  "name": "Ruby",
+  "age": 26,
+  "segment": "Pekerja harian/buruh/ojol yang mancing di kolam harian",
+  "income": 47632000,
+  "behaviour": "Pemula yang gampang tergoda iklan",
+  "behaviour_how": "Baru 1–2 tahun mancing, sering zonk, tertarik iklan yang menjanjikan ikan cepat makan.",
+  "objection": "Saya biasa racik sendiri, kapsul malah ribet dibuka",
+  "habit": "kamu sering zonk 2–3 jam tanpa sambaran"
+ },
+ {
+  "id": "P009",
+  "name": "Nora",
+  "age": 29,
+  "segment": "Karyawan/pegawai yang mancing akhir pekan",
+  "income": 64323000,
+  "behaviour": "Ikut kata teman sekolam",
+  "behaviour_how": "Membeli essen yang dipakai pemancing yang sering strike di kolam yang sama.",
+  "objection": "Rp129 ribu satu botol itu mahal, essen cair cuma 30–40 ribu",
+  "habit": "kamu mancing di kolam harian dekat rumah tiap Minggu pagi"
+ },
+ {
+  "id": "P010",
+  "name": "Fatima",
+  "age": 22,
+  "segment": "Pekerja harian/buruh/ojol yang mancing di kolam harian",
+  "income": 37603000,
+  "behaviour": "Pemburu murah marketplace",
+  "behaviour_how": "Membandingkan harga di Shopee/Tokopedia, beli yang Rp20–50 ribu dengan banyak terjual.",
+  "objection": "Takut barang tidak sampai atau beda, mending COD saja",
+  "habit": "kamu mancing di kolam harian dekat rumah tiap Minggu pagi"
+ },
+ {
+  "id": "P011",
+  "name": "Tariq",
+  "age": 45,
+  "segment": "Karyawan/pegawai yang mancing akhir pekan",
+  "income": 77459000,
+  "behaviour": "Peracik sendiri",
+  "behaviour_how": "Meracik umpan sendiri dari pelet, essen cair dan biang; bangga dengan resep sendiri.",
+  "objection": "Rp129 ribu satu botol itu mahal, essen cair cuma 30–40 ribu",
+  "habit": "kamu sering zonk 2–3 jam tanpa sambaran"
+ },
+ {
+  "id": "P012",
+  "name": "Felix",
+  "age": 46,
+  "segment": "Pekerja harian/buruh/ojol yang mancing di kolam harian",
+  "income": 27565000,
+  "behaviour": "Pemburu murah marketplace",
+  "behaviour_how": "Membandingkan harga di Shopee/Tokopedia, beli yang Rp20–50 ribu dengan banyak terjual.",
+  "objection": "Merek Fertani belum pernah dengar, komposisinya apa?",
+  "habit": "kamu ikut grup Facebook pemancing di daerahmu"
+ },
+ {
+  "id": "P013",
+  "name": "Zoe",
+  "age": 45,
+  "segment": "Pemancing galatama/lomba yang rutin ikut kontes",
+  "income": 116898000,
+  "behaviour": "Pemancing lomba yang cari keunggulan",
+  "behaviour_how": "Mau bayar mahal untuk essen yang terbukti juara, tapi skeptis dengan produk baru tanpa nama.",
+  "objection": "Rp129 ribu satu botol itu mahal, essen cair cuma 30–40 ribu",
+  "habit": "kamu punya tas pancing yang pernah bau karena essen tumpah"
+ },
+ {
+  "id": "P014",
+  "name": "Dev",
+  "age": 51,
+  "segment": "Karyawan/pegawai yang mancing akhir pekan",
+  "income": 71059000,
+  "behaviour": "Pemburu murah marketplace",
+  "behaviour_how": "Membandingkan harga di Shopee/Tokopedia, beli yang Rp20–50 ribu dengan banyak terjual.",
+  "objection": "Merek Fertani belum pernah dengar, komposisinya apa?",
+  "habit": "kamu mancing di kolam harian dekat rumah tiap Minggu pagi"
+ },
+ {
+  "id": "P015",
+  "name": "Yusuf",
+  "age": 31,
+  "segment": "Karyawan/pegawai yang mancing akhir pekan",
+  "income": 52905000,
+  "behaviour": "Beli di toko pancing dekat kolam",
+  "behaviour_how": "Beli essen langsung di warung/toko pancing sebelum mancing, tidak suka belanja online.",
+  "objection": "Merek Fertani belum pernah dengar, komposisinya apa?",
+  "habit": "kamu ikut grup Facebook pemancing di daerahmu"
+ },
+ {
+  "id": "P016",
+  "name": "Theo",
+  "age": 52,
+  "segment": "Pekerja harian/buruh/ojol yang mancing di kolam harian",
+  "income": 43893000,
+  "behaviour": "Peracik sendiri",
+  "behaviour_how": "Meracik umpan sendiri dari pelet, essen cair dan biang; bangga dengan resep sendiri.",
+  "objection": "Belum ada testimoni, ikan beneran makan atau cuma klaim?",
+  "habit": "tiket kolam harian Rp30–60 ribu sekali mancing"
+ },
+ {
+  "id": "P017",
+  "name": "Alma",
+  "age": 23,
+  "segment": "Pekerja harian/buruh/ojol yang mancing di kolam harian",
+  "income": 28925000,
+  "behaviour": "Peracik sendiri",
+  "behaviour_how": "Meracik umpan sendiri dari pelet, essen cair dan biang; bangga dengan resep sendiri.",
+  "objection": "Takut barang tidak sampai atau beda, mending COD saja",
+  "habit": "kamu ikut grup Facebook pemancing di daerahmu"
+ },
+ {
+  "id": "P018",
+  "name": "Freya",
+  "age": 31,
+  "segment": "Karyawan/pegawai yang mancing akhir pekan",
+  "income": 81123000,
+  "behaviour": "Pemula yang gampang tergoda iklan",
+  "behaviour_how": "Baru 1–2 tahun mancing, sering zonk, tertarik iklan yang menjanjikan ikan cepat makan.",
+  "objection": "Rp129 ribu satu botol itu mahal, essen cair cuma 30–40 ribu",
+  "habit": "tiket kolam harian Rp30–60 ribu sekali mancing"
+ },
+ {
+  "id": "P019",
+  "name": "Harper",
+  "age": 41,
+  "segment": "Pekerja harian/buruh/ojol yang mancing di kolam harian",
+  "income": 47484000,
+  "behaviour": "Beli di toko pancing dekat kolam",
+  "behaviour_how": "Beli essen langsung di warung/toko pancing sebelum mancing, tidak suka belanja online.",
+  "objection": "Tiap kolam beda selera ikan, satu essen untuk semua ikan kok bisa",
+  "habit": "kamu mancing di kolam harian dekat rumah tiap Minggu pagi"
+ },
+ {
+  "id": "P020",
+  "name": "Emma",
+  "age": 38,
+  "segment": "Karyawan/pegawai yang mancing akhir pekan",
+  "income": 72883000,
+  "behaviour": "Peracik sendiri",
+  "behaviour_how": "Meracik umpan sendiri dari pelet, essen cair dan biang; bangga dengan resep sendiri.",
+  "objection": "Belum ada testimoni, ikan beneran makan atau cuma klaim?",
+  "habit": "kamu ikut grup Facebook pemancing di daerahmu"
+ }
+]

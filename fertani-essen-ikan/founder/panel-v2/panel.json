@@ -1,0 +1,96 @@
+{
+ "n": 20,
+ "seed": 7,
+ "customer": {
+  "business": "Fertani Essen Ikan (dropship, iklan Meta ke landing page, COD)",
+  "target": "pemancing hobi kolam air tawar di Jawa–Bali, laki-laki 22–55 tahun, mancing di kolam harian, kilo gebrus atau galatama minimal 2x sebulan, scroll Facebook dan Instagram. Catatan: angka pendapatan di atas dalam RUPIAH per tahun (bukan dolar), dan semua harga dalam Rupiah",
+  "where": "Jawa–Bali, pembeli online lewat iklan Facebook/Instagram",
+  "age": [
+   22,
+   55
+  ],
+  "segments": [
+   {
+    "name": "Pekerja harian/buruh/ojol yang mancing di kolam harian",
+    "share": 0.4,
+    "income": [
+     24000000,
+     48000000
+    ]
+   },
+   {
+    "name": "Karyawan/pegawai yang mancing akhir pekan",
+    "share": 0.35,
+    "income": [
+     48000000,
+     96000000
+    ]
+   },
+   {
+    "name": "Pemancing galatama/lomba yang rutin ikut kontes",
+    "share": 0.15,
+    "income": [
+     60000000,
+     180000000
+    ]
+   },
+   {
+    "name": "Pemilik usaha kecil, mancing untuk santai",
+    "share": 0.1,
+    "income": [
+     90000000,
+     240000000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Peracik sendiri",
+    "share": 0.22,
+    "how": "Meracik umpan sendiri dari pelet, essen cair dan biang; bangga dengan resep sendiri."
+   },
+   {
+    "name": "Ikut kata teman sekolam",
+    "share": 0.2,
+    "how": "Membeli essen yang dipakai pemancing yang sering strike di kolam yang sama."
+   },
+   {
+    "name": "Pemburu murah marketplace",
+    "share": 0.18,
+    "how": "Membandingkan harga di Shopee/Tokopedia, beli yang Rp20–50 ribu dengan banyak terjual."
+   },
+   {
+    "name": "Pemula yang gampang tergoda iklan",
+    "share": 0.15,
+    "how": "Baru 1–2 tahun mancing, sering zonk, tertarik iklan yang menjanjikan ikan cepat makan."
+   },
+   {
+    "name": "Beli di toko pancing dekat kolam",
+    "share": 0.15,
+    "how": "Beli essen langsung di warung/toko pancing sebelum mancing, tidak suka belanja online."
+   },
+   {
+    "name": "Pemancing lomba yang cari keunggulan",
+    "share": 0.1,
+    "how": "Mau bayar mahal untuk essen yang terbukti juara, tapi skeptis dengan produk baru tanpa nama."
+   }
+  ],
+  "objections": [
+   "Rp129 ribu satu botol itu mahal, essen cair cuma 30–40 ribu",
+   "Belum ada testimoni, ikan beneran makan atau cuma klaim?",
+   "Merek Fertani belum pernah dengar, komposisinya apa?",
+   "Saya biasa racik sendiri, kapsul malah ribet dibuka",
+   "Takut barang tidak sampai atau beda, mending COD saja",
+   "Di Shopee pasti ada yang lebih murah",
+   "Tiap kolam beda selera ikan, satu essen untuk semua ikan kok bisa"
+  ],
+  "habits": [
+   "kamu mancing di kolam harian dekat rumah tiap Minggu pagi",
+   "kamu sering zonk 2–3 jam tanpa sambaran",
+   "kamu ikut grup Facebook pemancing di daerahmu",
+   "kamu punya tas pancing yang pernah bau karena essen tumpah",
+   "tiket kolam harian Rp30–60 ribu sekali mancing"
+  ]
+ },
+ "pitch": "Iklan Facebook/Instagram dengan video uji asli pemilik toko di kolam harian: \"Ikan Kolam Lagi Mogok? Buka 1 Kapsul, Campur, Lempar.\" FERTANI Essen Ikan kapsul, dijual oleh toko pancing online [nama toko], ada nomor WA untuk tanya.\n30 kapsul per botol, 1–2 kapsul per sesi: buka, campur ke adonan pelet/roti, aduk. Takaran pasti, tidak tumpah di tas, tangan tidak bau. Dipakai sebagai tambahan racikanmu, untuk mas, nila, lele, bawal, patin, gurame.\nPaket Juragan 3 botol (90 kapsul) Rp169.000, sekitar Rp56.000 per botol atau Rp2.500 per sesi mancing. Paket Hemat 2 botol (60 kapsul) Rp139.000. Gratis ongkir Jawa–Bali.\nCOD (cek dulu baru bayar), transfer, atau QRIS. Bayar transfer/QRIS dapat bonus panduan racikan per jenis ikan + grup WA \"lapor strike\". Rusak/bocor diganti.\nKomposisi tidak dicantumkan; belum ada ulasan pembeli karena toko baru."
+}

@@ -1,5 +1,8 @@
 # Penawaran: Fertani Essen Ikan
 
+> **Pembaruan v2 (27 Nov 2026):** opsi 1 botol dihapus dari iklan; paket 2 botol Rp139.000 dan 3 botol Rp169.000 (default). Panel ulang dengan nama toko, video pemilik, harga per sesi, dan bonus prabayar tetap 0/20, tetapi alasan bergeser ke kepercayaan (10/20). Pelajaran: **video dari pemilik toko tidak dipercaya**. Bukti harus datang dari pihak ketiga: posting strike pembeli di grup FB mancing lokal, atau pemancing kolam yang dikenal. Jadi langkah pertama adalah menjual beberapa botol secara organik (eceran lewat WA/grup FB) untuk mengumpulkan testimoni nyata sebelum iklan berbayar.
+
+
 **Kesimpulan:** penawaran saat ini gagal di "likelihood" (tidak ada bukti). Perbaikan termurah dan terbesar adalah bukti milik RAP sendiri: video uji kolam, nama toko, kontak WA, dan cara pakai yang jelas. Bonus dan garansi hanya membantu setelah itu. Keyakinan: tinggi untuk diagnosis, sedang untuk dampaknya.
 
 ## Masalah pembeli → solusi (biaya untuk RAP)
@@ -29,4 +32,4 @@
 "Paket Juragan Anti-Zonk: 3 botol, 90 kapsul, ~Rp2.500 per sesi".
 
 ## Uji ulang panel
-Tidak dijalankan. Perbaikan utamanya (video bukti) tidak bisa "dilihat" pembeli simulasi, jadi uji ulang hanya akan mengukur kecenderungan model untuk setuju. Uji yang benar adalah iklan nyata kecil (lihat `launch.md`).
+v2 dijalankan dengan 20 kartu yang sama (seed 7), `panel-v2/results.md`: 0/20 membeli. Alasan: trust 10, harga 7, kebiasaan 3. Permintaan yang paling sering: 1 botol Rp30.000–60.000 untuk coba, dan bukti dari teman sekolam/grup FB. Uji yang benar tetap pembeli nyata (lihat `launch.md`).

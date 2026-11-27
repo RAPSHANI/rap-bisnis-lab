@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Videonya bikin penasaran, saya memang sering zonk berjam-jam. Tapi merek Fertani belum pernah dengar, komposisi tidak ditulis, belum ada ulasan, dan paket termurahnya Rp139.000 — terlalu mahal buat coba-coba barang yang belum jelas isinya.",
+  "objection": "Isinya apa? Kalau komposisi saja tidak berani dicantumkan, saya takut cuma perisa biasa yang dikemas kapsul, padahal essen cair di toko pancing cuma 20–30 ribu.",
+  "would_change_my_mind": "Bisa beli 1 botol saja di kisaran Rp50–60 ribu pakai COD, plus ada video/testimoni pemancing lain (bukan cuma pemilik toko) dan komposisi dasarnya ditulis.",
+  "price_too_cheap": 15000,
+  "price_cheap": 35000,
+  "price_expensive": 65000,
+  "price_too_expensive": 100000
+}

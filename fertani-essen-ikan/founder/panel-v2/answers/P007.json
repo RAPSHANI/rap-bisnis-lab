@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Saya biasa beli essen di toko pancing dekat kolam, sekalian lihat dan cium baunya, tanya yang jaga apa yang lagi jalan. Beli online dari toko baru yang belum ada ulasannya, Rp139–169 ribu sekali bayar, buat saya bukan kebiasaan dan terasa mahal dibanding essen cair 30–40 ribu.",
+  "objection": "Komposisinya tidak ditulis dan belum ada yang pernah pakai. Kalau ternyata tidak ada bedanya, saya sudah keluar ratusan ribu untuk 3 botol, padahal zonk saya belum tentu karena essen.",
+  "would_change_my_mind": "Ada di toko pancing dekat kolam saya dengan harga coba satuan sekitar Rp30–40 ribu, atau teman mancing di kolam yang sama sudah pakai dan terbukti dapat sambaran.",
+  "price_too_cheap": 10000,
+  "price_cheap": 30000,
+  "price_expensive": 60000,
+  "price_too_expensive": 100000
+}

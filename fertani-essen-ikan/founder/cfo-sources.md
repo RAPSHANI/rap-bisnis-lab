@@ -1,13 +1,13 @@
-# Sumber angka CFO
+# Sumber angka CFO (diperbarui 27 Nov 2026)
 | Angka | Nilai | Sumber |
 |---|---|---|
-| Harga paket | Rp129.000 / Rp139.000 / Rp169.000 | RAP, dari halaman supplier (27 Nov 2026) |
+| Harga paket v2 | 2 botol Rp139.000 / 3 botol Rp169.000 (opsi 1 botol dihapus dari iklan) | rekomendasi pricing; RAP mengizinkan ubah harga |
 | HPP per botol | Rp18.450 | RAP (supplier) |
-| Ongkir per paket | Rp20.000 | ESTIMASI. RAP: "harga sudah termasuk ongkir paling mahal". Minta tarif nyata per zona dari supplier. |
-| Biaya COD | 3% | ESTIMASI (umum untuk layanan COD ekspedisi/agregator 2,5–4%). Konfirmasi ke supplier/platform. |
-| RTS | 15% / 25% / 35% | ESTIMASI skenario. Supplier tidak punya data. |
-| Ongkir retur | sama dengan ongkir kirim (Rp20.000) | ESTIMASI. RAP menanggung (RAP). |
-| Barang retur | kembali ke supplier tanpa biaya HPP untuk RAP | ASUMSI, wajib dikonfirmasi. Jika tidak, kerugian per RTS naik ~Rp41.513. |
-| CPA Meta | Rp50.000 per order masuk | ESTIMASI kasar untuk niche hobi dengan COD. Diganti angka nyata setelah 7 hari iklan. |
-| Mix paket | 15% / 45% / 40% (1/2/3 botol) | ASUMSI dengan paket 3 botol sebagai default. |
-| Landing page | Rp150.000/bln | ESTIMASI |
+| Ongkir | Rp12.000 (Jakarta) s/d Rp30.000 (Bali) | RAP (supplier). Rata-rata Rp18.325 = ESTIMASI tertimbang (asumsi 60% Jabodetabek/Jabar, 35% Jateng/Jatim, 5% Bali) |
+| Barang retur | kembali ke supplier, dana HPP dikembalikan | RAP (supplier). Rugi per RTS = ongkir 2 arah |
+| Ongkir retur | sama dengan ongkir kirim | ESTIMASI |
+| Pembayaran ke supplier | di depan | RAP. Artinya ada dana talangan per order |
+| Biaya COD | 3% | ESTIMASI, konfirmasi ke supplier/ekspedisi |
+| RTS | 15% / 25% / 35% | ESTIMASI skenario |
+| CPA Meta | Rp45.000 (target), skenario 30–75 ribu | ESTIMASI |
+| Mix paket | 35% 2 botol / 65% 3 botol | ASUMSI (3 botol default di form) |
