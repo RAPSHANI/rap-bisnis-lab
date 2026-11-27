@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Andre",
+  "age": 36,
+  "segment": "Pemilik kos/kontrakan kecil dengan beberapa kamar mandi",
+  "income": 119422000,
+  "behaviour": "Impulsif COD malam",
+  "behaviour_how": "Scroll Reels jam 8–10 malam setelah anak tidur, gampang pesan COD, kadang menolak paket kalau berubah pikiran.",
+  "objection": "Tiga botol kebanyakan, satu aja belum tentu habis",
+  "habit": "kamu scroll Facebook atau Instagram Reels jam 8–10 malam setelah anak tidur"
+ },
+ {
+  "id": "P002",
+  "name": "Sam",
+  "age": 39,
+  "segment": "Ibu bekerja 27–40, bersih-bersih hanya akhir pekan",
+  "income": 97667000,
+  "behaviour": "Cek harga di Shopee dulu",
+  "behaviour_how": "Lihat iklan, ketik nama merek di Shopee/Tokopedia/TikTok Shop, beli yang termurah.",
+  "objection": "Takut merusak kloset, keramik, atau kran, dan baunya bikin sesak di kamar mandi tertutup",
+  "habit": "kamu pernah menolak paket COD karena berubah pikiran"
+ },
+ {
+  "id": "P003",
+  "name": "Seth",
+  "age": 38,
+  "segment": "Ibu rumah tangga penuh, rumah tapak dengan air sumur bor, tanpa ART",
+  "income": 80282000,
+  "behaviour": "Ikut rekomendasi tetangga/grup",
+  "behaviour_how": "Beli kalau ada tetangga atau grup WA/FB ibu-ibu yang sudah pakai dan menunjukkan hasilnya.",
+  "objection": "Video iklan pasti diedit, kerak kuning menahun nggak mungkin hilang tanpa disikat",
+  "habit": "kloset di rumahmu kuning berkerak karena air sumur, sudah disikat tetap begitu"
+ },
+ {
+  "id": "P004",
+  "name": "Jasper",
+  "age": 35,
+  "segment": "Ibu di kota kecil/desa, penghasilan keluarga pas-pasan, belanja kebutuhan dihitung",
+  "income": 42949000,
+  "behaviour": "Ikut rekomendasi tetangga/grup",
+  "behaviour_how": "Beli kalau ada tetangga atau grup WA/FB ibu-ibu yang sudah pakai dan menunjukkan hasilnya.",
+  "objection": "Pembersih kok sampai seratus ribu lebih, Porstex aja dua puluh ribu",
+  "habit": "mertua atau keluarga akan datang saat libur Natal–Tahun Baru"
+ },
+ {
+  "id": "P005",
+  "name": "Sofia",
+  "age": 44,
+  "segment": "Ibu bekerja 27–40, bersih-bersih hanya akhir pekan",
+  "income": 138201000,
+  "behaviour": "Penanya di WA",
+  "behaviour_how": "Chat admin dulu: aman buat kloset/keramik? baunya nyengat? beneran tanpa sikat? baru memutuskan.",
+  "objection": "Pembersih kok sampai seratus ribu lebih, Porstex aja dua puluh ribu",
+  "habit": "kamu pernah menolak paket COD karena berubah pikiran"
+ },
+ {
+  "id": "P006",
+  "name": "Quinn",
+  "age": 40,
+  "segment": "Ibu rumah tangga penuh, rumah tapak dengan air sumur bor, tanpa ART",
+  "income": 65976000,
+  "behaviour": "Penanya di WA",
+  "behaviour_how": "Chat admin dulu: aman buat kloset/keramik? baunya nyengat? beneran tanpa sikat? baru memutuskan.",
+  "objection": "Ada izinnya nggak? Aman buat rumah yang ada anak kecil?",
+  "habit": "kamu aktif di grup WA ibu-ibu perumahan"
+ },
+ {
+  "id": "P007",
+  "name": "Ana",
+  "age": 30,
+  "segment": "Ibu bekerja 27–40, bersih-bersih hanya akhir pekan",
+  "income": 123774000,
+  "behaviour": "Skeptis pernah kecewa",
+  "behaviour_how": "Sudah 2–3 kali beli pembersih kerak 'viral' yang ternyata harus disikat juga, jadi curiga pada video iklan.",
+  "objection": "Paling di Shopee ada yang sama lebih murah",
+  "habit": "mertua atau keluarga akan datang saat libur Natal–Tahun Baru"
+ },
+ {
+  "id": "P008",
+  "name": "Farah",
+  "age": 28,
+  "segment": "Ibu di kota kecil/desa, penghasilan keluarga pas-pasan, belanja kebutuhan dihitung",
+  "income": 31604000,
+  "behaviour": "Impulsif COD malam",
+  "behaviour_how": "Scroll Reels jam 8–10 malam setelah anak tidur, gampang pesan COD, kadang menolak paket kalau berubah pikiran.",
+  "objection": "Pembersih kok sampai seratus ribu lebih, Porstex aja dua puluh ribu",
+  "habit": "kamu aktif di grup WA ibu-ibu perumahan"
+ },
+ {
+  "id": "P009",
+  "name": "Lucia",
+  "age": 38,
+  "segment": "Ibu di kota kecil/desa, penghasilan keluarga pas-pasan, belanja kebutuhan dihitung",
+  "income": 55685000,
+  "behaviour": "Skeptis pernah kecewa",
+  "behaviour_how": "Sudah 2–3 kali beli pembersih kerak 'viral' yang ternyata harus disikat juga, jadi curiga pada video iklan.",
+  "objection": "Tiga botol kebanyakan, satu aja belum tentu habis",
+  "habit": "kloset di rumahmu kuning berkerak karena air sumur, sudah disikat tetap begitu"
+ },
+ {
+  "id": "P010",
+  "name": "Fatima",
+  "age": 29,
+  "segment": "Ibu rumah tangga penuh, rumah tapak dengan air sumur bor, tanpa ART",
+  "income": 63434000,
+  "behaviour": "Setia merek warung",
+  "behaviour_how": "Pakai Porstex atau Harpic dari warung sejak lama; ganti merek hanya kalau benar-benar yakin.",
+  "objection": "Takut merusak kloset, keramik, atau kran, dan baunya bikin sesak di kamar mandi tertutup",
+  "habit": "mertua atau keluarga akan datang saat libur Natal–Tahun Baru"
+ },
+ {
+  "id": "P011",
+  "name": "Ben",
+  "age": 37,
+  "segment": "Ibu rumah tangga penuh, rumah tapak dengan air sumur bor, tanpa ART",
+  "income": 90805000,
+  "behaviour": "Setia merek warung",
+  "behaviour_how": "Pakai Porstex atau Harpic dari warung sejak lama; ganti merek hanya kalau benar-benar yakin.",
+  "objection": "Pembersih kok sampai seratus ribu lebih, Porstex aja dua puluh ribu",
+  "habit": "kamu scroll Facebook atau Instagram Reels jam 8–10 malam setelah anak tidur"
+ },
+ {
+  "id": "P012",
+  "name": "Luca",
+  "age": 45,
+  "segment": "Ibu rumah tangga penuh, rumah tapak dengan air sumur bor, tanpa ART",
+  "income": 77064000,
+  "behaviour": "Setia merek warung",
+  "behaviour_how": "Pakai Porstex atau Harpic dari warung sejak lama; ganti merek hanya kalau benar-benar yakin.",
+  "objection": "Tiga botol kebanyakan, satu aja belum tentu habis",
+  "habit": "kamu pernah menolak paket COD karena berubah pikiran"
+ },
+ {
+  "id": "P013",
+  "name": "Owen",
+  "age": 34,
+  "segment": "Ibu di kota kecil/desa, penghasilan keluarga pas-pasan, belanja kebutuhan dihitung",
+  "income": 59911000,
+  "behaviour": "Skeptis pernah kecewa",
+  "behaviour_how": "Sudah 2–3 kali beli pembersih kerak 'viral' yang ternyata harus disikat juga, jadi curiga pada video iklan.",
+  "objection": "Takut merusak kloset, keramik, atau kran, dan baunya bikin sesak di kamar mandi tertutup",
+  "habit": "kloset di rumahmu kuning berkerak karena air sumur, sudah disikat tetap begitu"
+ },
+ {
+  "id": "P014",
+  "name": "Amara",
+  "age": 45,
+  "segment": "Ibu bekerja 27–40, bersih-bersih hanya akhir pekan",
+  "income": 87831000,
+  "behaviour": "Cek harga di Shopee dulu",
+  "behaviour_how": "Lihat iklan, ketik nama merek di Shopee/Tokopedia/TikTok Shop, beli yang termurah.",
+  "objection": "Tiga botol kebanyakan, satu aja belum tentu habis",
+  "habit": "kamu aktif di grup WA ibu-ibu perumahan"
+ },
+ {
+  "id": "P015",
+  "name": "Isla",
+  "age": 30,
+  "segment": "Ibu rumah tangga penuh, rumah tapak dengan air sumur bor, tanpa ART",
+  "income": 49499000,
+  "behaviour": "Penanya di WA",
+  "behaviour_how": "Chat admin dulu: aman buat kloset/keramik? baunya nyengat? beneran tanpa sikat? baru memutuskan.",
+  "objection": "Tiga botol kebanyakan, satu aja belum tentu habis",
+  "habit": "kamu punya aplikasi Shopee dan sering cek harga di sana"
+ },
+ {
+  "id": "P016",
+  "name": "Lena",
+  "age": 33,
+  "segment": "Ibu rumah tangga penuh, rumah tapak dengan air sumur bor, tanpa ART",
+  "income": 49796000,
+  "behaviour": "Cek harga di Shopee dulu",
+  "behaviour_how": "Lihat iklan, ketik nama merek di Shopee/Tokopedia/TikTok Shop, beli yang termurah.",
+  "objection": "Paling di Shopee ada yang sama lebih murah",
+  "habit": "kamu aktif di grup WA ibu-ibu perumahan"
+ },
+ {
+  "id": "P017",
+  "name": "Mira",
+  "age": 33,
+  "segment": "Pemilik kos/kontrakan kecil dengan beberapa kamar mandi",
+  "income": 166310000,
+  "behaviour": "Skeptis pernah kecewa",
+  "behaviour_how": "Sudah 2–3 kali beli pembersih kerak 'viral' yang ternyata harus disikat juga, jadi curiga pada video iklan.",
+  "objection": "Toko baru belum ada ulasan, takut barangnya bocor atau nggak sampai",
+  "habit": "kloset di rumahmu kuning berkerak karena air sumur, sudah disikat tetap begitu"
+ },
+ {
+  "id": "P018",
+  "name": "Leah",
+  "age": 44,
+  "segment": "Ibu rumah tangga penuh, rumah tapak dengan air sumur bor, tanpa ART",
+  "income": 86290000,
+  "behaviour": "Cek harga di Shopee dulu",
+  "behaviour_how": "Lihat iklan, ketik nama merek di Shopee/Tokopedia/TikTok Shop, beli yang termurah.",
+  "objection": "Ada izinnya nggak? Aman buat rumah yang ada anak kecil?",
+  "habit": "kamu punya aplikasi Shopee dan sering cek harga di sana"
+ },
+ {
+  "id": "P019",
+  "name": "Ines",
+  "age": 35,
+  "segment": "Pemilik kos/kontrakan kecil dengan beberapa kamar mandi",
+  "income": 175596000,
+  "behaviour": "Impulsif COD malam",
+  "behaviour_how": "Scroll Reels jam 8–10 malam setelah anak tidur, gampang pesan COD, kadang menolak paket kalau berubah pikiran.",
+  "objection": "Ada izinnya nggak? Aman buat rumah yang ada anak kecil?",
+  "habit": "uang belanja bulananmu sekitar dua sampai tiga juta dan selalu pas-pasan di akhir bulan"
+ },
+ {
+  "id": "P020",
+  "name": "Dana",
+  "age": 34,
+  "segment": "Ibu bekerja 27–40, bersih-bersih hanya akhir pekan",
+  "income": 111586000,
+  "behaviour": "Cek harga di Shopee dulu",
+  "behaviour_how": "Lihat iklan, ketik nama merek di Shopee/Tokopedia/TikTok Shop, beli yang termurah.",
+  "objection": "Pembersih kok sampai seratus ribu lebih, Porstex aja dua puluh ribu",
+  "habit": "kamu punya aplikasi Shopee dan sering cek harga di sana"
+ }
+]
