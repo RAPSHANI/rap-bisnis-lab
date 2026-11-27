@@ -2,12 +2,12 @@
   "id": "P010",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Videonya memang bikin penasaran, apalagi mertua mau datang pas Natal–Tahun Baru, tapi Rp129 ribu sebotol itu kayak lima botol Harpic di warung. Toko baru, belum ada ulasan, saya nggak berani coba-coba di kloset sendiri.",
-  "objection": "Takut busanya malah bikin kloset atau kran kusam, dan baunya nyesek di kamar mandi saya yang sempit. Apalagi ada daftar permukaan yang nggak boleh, berarti bahannya keras.",
-  "would_change_my_mind": "Ada tetangga atau saudara yang sudah pakai dan saya lihat sendiri hasilnya, plus ada ukuran kecil seharga di bawah Rp50 ribu buat coba dulu.",
-  "price_too_cheap": 15000,
-  "price_cheap": 35000,
-  "price_expensive": 60000,
-  "price_too_expensive": 90000
+  "reason_code": "price",
+  "reason": "Seratus dua puluh sembilan ribu buat satu botol pembersih kloset itu kebanyakan buat saya, Harpic di warung cuma belasan ribu dan selama ini cukup asal saya sikat lebih lama. Videonya jujur dan ada COD, tapi sebelum mertua datang saya lebih pilih beli Porstex lagi terus nyikat keras daripada coba merek baru semahal itu.",
+  "objection": "Harganya hampir sepuluh kali Harpic, tokonya baru tanpa ulasan, dan di video saja keraknya cuma berkurang separuh. Saya juga masih takut busanya merusak kloset atau kran dan baunya bikin sesak di kamar mandi saya yang tertutup.",
+  "would_change_my_mind": "Kalau ada ukuran kecil atau sachet coba sekitar Rp35.000 di warung atau di Shopee dengan banyak ulasan ibu-ibu yang air sumurnya sama, dan jelas tidak berbau menyengat.",
+  "price_too_cheap": 10000,
+  "price_cheap": 30000,
+  "price_expensive": 55000,
+  "price_too_expensive": 85000
 }

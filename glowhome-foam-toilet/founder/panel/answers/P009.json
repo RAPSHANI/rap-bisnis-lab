@@ -2,12 +2,12 @@
   "id": "P009",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Sudah dua-tiga kali saya beli pembersih kerak yang di videonya langsung luruh, sampai rumah tetap harus disikat sampai pegal. Toko baru, belum ada ulasan, satu botol saja Rp129.000, itu sama dengan belanja dapur beberapa hari. Mending saya tetap pakai porstex yang Rp15 ribuan.",
-  "objection": "Video iklan bisa diatur, kerak kuning dari air sumur di rumah saya sudah bertahun-tahun, belum tentu hilang cuma dilap. Garansinya juga cuma uang satu botol balik, dan harus kirim video dulu, ribet.",
-  "would_change_my_mind": "Ada tetangga atau saudara yang sudah pakai dan saya lihat sendiri klosetnya bersih, atau ada ukuran kecil coba-coba sekitar Rp35.000 yang bisa COD.",
-  "price_too_cheap": 10000,
-  "price_cheap": 25000,
-  "price_expensive": 50000,
-  "price_too_expensive": 75000
+  "reason_code": "price",
+  "reason": "Videonya jujur, beda dari yang viral-viral itu, jadi saya agak percaya. Tapi Rp129.000 buat satu botol pembersih itu sama dengan belanja dapur beberapa hari, apalagi katanya botolnya lebih murah di marketplace.",
+  "objection": "Kerak air sumur saya sudah menahun, di videonya juga ada yang cuma berkurang separuh. Garansi kembali uang memang ada, tapi toko baru tanpa ulasan, saya takut ribet ngurus refund lewat WA dan ujung-ujungnya tetap nyikat.",
+  "would_change_my_mind": "Kalau saya kirim foto kloset ke admin dan dibilang cocok, lalu ada tetangga atau ulasan pembeli lain dengan air sumur yang benar-benar berhasil, dan harganya di bawah Rp60.000 tanpa kain dan panduan juga tidak apa-apa.",
+  "price_too_cheap": 15000,
+  "price_cheap": 35000,
+  "price_expensive": 60000,
+  "price_too_expensive": 90000
 }

@@ -2,12 +2,12 @@
   "id": "P018",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Kerak kuning di kloset saya memang nyata, tapi ini toko baru tanpa ulasan dan di iklannya nggak disebut izinnya apa, padahal di rumah ada anak kecil. Rp129 ribu sebotol juga jauh di atas Vixal atau Harpic yang di Shopee cuma dua puluhan ribu, jadi saya cari dulu merek Glow Home di Shopee dan kemungkinan besar beli yang biasa saja.",
-  "objection": "Nggak jelas ada izin edar atau nomor registrasinya, dan bahannya aman atau nggak kalau anak saya pegang atau hirup. Video kan bisa diatur, belum ada satu pun ulasan pembeli.",
-  "would_change_my_mind": "Ada nomor izin edar yang bisa saya cek, plus toko di Shopee dengan ulasan foto dari ibu-ibu lain yang pakai air sumur, dan harga 1 botol di bawah Rp60 ribu.",
-  "price_too_cheap": 12000,
-  "price_cheap": 30000,
-  "price_expensive": 55000,
-  "price_too_expensive": 85000
+  "reason_code": "price",
+  "reason": "Videonya jujur dan ada nomor izin Kemenkes, jadi saya cukup percaya produknya. Tapi tokonya sendiri bilang botol yang sama lebih murah di marketplace, ya saya ketik Glow Home di Shopee dan beli yang termurah di sana. Kain microfiber saya sudah punya, Rp129.000 untuk satu botol kemahalan.",
+  "objection": "Selisih harganya buat kain sama panduan WA saja, padahal saya bisa beli botolnya di Shopee jauh lebih murah. Juga masih ragu baunya aman nggak buat anak di rumah, walau ada izinnya.",
+  "would_change_my_mind": "Harga paket di bawah Rp75.000 atau tidak jauh beda dari Shopee, atau dapat 2 botol dengan harga itu.",
+  "price_too_cheap": 20000,
+  "price_cheap": 45000,
+  "price_expensive": 75000,
+  "price_too_expensive": 110000
 }

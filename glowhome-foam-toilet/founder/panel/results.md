@@ -36,9 +36,8 @@ These are simulated buyers, not customers. Use this to find objections and weak 
 
 | reason | buyers | in their words |
 | --- | ---: | --- |
-| price | 9 | "Videonya bikin penasaran, tapi Rp129.000 buat satu botol itu kemahalan, Vixal atau Harpic di warung cuma belasan ribu dan kamar mandi kos biasanya digosok penghuni atau tukang bersih-bersih saja. Tiga botol Rp189.000 juga kebanyakan, satu aja belum tentu habis." (P001) · "Videonya bikin penasaran, tapi Rp129.000 sebotol itu kemahalan buat pembersih kloset. Saya pasti cek dulu di Shopee, dan Vixal atau pembersih kerak lain di sana cuma dua puluh ribuan, apalagi toko ini belum ada ulasannya." (P002) |
-| trust | 9 | "Videonya memang kelihatan nggak dipotong, tapi tokonya baru dan belum ada satu pun ulasan, dan di grup WA ibu-ibu belum ada yang pakai. Rp129 ribu buat sebotol pembersih itu sepuluh kali harga Porstex, jadi saya nggak mau jadi yang pertama coba." (P003) · "Videonya memang bikin pengen, apalagi mertua mau datang pas Natal–Tahun Baru dan klosetku kuning. Tapi toko baru, belum ada ulasan, belum ada tetangga atau grup WA yang pakai, jadi aku nggak berani keluar Rp129.000 buat satu botol pembersih; mending gosok pakai Porstex lagi." (P004) |
-| habit | 2 | "Videonya memang bikin penasaran, apalagi mertua mau datang pas Natal–Tahun Baru, tapi Rp129 ribu sebotol itu kayak lima botol Harpic di warung. Toko baru, belum ada ulasan, saya nggak berani coba-coba di kloset sendiri." (P010) · "Saya sudah bertahun-tahun pakai Harpic atau Porstex dari warung, harganya cuma dua puluhan ribu dan bisa beli kapan saja. Seratus dua puluh sembilan ribu satu botol dari toko baru yang belum ada ulasannya, terlalu nekat buat saya." (P012) |
+| price | 19 | "Videonya jujur dan saya memang butuh buat kamar mandi kos, tapi iklannya sendiri bilang botol yang sama lebih murah di marketplace. Ya saya cari di Shopee aja, kain microfiber saya punya, garansinya nggak worth bayar dobel." (P001) · "Iklannya sendiri bilang botol yang sama lebih murah di marketplace, jadi saya langsung ketik 'Glow Home' di Shopee dan beli di sana. Kain microfiber ada di rumah, panduan bisa saya lihat dari video, Rp129.000 untuk satu botol pembersih kloset kemahalan buat saya." (P002) |
+| trust | 1 | "Videonya memang kelihatan jujur, apalagi ada yang cuma berkurang separuh, tapi toko baru tanpa ulasan dan belum ada satu pun ibu-ibu di grup WA saya yang pakai. Rp129 ribu buat satu botol sabun itu lumayan, apalagi katanya di marketplace lebih murah, jadi saya tunggu dulu ada tetangga yang coba." (P003) |
 
 ## Why they buy
 
@@ -47,17 +46,17 @@ These are simulated buyers, not customers. Use this to find objections and weak 
 
 ## What would flip a no
 
-- Satu botol coba di bawah Rp70.000 dengan COD, plus ada ulasan atau video dari orang lain yang air sumurnya sama kerak kuningnya, baru saya pesan malam itu juga.
-- Ada di Shopee dengan banyak ulasan dan video pembeli asli di kloset air sumur, plus ukuran coba sekitar Rp40.000-50.000.
-- Tetangga atau ibu-ibu di grup WA/FB yang airnya juga sumur bor posting foto sebelum-sesudah klosetnya sendiri pakai produk ini.
-- Ada ibu-ibu di grup WA atau tetangga yang sudah pakai dan nunjukin foto sebelum-sesudah kloset mereka, plus ada ukuran kecil buat coba sekitar Rp35.000–40.000.
-- Ada ulasan video dari pembeli asli dengan kloset berkerak air sumur seperti punya saya, plus bisa beli 1 botol di bawah Rp75 ribu buat coba dulu.
-- Admin WA kasih foto nomor izin edar/notifikasi yang bisa saya cek sendiri plus keterangan aman untuk rumah yang ada anak, dan ada ibu-ibu di grup perumahan yang sudah coba dan kloset sumur bornya beneran bersih.
-- Ada ulasan asli dari pembeli lain dengan foto/video sebelum-sesudah di kloset yang keraknya parah, plus bisa coba 1 botol di bawah Rp75.000 di Shopee supaya saya bisa bandingkan dan cek rating dulu sebelum keluarga datang Natal.
-- Ada ukuran kecil sekitar 35–50 ribu buat coba, plus ada ibu-ibu di grup WA yang sudah pakai dan kirim foto hasilnya.
-- Ada tetangga atau saudara yang sudah pakai dan saya lihat sendiri klosetnya bersih, atau ada ukuran kecil coba-coba sekitar Rp35.000 yang bisa COD.
-- Ada tetangga atau saudara yang sudah pakai dan saya lihat sendiri hasilnya, plus ada ukuran kecil seharga di bawah Rp50 ribu buat coba dulu.
-- Ada botol kecil coba sekitar Rp35-40 ribu, atau tetangga/teman yang sudah pakai dan saya lihat sendiri hasilnya di kloset air sumur.
-- Kalau tetangga atau saudara sudah pakai dan saya lihat sendiri kloset mereka bersih, lalu ada botol kecil ukuran coba-coba sekitar tiga puluh ribuan di warung atau minimarket dekat rumah.
+- Paket khusus pemilik kos: 2-3 botol di bawah harga marketplace per botol, tetap COD dan garansi, jadi nggak ada alasan pindah ke Shopee.
+- Harga di toko ini sama atau hampir sama dengan Shopee (sekitar Rp70.000-an) dengan garansi tetap ada, atau ada ulasan Shopee/TikTok dari ibu-ibu lain yang klosetnya juga kerak air sumur.
+- Kalau ada ibu-ibu di grup WA atau tetangga dekat yang sudah pakai dan kirim foto sebelum-sesudah kloset air sumurnya sendiri, apalagi kalau uangnya beneran dikembalikan waktu nggak mempan.
+- Kalau ada tetangga atau ibu-ibu di grup WA yang sudah pakai dan kirim foto klosetnya jadi bersih, dan ada ukuran kecil atau harga sekitar lima puluh ribuan.
+- Harga paket di bawah Rp80.000 atau ada pilihan botol saja dengan harga marketplace tapi tetap bisa tanya admin dan dapat garansi.
+- Harga paket di bawah Rp75 ribu, atau ada ibu di grup WA perumahan yang sudah pakai di kloset air sumur dan kirim foto hasilnya.
+- Kalau di Shopee ulasannya sedikit atau jelek, atau selisih harga dengan marketplace cuma sekitar Rp20-30 ribu, saya pilih paket ini karena ada COD, cek foto dulu, dan uang kembali tanpa kirim balik botol.
+- Kalau ada pilihan botolnya saja di bawah Rp50 ribu, COD gratis ongkir, dan ada ibu-ibu di grup WA yang sudah coba dan kirim foto hasilnya.
+- Kalau saya kirim foto kloset ke admin dan dibilang cocok, lalu ada tetangga atau ulasan pembeli lain dengan air sumur yang benar-benar berhasil, dan harganya di bawah Rp60.000 tanpa kain dan panduan juga tidak apa-apa.
+- Kalau ada ukuran kecil atau sachet coba sekitar Rp35.000 di warung atau di Shopee dengan banyak ulasan ibu-ibu yang air sumurnya sama, dan jelas tidak berbau menyengat.
+- Kalau harganya di bawah Rp50.000 atau ada ukuran kecil buat coba, apalagi kalau tetangga atau ibu-ibu di grup sudah bukti kerak sumurnya hilang.
+- Botol saja di harga sekitar Rp40 ribu, atau tetangga saya sudah pakai dan saya lihat sendiri klosetnya bersih.
 
 20 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.

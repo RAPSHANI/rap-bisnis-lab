@@ -2,12 +2,12 @@
   "id": "P007",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Saya sudah 2-3 kali kena pembersih kerak viral yang videonya bagus tapi di rumah tetap harus disikat. Toko baru tanpa ulasan dan Rp129.000 untuk satu botol, mending saya cari yang mirip di Shopee yang ulasannya ribuan.",
-  "objection": "Video iklan bisa diatur, kerak di kloset saya sudah tebal dari air sumur. Garansinya cuma uang 1 botol kembali dan harus kirim video, ribet. Rp63.000 per botol juga jauh di atas pembersih kloset biasa di minimarket.",
-  "would_change_my_mind": "Ada ulasan asli dari pembeli lain dengan foto/video sebelum-sesudah di kloset yang keraknya parah, plus bisa coba 1 botol di bawah Rp75.000 di Shopee supaya saya bisa bandingkan dan cek rating dulu sebelum keluarga datang Natal.",
-  "price_too_cheap": 20000,
-  "price_cheap": 45000,
-  "price_expensive": 75000,
-  "price_too_expensive": 110000
+  "reason_code": "price",
+  "reason": "Videonya jujur, jadi saya lumayan percaya busanya bisa kerja sebagian, apalagi mertua mau datang pas Natal. Tapi iklannya sendiri bilang botol yang sama lebih murah di marketplace, jadi saya cari Glow Home di Shopee, baca ulasan di sana, dan beli di sana saja. Kain microfiber saya sudah punya.",
+  "objection": "Selisih harganya buat kain, panduan, dan garansi. Toko ini baru dan belum ada ulasan, jadi saya ragu garansinya benar-benar dibayar. Sudah 2-3 kali saya kecewa sama pembersih viral, jadi saya lebih percaya ulasan pembeli di Shopee.",
+  "would_change_my_mind": "Kalau di Shopee ulasannya sedikit atau jelek, atau selisih harga dengan marketplace cuma sekitar Rp20-30 ribu, saya pilih paket ini karena ada COD, cek foto dulu, dan uang kembali tanpa kirim balik botol.",
+  "price_too_cheap": 25000,
+  "price_cheap": 55000,
+  "price_expensive": 95000,
+  "price_too_expensive": 140000
 }
