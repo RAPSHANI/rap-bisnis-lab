@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Rp189 ribu buat semprotan 5 ml itu kemahalan buat gaji saya, di Shopee yang mirip-mirip cuma 50 sampai 100 ribu. Apalagi tokonya baru dan belum ada ulasan, nomor BPOM-nya juga harus saya cek dulu di situs BPOM, jangan-jangan palsu.",
+  "objection": "Harganya hampir dua kali lipat produk serupa di marketplace, padahal isinya cuma buat kebersihan dan kesegaran, dan tokonya belum ada yang pernah beli.",
+  "would_change_my_mind": "Harga di bawah Rp100 ribu dan dijual di toko Shopee/TikTok Shop yang sudah punya banyak ulasan, dengan nomor BPOM yang bisa saya cocokkan sendiri di cekbpom.",
+  "price_too_cheap": 25000,
+  "price_cheap": 50000,
+  "price_expensive": 90000,
+  "price_too_expensive": 130000
+}

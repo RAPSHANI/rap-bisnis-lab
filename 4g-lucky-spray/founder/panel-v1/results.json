@@ -1,0 +1,144 @@
+{
+ "business": "4G Lucky Herbal Spray Pria (dropship, iklan Meta ke landing page, COD)",
+ "seed": 7,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 0,
+ "passes": 20,
+ "buy_rate": 0.0,
+ "by_segment": [
+  [
+   "Pedagang/pemilik usaha kecil, usia 40+",
+   4,
+   0.0
+  ],
+  [
+   "Karyawan swasta/pabrik/PNS golongan bawah",
+   7,
+   0.0
+  ],
+  [
+   "Pria muda baru menikah, karyawan kota",
+   2,
+   0.0
+  ],
+  [
+   "Pekerja harian/buruh/ojol/sopir, menikah",
+   7,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Pemburu murah marketplace",
+   4,
+   0.0
+  ],
+  [
+   "Impulsif lihat iklan",
+   2,
+   0.0
+  ],
+  [
+   "Penurut jamu dan herbal",
+   3,
+   0.0
+  ],
+  [
+   "Skeptis pernah tertipu",
+   4,
+   0.0
+  ],
+  [
+   "Pembaca ulasan",
+   3,
+   0.0
+  ],
+  [
+   "Pembeli diam-diam COD",
+   4,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$78,452,000 and up",
+   7,
+   0.0
+  ],
+  [
+   "$46,775,000 to $78,452,000",
+   7,
+   0.0
+  ],
+  [
+   "under $46,775,000",
+   6,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "price",
+   12,
+   [
+    "Rp189 ribu buat spray 5 ml yang katanya cuma buat bersih dan segar, padahal di Shopee yang mirip Rp50–100 ribu, jamu kuat di warung cuma Rp20–35 ribu. Iklannya sendiri bilang tidak menjanjikan efek apa-apa, terus buat apa saya bayar mahal?",
+    "Iklannya sendiri bilang cuma buat bersih dan segar, nggak janji apa-apa soal stamina. Kalau cuma pembersih, Rp189 ribu buat 5 ml itu kemahalan, sabun sirih atau sabun biasa juga bisa, dan duit segitu harus minta ke istri."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "trust",
+   6,
+   [
+    "Saya sudah pernah kena iklan oles begini yang tidak terasa apa-apa, dan ini toko baru tanpa satu ulasan pun. Kalau cuma buat kebersihan dan kesegaran, Rp189.000 untuk 5 ml itu tidak masuk akal, sabun biasa juga bisa.",
+    "BPOM-nya memang ada dan bisa saya cek, tapi tokonya baru dan belum ada satu pun ulasan, jadi saya tidak punya bintang 1 untuk dibaca. Lagi pula Rp189.000 untuk 5 ml itu besar buat saya yang uang belanjanya dipegang istri, dan pakai COD artinya bisa saja istri yang terima paket dan bayar ke kurir."
+   ],
+   [
+    "P004",
+    "P007"
+   ]
+  ],
+  [
+   "need",
+   2,
+   [
+    "Iklannya sendiri bilang tidak menjanjikan stamina atau tahan lama, cuma kebersihan dan kesegaran. Kalau cuma buat bersih-bersih, sabun sirih atau air rebusan daun sirih juga bisa, ngapain bayar Rp189.000 buat 5 ml.",
+    "Saya biasanya kepancing iklan malam kalau janjinya 'terasa bedanya', tapi iklan ini sendiri bilang cuma buat kebersihan dan kesegaran. Kalau cuma buat bersih, sabun di kamar mandi sudah cukup, ngapain bayar Rp189.000 buat 5 ml."
+   ],
+   [
+    "P003",
+    "P013"
+   ]
+  ]
+ ],
+ "why_yes": [],
+ "flip": [
+  "Ada di Shopee/TikTok Shop dengan ratusan ulasan asli dan harga di bawah Rp100 ribu.",
+  "Harga di bawah Rp60 ribu dan ada ulasan atau testimoni pembeli asli dari orang Jawa yang sudah pakai.",
+  "Ada di Shopee dengan harga di bawah Rp60.000 dan ulasan ratusan pembeli asli yang bilang memang terasa manfaatnya, atau direkomendasikan teman kerja yang sudah pakai.",
+  "Ulasan asli dari pembeli lain di marketplace besar (Shopee/Tokopedia) dengan harga jauh lebih murah, sekitar Rp50.000-an untuk coba satu botol.",
+  "Harga di bawah Rp100 ribu dan dijual di toko Shopee/TikTok Shop yang sudah punya banyak ulasan, dengan nomor BPOM yang bisa saya cocokkan sendiri di cekbpom.",
+  "Kalau harganya di bawah Rp75 ribu dan ada di Shopee atau TikTok Shop dengan banyak ulasan, jadi bisa saya ambil sendiri di titik pickup.",
+  "Bisa dibeli di Shopee/Tokopedia resmi dengan banyak ulasan asli dan bisa diambil sendiri di titik ambil atau loker, dengan harga di bawah Rp100.000.",
+  "Harga di bawah Rp50 ribu dan dijual di warung atau apotek dekat rumah yang bisa saya lihat langsung, atau ada teman yang sudah pakai dan bilang bagus.",
+  "Harga di bawah Rp75 ribu dan ada ulasan pembeli asli yang banyak di marketplace.",
+  "Ada teman atau saudara yang saya kenal sudah pakai dan bilang memang bagus, plus harganya di bawah 50 ribu.",
+  "Harga di bawah Rp60 ribu dengan COD paket polos, plus ada ulasan atau testimoni pembeli asli.",
+  "Kalau ada teman atau tetangga yang sudah pakai dan bilang memang beda, plus harganya di bawah Rp50 ribu, mungkin saya coba satu botol pakai COD.",
+  "Harga coba di bawah Rp60.000 plus testimoni asli dari pembeli yang bisa dicek, bukan cuma klaim di iklan.",
+  "Teman atau saudara yang saya kenal bilang sudah pakai dan aman, tidak perih, ditambah harga di bawah Rp75 ribu untuk coba satu botol.",
+  "Dijual di Shopee/Tokopedia dengan ratusan ulasan asli, termasuk yang bintang 1 ditanggapi, dan harganya di bawah Rp100 ribu.",
+  "Harga di bawah Rp60 ribu dengan COD paket polos, plus ada testimoni orang biasa yang bilang tidak panas dan tidak gatal.",
+  "Harga di bawah Rp60 ribu dengan COD paket polos, plus ada ulasan atau testimoni dari pembeli asli yang bilang tidak perih.",
+  "Harga di bawah Rp60 ribu dan ada teman atau saudara yang sudah pakai dan bilang cocok, atau dijual di toko resmi marketplace dengan banyak ulasan.",
+  "Kalau ada di Shopee Mall atau toko yang ulasannya ratusan dengan harga di bawah Rp60 ribu, baru saya coba satu botol.",
+  "Harga di bawah Rp100 ribu dengan COD paket polos, plus ada testimoni pembeli asli yang bisa saya lihat."
+ ],
+ "purchases_first_month_per_buyer": null,
+ "price_answers": 20
+}

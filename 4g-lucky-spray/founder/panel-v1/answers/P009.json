@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Rp189 ribu buat semprotan 5 ml yang fungsinya cuma bersih-bersih? Di Shopee yang mirip ada Rp50–100 ribu, sabun biasa juga bisa. Lagian uang belanja dipegang istri, susah jelasin beli beginian.",
+  "objection": "Kalau cuma pembersih, kenapa semahal itu? Tokonya baru, belum ada ulasan sama sekali, takut barangnya nggak sesuai.",
+  "would_change_my_mind": "Harga di bawah Rp75 ribu dan ada ulasan pembeli asli yang banyak di marketplace.",
+  "price_too_cheap": 20000,
+  "price_cheap": 45000,
+  "price_expensive": 85000,
+  "price_too_expensive": 130000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Rp189 ribu buat botol 5 ml yang katanya cuma perawatan, nggak janji apa-apa, itu hampir seharian gaji saya lebih. Kalau cuma bersihin, sabun sirih atau sabun biasa juga bisa.",
+  "objection": "Nggak jelas manfaatnya buat saya apa. Iklannya cuma bilang semprot, ratakan, selesai, terus toko baru belum ada ulasan. Takut sudah bayar mahal ternyata rasanya biasa saja, dan saya juga sering berubah pikiran pas kurir datang.",
+  "would_change_my_mind": "Harga coba di bawah Rp75 ribu untuk satu botol, plus ada testimoni pembeli asli yang bilang jelas rasanya beda dari sabun biasa.",
+  "price_too_cheap": 20000,
+  "price_cheap": 45000,
+  "price_expensive": 85000,
+  "price_too_expensive": 130000
+}

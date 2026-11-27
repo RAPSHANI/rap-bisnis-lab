@@ -1,0 +1,22 @@
+{
+  "business": "4G Lucky Spray (dropship, Meta Ads ke landing page, COD) - harga platform Rp189.000, iklan patuh aturan",
+  "unit": "order diterima pembeli",
+  "price": 189000,
+  "variable": [
+    {"label": "HPP 1 botol (dari RAP/platform)", "cost": 47520},
+    {"label": "Ongkir kirim dari Ngawi rata-rata (ESTIMASI: Jawa ~Rp12-18rb, luar Jawa s/d Rp30rb, 80% Jawa)", "cost": 18000},
+    {"label": "Biaya COD 3% (ESTIMASI)", "cost": 5670},
+    {"label": "Kerugian retur: RTS 30% x ongkir 2 arah Rp36.000 / 0,70 (HPP dikembalikan supplier)", "cost": 15429},
+    {"label": "Iklan Meta: CPA Rp45.000 per order masuk / 0,70 diterima (ESTIMASI, belum ada data)", "cost": 64286}
+  ],
+  "fixed_monthly": [
+    {"label": "Landing page / form builder + domain (ESTIMASI)", "cost": 150000}
+  ],
+  "startup": [
+    {"label": "Beli 1 botol sendiri (cek kemasan, label, kecepatan kirim)", "cost": 70000},
+    {"label": "Kreatif foto/video tanpa model, tanpa klaim (ESTIMASI)", "cost": 300000}
+  ],
+  "days_per_month": 30,
+  "plan_per_day": 5,
+  "ramp_per_day": [1, 2, 3, 4, 5, 5, 5, 5, 5, 5, 5, 5]
+}

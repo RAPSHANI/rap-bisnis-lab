@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Saya sudah pernah beli obat oles dari iklan dan nggak terasa apa-apa, uang hilang. Toko baru tanpa satu pun ulasan, harga Rp189 ribu buat 5 ml, ya saya skip dulu.",
+  "objection": "Takut panas atau iritasi di area sensitif, dan iklannya sendiri nggak bilang manfaatnya apa, jadi saya bayar mahal untuk sesuatu yang belum jelas gunanya. BPOM kosmetik cuma bilang aman dipakai, bukan berarti ada hasilnya.",
+  "would_change_my_mind": "Ulasan asli dari pembeli lain (bukan testimoni buatan) plus versi sachet atau botol kecil murah di bawah Rp50 ribu untuk coba dulu, dan garansi uang kembali kalau iritasi.",
+  "price_too_cheap": 25000,
+  "price_cheap": 50000,
+  "price_expensive": 90000,
+  "price_too_expensive": 150000
+}

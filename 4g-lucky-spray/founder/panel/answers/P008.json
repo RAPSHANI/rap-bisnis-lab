@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Rp189.000 buat botol 5 ml itu hampir sepuluh hari uang rokok dan bensin saya, dan duit belanja dipegang istri, nggak mungkin saya minta buat beginian. Kalau butuh, saya lebih percaya jamu kuat dari tukang jamu yang cuma lima ribuan.",
+  "objection": "Mahal banget untuk barang kecil yang nggak jelas efeknya, iklannya saja nggak janji apa-apa, terus tokonya baru dan belum ada yang ngasih ulasan. BPOM-nya kosmetik, bukan jamu, jadi saya ragu ini ada gunanya buat saya.",
+  "would_change_my_mind": "Harga di bawah Rp50.000 dan ada teman ojol atau tetangga yang sudah pakai dan bilang cocok.",
+  "price_too_cheap": 10000,
+  "price_cheap": 25000,
+  "price_expensive": 50000,
+  "price_too_expensive": 75000
+}

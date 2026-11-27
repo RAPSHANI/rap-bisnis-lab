@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Iklannya sendiri bilang cuma buat bersih dan segar, nggak janji apa-apa soal stamina. Kalau cuma pembersih, Rp189 ribu buat 5 ml itu kemahalan, sabun sirih atau sabun biasa juga bisa, dan duit segitu harus minta ke istri.",
+  "objection": "Harga Rp189 ribu buat botol kecil yang fungsinya cuma bersih-bersih, dari toko baru yang belum ada ulasan sama sekali. Takut nyesel terus paketnya saya tolak, malah malu sama kurir.",
+  "would_change_my_mind": "Harga di bawah Rp60 ribu dan ada ulasan atau testimoni pembeli asli dari orang Jawa yang sudah pakai.",
+  "price_too_cheap": 15000,
+  "price_cheap": 35000,
+  "price_expensive": 75000,
+  "price_too_expensive": 120000
+}

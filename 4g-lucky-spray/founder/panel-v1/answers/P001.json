@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Rp189 ribu buat spray 5 ml yang katanya cuma buat bersih dan segar, padahal di Shopee yang mirip Rp50–100 ribu, jamu kuat di warung cuma Rp20–35 ribu. Iklannya sendiri bilang tidak menjanjikan efek apa-apa, terus buat apa saya bayar mahal?",
+  "objection": "Toko baru tanpa ulasan sama sekali, harganya dua kali lipat produk serupa di marketplace. Saya sudah sering kena iklan produk pria yang tidak terasa apa-apa, ini kelihatan sama saja.",
+  "would_change_my_mind": "Ada di Shopee/TikTok Shop dengan ratusan ulasan asli dan harga di bawah Rp100 ribu.",
+  "price_too_cheap": 15000,
+  "price_cheap": 45000,
+  "price_expensive": 85000,
+  "price_too_expensive": 130000
+}
