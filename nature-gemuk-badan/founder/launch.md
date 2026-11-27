@@ -2,6 +2,8 @@
 
 **Kesimpulan:** jangan "launch". Jalankan **uji Rp1,5 juta dengan tiga gerbang berhenti**, dan **hanya setelah 6 cek di Fase 0 lolos**. Maksimum rugi yang direncanakan: **±Rp1,3 juta** (iklan Rp1 jt yang gagal + startup Rp300rb), sekitar 22% modal. Keyakinan: tinggi bahwa batas rugi ini bisa dijaga kalau gerbang dipatuhi.
 
+**Rekomendasi (summary.md, opsi B):** setelah Fase 0 lolos, keluarkan hanya Rp450rb (sampai G1). Anggaran Rp1,5 jt penuh baru dibuka kalau G1 menunjukkan CPA menuju ≤ Rp35rb.
+
 ## Fase 0: cek yang harus RAP lakukan sendiri (27 Nov – 6 Des)
 | # | Cek | Cara | Lolos jika | Kalau gagal |
 |---|---|---|---|---|
