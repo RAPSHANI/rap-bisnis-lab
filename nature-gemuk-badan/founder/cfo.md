@@ -1,6 +1,6 @@
 # Catatan CFO (27 Nov 2026)
 
-**Kesimpulan:** dengan harga rencana RAP, **tidak ada paket yang lolos aturan mentor Rp45rb per order, bahkan kalau CPA tepat di anggaran mentor Rp22.500** (RTS 25%): satuan Rp41rb, B1G1 Rp35rb, B2G1 Rp38rb. Di CPA realistis Rp45rb, paket 30 hari Rp189rb menyisakan **Rp1.697 per order diterima (1%)** setelah garansi, atau ±Rp7,7rb tanpa garansi. Artinya bisnis ini **hanya untung kalau CPA ≤ ±Rp35rb dan RTS ≤ 25%**, dan hanya lolos aturan mentor kalau CPA ≤ ±Rp17rb. Keyakinan: tinggi untuk struktur hitungan, rendah untuk CPA/RTS (belum ada data nyata).
+**Kesimpulan:** dengan harga rencana RAP, **tidak ada paket yang lolos aturan mentor Rp45rb per order, bahkan kalau CPA tepat di anggaran mentor Rp22.500** (RTS 25%): satuan Rp41rb, B1G1 Rp35rb, B2G1 Rp38rb. Di CPA realistis Rp45rb, paket 30 hari Rp189rb menyisakan **Rp6.775 per order diterima (4%)** setelah garansi tukar botol (garansi uang Rp60rb dihapus di offer.md; dengan garansi uang hanya Rp1.697). Pada 5 order/hari itu laba setahun **±Rp6,5 juta**, dan **harga −10% atau biaya +15% langsung membuatnya rugi** (tabel what-if di bawah). Artinya bisnis ini **hanya untung kalau CPA ≤ ±Rp35rb dan RTS ≤ 25%**, dan hanya lolos aturan mentor kalau CPA ≤ ±Rp17rb. Keyakinan: tinggi untuk struktur hitungan, rendah untuk CPA/RTS (belum ada data nyata).
 
 **Kenapa beda dengan file analisis RAP (43,8 / 37,4 / 40,3rb):** file itu memakai iklan Rp25rb per order *diterima* (bukan per order masuk), ongkir terjauh Rp30rb, retur 5%. Di sini iklan dihitung per order masuk lalu dibagi tingkat diterima (CPA/0,75), ongkir rata-rata Rp20rb, RTS 25% (uji COD sebelumnya memakai 25–30%), dan ongkir retur 2 arah ditanggung RAP. RTS 5% untuk COD iklan Meta produk kesehatan dari toko baru tidak realistis.
 
@@ -38,12 +38,14 @@ RTS 20%: B2G1 @CPA 45rb = Rp15.030. RTS 35%: B2G1 @CPA 45rb = **−Rp10.355**.
 Hasil = order diterima × kontribusi sebelum iklan (pada RTS terkait) − Rp1,5 jt iklan. Belum termasuk startup Rp300rb.
 
 ## Kas
+**Angka "Cash you need" di tabel alat bawah (±Rp347rb) belum menghitung modal kerja**: HPP dibayar di muka dan COD cair belakangan. Pakai angka di bagian ini.
+
 RAP membayar HPP ke supplier di depan, plus ongkir. Per order paket 30 hari: ±Rp101rb tertahan (HPP Rp78,3rb + ongkir Rp20rb + packing) sampai COD cair (umumnya 3–14 hari, cek ekspedisi). Order retur: HPP kembali (kapan? tanyakan supplier), ongkir 2 arah hangus. 33 order dalam 10 hari = puncak tertahan **±Rp2,5–3,3 jt**, di luar iklan Rp1,5 jt. **Total kas yang harus siap untuk uji: ±Rp4,5 jt dari Rp6 jt.** Ini alasan tes harus kecil dan bertahap.
 
 ## Tiga cara memperbaiki margin (diuji dengan rumus yang sama)
 1. **Turunkan RTS dari 25% ke 15%** (konfirmasi WA + ongkos ditanggung sebagian pembeli/DP, atau transfer dengan bonus): B2G1 @CPA 45rb naik dari Rp7,7rb ke ±Rp26rb. Lever terbesar setelah CPA.
 2. **Ongkir rata-rata turun ke Rp15rb** (fokus iklan ke Jawa Timur/Tengah dekat gudang Ngawi): +Rp6,7rb per order (termasuk efek retur).
-3. **Hapus garansi uang** dan ganti dengan bonus botol fisik hanya bila sudah ada data klaim: +Rp6rb. Trade-off: panel tidak menganggap garansi berpengaruh (lihat offer.md).
+3. **Hapus garansi uang** (sudah dilakukan di offer.md): +Rp5rb per order (Rp1.697 → Rp6.775). Trade-off: hampir nol, panel menganggap garansi itu ribet.
 
 ## Syarat uang dari board
 - Margin ≥ Rp45rb per order diterima dengan data nyata: **TIDAK** terpenuhi di estimasi mana pun kecuali CPA ≤ Rp17rb.
@@ -67,49 +69,46 @@ Every number below comes from the input file. Nothing is looked up or guessed.
 | Packing/biaya supplier per paket (ESTIMASI, belum dikonfirmasi) | -Rp3.000 |
 | Biaya COD 3% (ESTIMASI, cek tarif ekspedisi) | -Rp5.670 |
 | Kerugian retur: RTS 25% x (ongkir 2 arah Rp40.000 + packing Rp3.000) / 0,75 (HPP dikembalikan supplier) | -Rp14.333 |
-| Garansi: 10% klaim x Rp60.000 transfer (ESTIMASI) | -Rp6.000 |
+| Garansi botol bocor/rusak/salah kirim: 2% x (HPP Rp26.100 + ongkir Rp20.000) (ESTIMASI; garansi uang dihapus di offer.md) | -Rp922 |
 | Iklan Meta: CPA Rp45.000 per order masuk / 0,75 diterima (ESTIMASI realistis; anggaran mentor Rp22.500-25.000) | -Rp60.000 |
-| **Contribution** (what each order paket 30 hari diterima pembeli leaves to pay the fixed costs) | **Rp1.697** (1%) |
+| **Contribution** (what each order paket 30 hari diterima pembeli leaves to pay the fixed costs) | **Rp6.775** (4%) |
 
 ## The margin that matters
 
 Fixed costs: Rp250.000 a month (Landing page/form + domain (ESTIMASI; bisa Rp0 jika hanya CTWA) Rp150.000, Pulsa/kuota WA admin (ESTIMASI) Rp100.000).
 
-- **Break-even: 5 order paket 30 hari diterima pembelis a day.** Below that you lose money every month.
-- **Profit margin at your plan** (5 a day): **0%** of every sale, after every cost.
+- **Break-even: 2 order paket 30 hari diterima pembelis a day.** Below that you lose money every month.
+- **Profit margin at your plan** (5 a day): **3%** of every sale, after every cost.
 
 ## Year 1, month by month
 
 | month | order paket 30 hari diterima pembelis a day | revenue | profit | cumulative (after Rp300.000 startup) |
 | ---: | ---: | ---: | ---: | ---: |
-| 1 | 1 | Rp5.670.000 | -Rp199.090 | -Rp499.090 |
-| 2 | 2 | Rp11.340.000 | -Rp148.180 | -Rp647.270 |
-| 3 | 3 | Rp17.010.000 | -Rp97.270 | -Rp744.540 |
-| 4 | 3 | Rp17.010.000 | -Rp97.270 | -Rp841.810 |
-| 5 | 4 | Rp22.680.000 | -Rp46.360 | -Rp888.170 |
-| 6 | 4 | Rp22.680.000 | -Rp46.360 | -Rp934.530 |
-| 7 | 5 | Rp28.350.000 | Rp4.550 | -Rp929.980 |
-| 8 | 5 | Rp28.350.000 | Rp4.550 | -Rp925.430 |
-| 9 | 5 | Rp28.350.000 | Rp4.550 | -Rp920.880 |
-| 10 | 5 | Rp28.350.000 | Rp4.550 | -Rp916.330 |
-| 11 | 5 | Rp28.350.000 | Rp4.550 | -Rp911.780 |
-| 12 | 5 | Rp28.350.000 | Rp4.550 | -Rp907.230 |
+| 1 | 1 | Rp5.670.000 | -Rp46.750 | -Rp346.750 |
+| 2 | 2 | Rp11.340.000 | Rp156.500 | -Rp190.250 |
+| 3 | 3 | Rp17.010.000 | Rp359.750 | Rp169.500 |
+| 4 | 3 | Rp17.010.000 | Rp359.750 | Rp529.250 |
+| 5 | 4 | Rp22.680.000 | Rp563.000 | Rp1.092.250 |
+| 6 | 4 | Rp22.680.000 | Rp563.000 | Rp1.655.250 |
+| 7 | 5 | Rp28.350.000 | Rp766.250 | Rp2.421.500 |
+| 8 | 5 | Rp28.350.000 | Rp766.250 | Rp3.187.750 |
+| 9 | 5 | Rp28.350.000 | Rp766.250 | Rp3.954.000 |
+| 10 | 5 | Rp28.350.000 | Rp766.250 | Rp4.720.250 |
+| 11 | 5 | Rp28.350.000 | Rp766.250 | Rp5.486.500 |
+| 12 | 5 | Rp28.350.000 | Rp766.250 | Rp6.252.750 |
 
-- **Year 1 operating profit: -Rp607.230** on Rp266.490.000 of revenue.
-- After the Rp300.000 startup spend: -Rp907.230.
-- Startup money earned back: not within year 1.
-- Cash you need before it pays for itself: **Rp934.530**.
+- **Year 1 operating profit: Rp6.552.750** on Rp266.490.000 of revenue.
+- After the Rp300.000 startup spend: Rp6.252.750.
+- Startup money earned back: month 3.
+- Cash you need before it pays for itself: **Rp346.750**.
 
 ## What if
 
 | scenario | margin at plan | break-even a day | year 1 profit |
 | --- | ---: | ---: | ---: |
-| Base plan | 0% | 5 | -Rp607.230 |
-| Price -10% | -11% | never | -Rp27.256.230 |
-| Volume -20% | -0% | 5 | -Rp1.085.784 |
-| Unit costs +15% | -15% | never | -Rp40.221.814 |
+| Base plan | 3% | 2 | Rp6.552.750 |
+| Price -10% | -8% | never | -Rp20.096.250 |
+| Volume -20% | 2% | 2 | Rp4.642.200 |
+| Unit costs +15% | -12% | never | -Rp31.987.838 |
 
-## Red flags
-
-- Year 1 loses money on operations (-Rp607.230).
-- The startup spend is not earned back within year 1.
+No red flags in these numbers. They are only as good as the inputs: check every cost against a real quote.
