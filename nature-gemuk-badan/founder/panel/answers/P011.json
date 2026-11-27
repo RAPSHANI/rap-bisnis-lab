@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Iklannya sendiri bilang kapsulnya sama dengan yang di Shopee, jadi aku pasti cek Shopee dulu dan beli 1-2 botol di sana yang jauh lebih murah. Rp189.000 itu hampir seminggu uang makanku, dan jadwal makan sama menu warteg bisa aku cari gratis di TikTok.",
+  "objection": "Aku bayar lebih mahal cuma buat admin WA dan PDF menu, padahal produknya sama. Waktu aku chat tanya naik berapa kilo dan berapa lama, jawabannya 'hasil beda-beda', jadi aku nggak punya alasan bayar lebih ke toko baru yang belum ada ulasannya.",
+  "would_change_my_mind": "Harga paket 30 hari yang selisihnya tipis dari Shopee (sekitar Rp130.000-an) plus ada testimoni orang asli dengan foto sebelum-sesudah dan berat badannya.",
+  "price_too_cheap": 25000,
+  "price_cheap": 60000,
+  "price_expensive": 120000,
+  "price_too_expensive": 170000
+}

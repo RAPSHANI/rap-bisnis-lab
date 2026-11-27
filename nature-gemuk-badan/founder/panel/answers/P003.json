@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Gaji saya cuma sekitar 2,5 juta sebulan, Rp189 ribu itu kerasa. Iklannya sendiri bilang kapsulnya sama dengan yang di Shopee, jadi mending saya beli satu botol di Shopee yang lebih murah, atau ya minum Curcuma atau jamu temulawak yang biasa disuruh ibu.",
+  "objection": "Toko baru, belum ada ulasan sama sekali, dan kapsul yang sama dijual lebih murah di marketplace. Jadwal makan sama chat WA itu menurut saya bukan alasan buat bayar lebih mahal.",
+  "would_change_my_mind": "Kalau ibu, istri, atau teman kerja sudah pernah beli dari toko ini dan bilang nafsu makannya beneran naik, terus harganya nggak jauh beda dari Shopee.",
+  "price_too_cheap": 25000,
+  "price_cheap": 50000,
+  "price_expensive": 100000,
+  "price_too_expensive": 150000
+}

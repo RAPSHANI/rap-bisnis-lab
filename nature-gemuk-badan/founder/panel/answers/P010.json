@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "BPOM TR-nya bikin aku agak tenang soal steroid, tapi iklannya sendiri bilang kapsul yang sama ada di marketplace. Jadi aku cek BPOM, terus beli botolnya di Shopee yang lebih murah; jadwal makan dan menu warteg bisa aku cari sendiri, dan admin WA yang nanya kabar tiga kali bukan sesuatu yang mau aku bayar mahal.",
+  "objection": "Selisih harganya untuk 'pendampingan' dari toko baru tanpa ulasan sama sekali. Aku juga masih takut jamu penggemuk bikin badan bengkak atau ada campuran bahan kimia, dan toko tanpa review nggak bisa ngeyakinin aku.",
+  "would_change_my_mind": "Harga paket 3 botol yang nggak jauh beda dari total harga 3 botol di Shopee, plus ulasan atau testimoni asli dari orang kantoran yang nggak ngalamin bengkak.",
+  "price_too_cheap": 40000,
+  "price_cheap": 90000,
+  "price_expensive": 150000,
+  "price_too_expensive": 200000
+}

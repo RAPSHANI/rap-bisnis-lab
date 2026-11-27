@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Iklannya sendiri bilang kapsul yang sama ada di marketplace, jadi saya cek BPOM-nya, lalu cari Nature Gemuk Badan di Shopee/TikTok Shop dan beli yang paling murah plus voucher ongkir. Jadwal makan dan menu warteg bisa saya cari gratis di TikTok, dan saya nggak butuh di-chat admin.",
+  "objection": "Rp189.000 buat 3 botol dari toko baru yang belum ada ulasan, padahal di marketplace kemungkinan jauh lebih murah dan ada ulasan pembelinya. Pendampingan WA buat saya bukan alasan bayar lebih.",
+  "would_change_my_mind": "Harga paketnya sama atau lebih murah daripada 3 botol termurah di Shopee/TikTok Shop, atau tokonya punya toko resmi di marketplace dengan banyak ulasan dan voucher.",
+  "price_too_cheap": 20000,
+  "price_cheap": 40000,
+  "price_expensive": 65000,
+  "price_too_expensive": 90000
+}

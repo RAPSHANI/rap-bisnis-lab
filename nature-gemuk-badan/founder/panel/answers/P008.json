@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Aku biasanya beli jamu kalau ibu atau pacar yang nyuruh, bukan dari iklan toko baru yang belum ada ulasannya. Rp189 ribu buat kapsul yang katanya sama kayak di marketplace, mending aku minum Curcuma yang udah jelas dulu.",
+  "objection": "Kalau berhentinya nanti kurus lagi, berarti aku harus beli terus tiap bulan, dan Rp189 ribu sebulan itu kerasa banget pas akhir bulan gaji udah tipis.",
+  "would_change_my_mind": "Kalau ibu atau teman dekat sudah pakai dan bilang nafsu makannya beneran balik dan nggak langsung turun lagi pas berhenti.",
+  "price_too_cheap": 30000,
+  "price_cheap": 75000,
+  "price_expensive": 130000,
+  "price_too_expensive": 190000
+}

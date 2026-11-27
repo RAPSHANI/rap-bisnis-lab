@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Aku bakal chat admin dulu, tapi kalau dijawab 'hasil beda-beda, nggak janji naik berapa kilo', aku langsung cek Shopee. Kapsulnya sama dan mereka sendiri bilang ada di marketplace, di sana ada ulasan dan biasanya lebih murah, jadi ngapain beli di toko baru yang belum ada review.",
+  "objection": "Toko baru tanpa ulasan, dan yang aku mau tahu (naik berapa kilo, berapa lama) justru nggak dijawab. Menu warteg dan diingetin admin itu bisa aku cari sendiri gratis, jadi selisih harganya buat apa?",
+  "would_change_my_mind": "Testimoni asli pembeli di toko ini (screenshot chat WA atau video TikTok sebelum-sesudah dengan berat badan), plus harga 1 botol yang nggak lebih mahal dari Shopee.",
+  "price_too_cheap": 30000,
+  "price_cheap": 60000,
+  "price_expensive": 120000,
+  "price_too_expensive": 180000
+}
