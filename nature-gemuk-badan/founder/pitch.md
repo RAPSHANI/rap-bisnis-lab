@@ -1,0 +1,6 @@
+Iklan Facebook/Instagram (18+), video tangan memegang botol dan menunjukkan layar cekbpom: "Cepat kenyang? Makan 5 suap udah nggak selera? Ini program 30 hari untuk balikin nafsu makan, pelan-pelan dan teratur."
+Program Berisi 30 Hari: 3 botol Nature Gemuk Badan (60 kapsul per botol; aturan 3x2 kapsul sebelum makan, jadi 3 botol = 30 hari pas). Obat tradisional terdaftar BPOM TR.183314351 (PT Jatim Herbal Perkasa, Ngawi), cek sendiri di cekbpom.pom.go.id. Bahan: temulawak, temu ireng, lempuyang, brotowali, jahe, kayu manis. Bukan untuk ibu hamil/menyusui.
+Termasuk: jadwal makan 3+2 untuk yang cepat kenyang, 30 menu tambahan kalori murah (lauk warteg, tanpa masak ribet), tracker 30 hari, dan admin WA yang mengingatkan dan cek perkembangan di hari ke-3, 10, dan 21.
+Jujur: kapsul yang sama ada di marketplace. Yang kamu bayar di sini adalah paket 30 hari lengkap dan pendampingannya. Hasil berbeda tiap orang; tidak ada janji naik sekian kilo.
+Garansi: kalau sudah minum sesuai jadwal 14 hari dan isi tracker tapi nafsu makan tidak membaik, botol ketiga yang masih tersegel kami tukar dengan uang Rp60.000 (transfer).
+Rp189.000 untuk 30 hari (Rp6.300 per hari). Mau coba dulu: 1 botol 10 hari Rp139.000 (tanpa pendampingan). Gratis ongkir Jawa–Bali, COD bayar di tempat, pesan lewat WhatsApp. Toko baru, belum ada ulasan pembeli di toko ini.

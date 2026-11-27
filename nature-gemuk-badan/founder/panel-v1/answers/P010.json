@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "BPOM-nya bisa dicek dan bahannya jamu biasa, itu bikin saya agak tenang. Tapi Rp139 ribu buat 10 hari itu mahal buat jamu temulawak, saya bakal cari nama yang sama di Shopee dulu, biasanya lebih murah dan ada ulasannya, jadi nggak beli dari toko WA baru ini.",
+  "objection": "Toko baru tanpa ulasan, harganya terasa ketinggian untuk kapsul jamu, dan saya masih takut ada campuran steroid atau bikin bengkak walaupun ada nomor BPOM.",
+  "would_change_my_mind": "Ada di official store Shopee/Tokopedia dengan banyak ulasan asli dan harga paket 30 hari di bawah Rp150 ribu.",
+  "price_too_cheap": 35000,
+  "price_cheap": 60000,
+  "price_expensive": 110000,
+  "price_too_expensive": 160000
+}

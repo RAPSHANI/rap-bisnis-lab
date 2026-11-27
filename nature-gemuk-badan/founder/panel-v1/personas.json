@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Nico",
+  "age": 31,
+  "segment": "Ibu muda 25–35 yang berat badannya turun karena capek urus rumah dan anak (tidak hamil/menyusui)",
+  "income": 49353000,
+  "behaviour": "Impulsif lihat iklan malam",
+  "behaviour_how": "Gampang tergoda iklan jam 9–12 malam, langsung pesan COD, kadang menyesal dan menolak paket.",
+  "objection": "Sudah pernah coba jamu penggemuk, nggak ngefek",
+  "habit": "kamu pernah menolak paket COD karena berubah pikiran"
+ },
+ {
+  "id": "P002",
+  "name": "Felix",
+  "age": 35,
+  "segment": "Wanita 22–32, karyawan/admin/penjaga toko, ingin badan lebih berisi",
+  "income": 42830000,
+  "behaviour": "Penanya di WA",
+  "behaviour_how": "Tidak langsung beli; chat admin dulu, tanya berapa kilo naiknya dan berapa lama, baru memutuskan.",
+  "objection": "Benar terdaftar BPOM atau palsu?",
+  "habit": "kamu punya aplikasi Shopee dan sering cek harga di sana"
+ },
+ {
+  "id": "P003",
+  "name": "Yara",
+  "age": 35,
+  "segment": "Pria 20–28 kurus, pekerja pabrik/gudang/ojol atau mahasiswa",
+  "income": 30470000,
+  "behaviour": "Penurut saran keluarga",
+  "behaviour_how": "Biasanya disuruh ibu/pasangan minum Curcuma atau jamu temulawak; beli kalau ada yang merekomendasikan.",
+  "objection": "Di Shopee ada yang jual produk yang sama jauh lebih murah",
+  "habit": "kamu pernah beli Curcuma atau jamu temulawak di warung/apotek"
+ },
+ {
+  "id": "P004",
+  "name": "Min",
+  "age": 21,
+  "segment": "Pria 20–28 kurus, pekerja pabrik/gudang/ojol atau mahasiswa",
+  "income": 40751000,
+  "behaviour": "Pemburu murah marketplace",
+  "behaviour_how": "Lihat iklan, lalu cari nama produknya di Shopee/Tokopedia/TikTok Shop untuk cari harga paling murah.",
+  "objection": "Curcuma di apotek cuma belasan ribu, kenapa harus yang ini",
+  "habit": "kamu punya aplikasi Shopee dan sering cek harga di sana"
+ },
+ {
+  "id": "P005",
+  "name": "Ana",
+  "age": 20,
+  "segment": "Pria 20–28 kurus, pekerja pabrik/gudang/ojol atau mahasiswa",
+  "income": 42450000,
+  "behaviour": "Pemburu murah marketplace",
+  "behaviour_how": "Lihat iklan, lalu cari nama produknya di Shopee/Tokopedia/TikTok Shop untuk cari harga paling murah.",
+  "objection": "Takut ada obat kimia atau steroid yang bikin bengkak atau ketergantungan",
+  "habit": "kamu scroll Facebook atau Instagram sebelum tidur jam 10–12 malam"
+ },
+ {
+  "id": "P006",
+  "name": "Arjun",
+  "age": 34,
+  "segment": "Wanita 22–32, karyawan/admin/penjaga toko, ingin badan lebih berisi",
+  "income": 49298000,
+  "behaviour": "Takut obat kimia",
+  "behaviour_how": "Mau gemuk tapi takut efek samping, cek BPOM dulu dan khawatir ada steroid atau bikin bengkak.",
+  "objection": "Satu botol cuma 10 hari, berarti harus beli berkali-kali, mahal",
+  "habit": "gajimu cair tanggal 25 dan sebelum tanggal 10 sudah tipis"
+ },
+ {
+  "id": "P007",
+  "name": "Rohan",
+  "age": 25,
+  "segment": "Wanita 22–32, karyawan/admin/penjaga toko, ingin badan lebih berisi",
+  "income": 59718000,
+  "behaviour": "Pemburu murah marketplace",
+  "behaviour_how": "Lihat iklan, lalu cari nama produknya di Shopee/Tokopedia/TikTok Shop untuk cari harga paling murah.",
+  "objection": "Curcuma di apotek cuma belasan ribu, kenapa harus yang ini",
+  "habit": "kamu punya aplikasi Shopee dan sering cek harga di sana"
+ },
+ {
+  "id": "P008",
+  "name": "Sol",
+  "age": 28,
+  "segment": "Karyawan kantoran 25–35 yang sering lupa makan karena sibuk",
+  "income": 99750000,
+  "behaviour": "Penurut saran keluarga",
+  "behaviour_how": "Biasanya disuruh ibu/pasangan minum Curcuma atau jamu temulawak; beli kalau ada yang merekomendasikan.",
+  "objection": "Kalau berhenti minum, nanti kurus lagi",
+  "habit": "gajimu cair tanggal 25 dan sebelum tanggal 10 sudah tipis"
+ },
+ {
+  "id": "P009",
+  "name": "Rhys",
+  "age": 20,
+  "segment": "Pria 20–28 kurus, pekerja pabrik/gudang/ojol atau mahasiswa",
+  "income": 27189000,
+  "behaviour": "Impulsif lihat iklan malam",
+  "behaviour_how": "Gampang tergoda iklan jam 9–12 malam, langsung pesan COD, kadang menyesal dan menolak paket.",
+  "objection": "Satu botol cuma 10 hari, berarti harus beli berkali-kali, mahal",
+  "habit": "kamu pernah menolak paket COD karena berubah pikiran"
+ },
+ {
+  "id": "P010",
+  "name": "Wes",
+  "age": 29,
+  "segment": "Karyawan kantoran 25–35 yang sering lupa makan karena sibuk",
+  "income": 83419000,
+  "behaviour": "Takut obat kimia",
+  "behaviour_how": "Mau gemuk tapi takut efek samping, cek BPOM dulu dan khawatir ada steroid atau bikin bengkak.",
+  "objection": "Di Shopee ada yang jual produk yang sama jauh lebih murah",
+  "habit": "kamu pernah menolak paket COD karena berubah pikiran"
+ },
+ {
+  "id": "P011",
+  "name": "Sam",
+  "age": 20,
+  "segment": "Wanita 22–32, karyawan/admin/penjaga toko, ingin badan lebih berisi",
+  "income": 32862000,
+  "behaviour": "Penanya di WA",
+  "behaviour_how": "Tidak langsung beli; chat admin dulu, tanya berapa kilo naiknya dan berapa lama, baru memutuskan.",
+  "objection": "Di Shopee ada yang jual produk yang sama jauh lebih murah",
+  "habit": "kamu pernah beli Curcuma atau jamu temulawak di warung/apotek"
+ },
+ {
+  "id": "P012",
+  "name": "Emil",
+  "age": 30,
+  "segment": "Wanita 22–32, karyawan/admin/penjaga toko, ingin badan lebih berisi",
+  "income": 50646000,
+  "behaviour": "Penurut saran keluarga",
+  "behaviour_how": "Biasanya disuruh ibu/pasangan minum Curcuma atau jamu temulawak; beli kalau ada yang merekomendasikan.",
+  "objection": "Benar terdaftar BPOM atau palsu?",
+  "habit": "kamu punya aplikasi Shopee dan sering cek harga di sana"
+ },
+ {
+  "id": "P013",
+  "name": "Darius",
+  "age": 24,
+  "segment": "Ibu muda 25–35 yang berat badannya turun karena capek urus rumah dan anak (tidak hamil/menyusui)",
+  "income": 46676000,
+  "behaviour": "Skeptis pernah kecewa",
+  "behaviour_how": "Pernah minum vitamin atau jamu penggemuk yang tidak ada efeknya, jadi curiga pada iklan sejenis.",
+  "objection": "Benar terdaftar BPOM atau palsu?",
+  "habit": "gajimu cair tanggal 25 dan sebelum tanggal 10 sudah tipis"
+ },
+ {
+  "id": "P014",
+  "name": "Liam",
+  "age": 27,
+  "segment": "Wanita 22–32, karyawan/admin/penjaga toko, ingin badan lebih berisi",
+  "income": 33319000,
+  "behaviour": "Skeptis pernah kecewa",
+  "behaviour_how": "Pernah minum vitamin atau jamu penggemuk yang tidak ada efeknya, jadi curiga pada iklan sejenis.",
+  "objection": "Curcuma di apotek cuma belasan ribu, kenapa harus yang ini",
+  "habit": "kamu scroll Facebook atau Instagram sebelum tidur jam 10–12 malam"
+ },
+ {
+  "id": "P015",
+  "name": "Noah",
+  "age": 22,
+  "segment": "Karyawan kantoran 25–35 yang sering lupa makan karena sibuk",
+  "income": 64478000,
+  "behaviour": "Penanya di WA",
+  "behaviour_how": "Tidak langsung beli; chat admin dulu, tanya berapa kilo naiknya dan berapa lama, baru memutuskan.",
+  "objection": "Di Shopee ada yang jual produk yang sama jauh lebih murah",
+  "habit": "gajimu cair tanggal 25 dan sebelum tanggal 10 sudah tipis"
+ },
+ {
+  "id": "P016",
+  "name": "Hana",
+  "age": 28,
+  "segment": "Pria 20–28 kurus, pekerja pabrik/gudang/ojol atau mahasiswa",
+  "income": 39629000,
+  "behaviour": "Takut obat kimia",
+  "behaviour_how": "Mau gemuk tapi takut efek samping, cek BPOM dulu dan khawatir ada steroid atau bikin bengkak.",
+  "objection": "Benar terdaftar BPOM atau palsu?",
+  "habit": "tiap kumpul keluarga ada yang bilang kamu kok kurus banget"
+ },
+ {
+  "id": "P017",
+  "name": "Finn",
+  "age": 35,
+  "segment": "Karyawan kantoran 25–35 yang sering lupa makan karena sibuk",
+  "income": 95685000,
+  "behaviour": "Pemburu murah marketplace",
+  "behaviour_how": "Lihat iklan, lalu cari nama produknya di Shopee/Tokopedia/TikTok Shop untuk cari harga paling murah.",
+  "objection": "Benar terdaftar BPOM atau palsu?",
+  "habit": "kamu scroll Facebook atau Instagram sebelum tidur jam 10–12 malam"
+ },
+ {
+  "id": "P018",
+  "name": "Elle",
+  "age": 20,
+  "segment": "Wanita 22–32, karyawan/admin/penjaga toko, ingin badan lebih berisi",
+  "income": 34764000,
+  "behaviour": "Skeptis pernah kecewa",
+  "behaviour_how": "Pernah minum vitamin atau jamu penggemuk yang tidak ada efeknya, jadi curiga pada iklan sejenis.",
+  "objection": "Di Shopee ada yang jual produk yang sama jauh lebih murah",
+  "habit": "kamu pernah menolak paket COD karena berubah pikiran"
+ },
+ {
+  "id": "P019",
+  "name": "Dev",
+  "age": 31,
+  "segment": "Ibu muda 25–35 yang berat badannya turun karena capek urus rumah dan anak (tidak hamil/menyusui)",
+  "income": 35749000,
+  "behaviour": "Skeptis pernah kecewa",
+  "behaviour_how": "Pernah minum vitamin atau jamu penggemuk yang tidak ada efeknya, jadi curiga pada iklan sejenis.",
+  "objection": "Curcuma di apotek cuma belasan ribu, kenapa harus yang ini",
+  "habit": "kamu scroll Facebook atau Instagram sebelum tidur jam 10–12 malam"
+ },
+ {
+  "id": "P020",
+  "name": "Ruby",
+  "age": 23,
+  "segment": "Pria 20–28 kurus, pekerja pabrik/gudang/ojol atau mahasiswa",
+  "income": 26331000,
+  "behaviour": "Impulsif lihat iklan malam",
+  "behaviour_how": "Gampang tergoda iklan jam 9–12 malam, langsung pesan COD, kadang menyesal dan menolak paket.",
+  "objection": "Satu botol cuma 10 hari, berarti harus beli berkali-kali, mahal",
+  "habit": "gajimu cair tanggal 25 dan sebelum tanggal 10 sudah tipis"
+ }
+]

@@ -1,0 +1,98 @@
+{
+ "n": 20,
+ "seed": 985514,
+ "customer": {
+  "business": "Nature Gemuk Badan, kapsul herbal penambah nafsu makan (dropship, iklan Meta ke WhatsApp/landing page, COD)",
+  "target": "orang dewasa 20–35 tahun di Jawa–Bali yang merasa terlalu kurus, cepat kenyang, dan susah naik berat badan, lalu melihat iklan Facebook/Instagram. Catatan: angka pendapatan dalam RUPIAH per tahun (bukan dolar), dan semua harga dalam Rupiah",
+  "where": "Jawa–Bali, kota kecil dan menengah (tier 2–3), pembeli online lewat iklan Facebook/Instagram",
+  "age": [
+   20,
+   35
+  ],
+  "segments": [
+   {
+    "name": "Wanita 22–32, karyawan/admin/penjaga toko, ingin badan lebih berisi",
+    "share": 0.35,
+    "income": [
+     30000000,
+     60000000
+    ]
+   },
+   {
+    "name": "Pria 20–28 kurus, pekerja pabrik/gudang/ojol atau mahasiswa",
+    "share": 0.3,
+    "income": [
+     18000000,
+     48000000
+    ]
+   },
+   {
+    "name": "Karyawan kantoran 25–35 yang sering lupa makan karena sibuk",
+    "share": 0.2,
+    "income": [
+     60000000,
+     120000000
+    ]
+   },
+   {
+    "name": "Ibu muda 25–35 yang berat badannya turun karena capek urus rumah dan anak (tidak hamil/menyusui)",
+    "share": 0.15,
+    "income": [
+     24000000,
+     60000000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Pemburu murah marketplace",
+    "share": 0.22,
+    "how": "Lihat iklan, lalu cari nama produknya di Shopee/Tokopedia/TikTok Shop untuk cari harga paling murah."
+   },
+   {
+    "name": "Skeptis pernah kecewa",
+    "share": 0.18,
+    "how": "Pernah minum vitamin atau jamu penggemuk yang tidak ada efeknya, jadi curiga pada iklan sejenis."
+   },
+   {
+    "name": "Takut obat kimia",
+    "share": 0.16,
+    "how": "Mau gemuk tapi takut efek samping, cek BPOM dulu dan khawatir ada steroid atau bikin bengkak."
+   },
+   {
+    "name": "Impulsif lihat iklan malam",
+    "share": 0.14,
+    "how": "Gampang tergoda iklan jam 9–12 malam, langsung pesan COD, kadang menyesal dan menolak paket."
+   },
+   {
+    "name": "Penanya di WA",
+    "share": 0.15,
+    "how": "Tidak langsung beli; chat admin dulu, tanya berapa kilo naiknya dan berapa lama, baru memutuskan."
+   },
+   {
+    "name": "Penurut saran keluarga",
+    "share": 0.15,
+    "how": "Biasanya disuruh ibu/pasangan minum Curcuma atau jamu temulawak; beli kalau ada yang merekomendasikan."
+   }
+  ],
+  "objections": [
+   "Satu botol cuma 10 hari, berarti harus beli berkali-kali, mahal",
+   "Di Shopee ada yang jual produk yang sama jauh lebih murah",
+   "Takut ada obat kimia atau steroid yang bikin bengkak atau ketergantungan",
+   "Sudah pernah coba jamu penggemuk, nggak ngefek",
+   "Kalau berhenti minum, nanti kurus lagi",
+   "Benar terdaftar BPOM atau palsu?",
+   "Curcuma di apotek cuma belasan ribu, kenapa harus yang ini"
+  ],
+  "habits": [
+   "kamu scroll Facebook atau Instagram sebelum tidur jam 10–12 malam",
+   "tiap kumpul keluarga ada yang bilang kamu kok kurus banget",
+   "kamu punya aplikasi Shopee dan sering cek harga di sana",
+   "gajimu cair tanggal 25 dan sebelum tanggal 10 sudah tipis",
+   "kamu sering melewatkan sarapan dan makan siang tidak teratur",
+   "kamu pernah menolak paket COD karena berubah pikiran",
+   "kamu pernah beli Curcuma atau jamu temulawak di warung/apotek"
+  ]
+ },
+ "pitch": "Iklan Facebook/Instagram (18+), video tangan memegang botol dan menunjukkan layar cekbpom: \"Cepat kenyang? Makan 5 suap udah nggak selera? Ini program 30 hari untuk balikin nafsu makan, pelan-pelan dan teratur.\"\nProgram Berisi 30 Hari: 3 botol Nature Gemuk Badan (60 kapsul per botol; aturan 3x2 kapsul sebelum makan, jadi 3 botol = 30 hari pas). Obat tradisional terdaftar BPOM TR.183314351 (PT Jatim Herbal Perkasa, Ngawi), cek sendiri di cekbpom.pom.go.id. Bahan: temulawak, temu ireng, lempuyang, brotowali, jahe, kayu manis. Bukan untuk ibu hamil/menyusui.\nTermasuk: jadwal makan 3+2 untuk yang cepat kenyang, 30 menu tambahan kalori murah (lauk warteg, tanpa masak ribet), tracker 30 hari, dan admin WA yang mengingatkan dan cek perkembangan di hari ke-3, 10, dan 21.\nJujur: kapsul yang sama ada di marketplace. Yang kamu bayar di sini adalah paket 30 hari lengkap dan pendampingannya. Hasil berbeda tiap orang; tidak ada janji naik sekian kilo.\nGaransi: kalau sudah minum sesuai jadwal 14 hari dan isi tracker tapi nafsu makan tidak membaik, botol ketiga yang masih tersegel kami tukar dengan uang Rp60.000 (transfer).\nRp189.000 untuk 30 hari (Rp6.300 per hari). Mau coba dulu: 1 botol 10 hari Rp139.000 (tanpa pendampingan). Gratis ongkir Jawa–Bali, COD bayar di tempat, pesan lewat WhatsApp. Toko baru, belum ada ulasan pembeli di toko ini."
+}

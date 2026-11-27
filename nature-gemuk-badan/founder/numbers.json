@@ -1,0 +1,71 @@
+{
+  "business": "Nature Gemuk Badan, Program Berisi 30 Hari (3 botol) Rp189.000 via Meta Ads -> WhatsApp -> COD, dropship",
+  "unit": "order paket 30 hari diterima pembeli",
+  "price": 189000,
+  "variable": [
+    {
+      "label": "HPP 3 botol x Rp26.100 (dari RAP)",
+      "cost": 78300
+    },
+    {
+      "label": "Ongkir kirim rata-rata Jawa-Bali (ESTIMASI: Rp12rb terdekat s/d Rp30rb terjauh dari RAP; 3 botol diasumsikan masih 1 kg)",
+      "cost": 20000
+    },
+    {
+      "label": "Packing/biaya supplier per paket (ESTIMASI, belum dikonfirmasi)",
+      "cost": 3000
+    },
+    {
+      "label": "Biaya COD 3% (ESTIMASI, cek tarif ekspedisi)",
+      "cost": 5670
+    },
+    {
+      "label": "Kerugian retur: RTS 25% x (ongkir 2 arah Rp40.000 + packing Rp3.000) / 0,75 (HPP dikembalikan supplier)",
+      "cost": 14333
+    },
+    {
+      "label": "Garansi botol bocor/rusak/salah kirim: 2% x (HPP Rp26.100 + ongkir Rp20.000) (ESTIMASI; garansi uang dihapus di offer.md)",
+      "cost": 922
+    },
+    {
+      "label": "Iklan Meta: CPA Rp45.000 per order masuk / 0,75 diterima (ESTIMASI realistis; anggaran mentor Rp22.500-25.000)",
+      "cost": 60000
+    }
+  ],
+  "fixed_monthly": [
+    {
+      "label": "Landing page/form + domain (ESTIMASI; bisa Rp0 jika hanya CTWA)",
+      "cost": 150000
+    },
+    {
+      "label": "Pulsa/kuota WA admin (ESTIMASI)",
+      "cost": 100000
+    }
+  ],
+  "startup": [
+    {
+      "label": "Beli 1-3 botol sendiri untuk cek label, kemasan, kecepatan kirim (ESTIMASI)",
+      "cost": 100000
+    },
+    {
+      "label": "Kreatif video/foto tanpa model + PDF bonus (dibuat sendiri, ESTIMASI)",
+      "cost": 200000
+    }
+  ],
+  "days_per_month": 30,
+  "plan_per_day": 5,
+  "ramp_per_day": [
+    1,
+    2,
+    3,
+    3,
+    4,
+    4,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+  ]
+}
