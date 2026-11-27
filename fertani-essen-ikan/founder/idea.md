@@ -2,9 +2,9 @@
 
 - What it is: menjual ulang (dropship) FERTANI Essen Ikan, essen umpan pancing dalam bentuk kapsul (30 kapsul/botol, 1–2 kapsul per sesi), lewat Meta Ads ke landing page.
 - Who it is for: pemancing hobi kolam air tawar (mas, nila, lele, bawal, patin, gurame): kolam harian, kilo gebrus, galatama, lomba. Pasar nasional, fokus Jawa–Bali (gratis ongkir).
-- What it sells, at what price: 1 botol 30 kapsul. Paket di halaman supplier: Beli 1, Beli 1 Gratis 1, Beli 2 Gratis 1. HARGA BELUM DIKETAHUI (tidak terbaca dari halaman, sudah ditanyakan ke RAP).
+- What it sells, at what price: botol 30 kapsul. Paket: Beli 1 = Rp129.000 (1 botol), Beli 1 Gratis 1 = Rp139.000 (2 botol), Beli 2 Gratis 1 = Rp169.000 (3 botol). Harga sudah termasuk ongkir (gratis ongkir Jawa–Bali, ongkir dibayar RAP dari harga jual). HPP dropship Rp18.450 per botol (angka dari RAP/supplier).
 - Where and how: online. Iklan Meta (FB/IG) -> landing page form.id (katalogco) -> checkout COD / transfer / VA / QRIS. Pengiriman oleh supplier (dropship).
-- Budget and constraints: modal per botol, ongkir, aturan retur COD, dan budget iklan BELUM DIKETAHUI (ditanyakan ke RAP).
+- Budget and constraints: total modal Rp6.000.000 untuk uji. COD tersedia; supplier tidak punya data retur (RTS); ongkir retur ditanggung RAP. Tidak ada tim, tidak ada stok (dropship). Ongkir rata-rata per paket BELUM DIKONFIRMASI: estimasi Rp20.000.
 
 ## Catatan konteks
 - Default pasar CLAUDE.md (wisatawan Jawa Tengah) TIDAK berlaku untuk bisnis ini.
