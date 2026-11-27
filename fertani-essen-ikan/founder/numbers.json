@@ -1,0 +1,22 @@
+{
+  "business": "Fertani Essen Ikan (dropship, Meta Ads ke landing page, COD) - penawaran v2",
+  "unit": "order diterima pembeli",
+  "price": 158500,
+  "variable": [
+    {"label": "HPP rata-rata 2,65 botol x Rp18.450 (mix 35% paket 2 botol / 65% paket 3 botol, ASUMSI mix)", "cost": 48893},
+    {"label": "Ongkir kirim rata-rata (ESTIMASI tertimbang dari Rp12.000 Jakarta s/d Rp30.000 Bali)", "cost": 18325},
+    {"label": "Biaya COD 3% (ESTIMASI)", "cost": 4755},
+    {"label": "Kerugian retur: RTS 25% x ongkir 2 arah Rp36.650 / 0,75 (HPP dikembalikan supplier)", "cost": 12217},
+    {"label": "Iklan Meta: CPA Rp45.000 per order masuk / 0,75 diterima (ESTIMASI)", "cost": 60000}
+  ],
+  "fixed_monthly": [
+    {"label": "Landing page / form builder + domain (ESTIMASI)", "cost": 150000}
+  ],
+  "startup": [
+    {"label": "Beli 1 paket sendiri untuk uji kolam + konten", "cost": 200000},
+    {"label": "Pembuatan kreatif video/foto (ESTIMASI)", "cost": 300000}
+  ],
+  "days_per_month": 30,
+  "plan_per_day": 6,
+  "ramp_per_day": [2, 3, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6]
+}

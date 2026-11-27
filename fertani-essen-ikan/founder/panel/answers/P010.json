@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Seratus ribu lebih buat essen itu kebanyakan buat saya, itu sama kayak tiket kolam harian plus umpan dua-tiga minggu. Di Shopee essen botolan Rp15–30 ribu banyak yang terjual ribuan, ya saya pakai itu saja.",
+  "objection": "Harganya jauh di atas yang biasa saya beli, terus nggak ada nama toko, nggak ada testimoni, nggak jelas isinya apa. Walau bisa COD, saya takut sudah bayar mahal ternyata ikannya tetap nggak mau makan.",
+  "would_change_my_mind": "Ada versi satuan atau isi kecil sekitar Rp35–50 ribu di Shopee dengan banyak ulasan dan video orang dapat ikan pakai ini di kolam harian.",
+  "price_too_cheap": 10000,
+  "price_cheap": 25000,
+  "price_expensive": 50000,
+  "price_too_expensive": 75000
+}

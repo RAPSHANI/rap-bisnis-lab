@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Seratus enam puluh ribu itu uang makan saya beberapa hari, sementara essen botolan yang saya racik sendiri cuma belasan ribu dan sudah cukup buat sebulan. Belum ada satu pun teman sekolam yang pakai ini, jadi buat apa saya coba duluan.",
+  "objection": "Toko baru, belum ada ulasan, isinya juga tidak ditulis. Paling kecil harus beli 2 botol, Rp139 ribu. Video dari pemiliknya sendiri ya pasti bagus-bagusnya saja yang ditunjukkan.",
+  "would_change_my_mind": "Kalau saya lihat sendiri teman di kolam yang sama sering strike pakai kapsul ini, lalu bisa beli 1 botol saja di bawah Rp40 ribu, atau minta coba satu-dua kapsul dulu.",
+  "price_too_cheap": 5000,
+  "price_cheap": 20000,
+  "price_expensive": 40000,
+  "price_too_expensive": 60000
+}

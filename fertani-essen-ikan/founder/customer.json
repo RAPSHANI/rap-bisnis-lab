@@ -1,0 +1,36 @@
+{
+  "business": "Fertani Essen Ikan (dropship, iklan Meta ke landing page, COD)",
+  "target": "pemancing hobi kolam air tawar di Jawa–Bali, laki-laki 22–55 tahun, mancing di kolam harian, kilo gebrus atau galatama minimal 2x sebulan, scroll Facebook dan Instagram. Catatan: angka pendapatan di atas dalam RUPIAH per tahun (bukan dolar), dan semua harga dalam Rupiah",
+  "where": "Jawa–Bali, pembeli online lewat iklan Facebook/Instagram",
+  "age": [22, 55],
+  "segments": [
+    {"name": "Pekerja harian/buruh/ojol yang mancing di kolam harian", "share": 0.40, "income": [24000000, 48000000]},
+    {"name": "Karyawan/pegawai yang mancing akhir pekan", "share": 0.35, "income": [48000000, 96000000]},
+    {"name": "Pemancing galatama/lomba yang rutin ikut kontes", "share": 0.15, "income": [60000000, 180000000]},
+    {"name": "Pemilik usaha kecil, mancing untuk santai", "share": 0.10, "income": [90000000, 240000000]}
+  ],
+  "behaviours": [
+    {"name": "Peracik sendiri", "share": 0.22, "how": "Meracik umpan sendiri dari pelet, essen cair dan biang; bangga dengan resep sendiri."},
+    {"name": "Ikut kata teman sekolam", "share": 0.20, "how": "Membeli essen yang dipakai pemancing yang sering strike di kolam yang sama."},
+    {"name": "Pemburu murah marketplace", "share": 0.18, "how": "Membandingkan harga di Shopee/Tokopedia, beli yang Rp20–50 ribu dengan banyak terjual."},
+    {"name": "Pemula yang gampang tergoda iklan", "share": 0.15, "how": "Baru 1–2 tahun mancing, sering zonk, tertarik iklan yang menjanjikan ikan cepat makan."},
+    {"name": "Beli di toko pancing dekat kolam", "share": 0.15, "how": "Beli essen langsung di warung/toko pancing sebelum mancing, tidak suka belanja online."},
+    {"name": "Pemancing lomba yang cari keunggulan", "share": 0.10, "how": "Mau bayar mahal untuk essen yang terbukti juara, tapi skeptis dengan produk baru tanpa nama."}
+  ],
+  "objections": [
+    "Rp129 ribu satu botol itu mahal, essen cair cuma 30–40 ribu",
+    "Belum ada testimoni, ikan beneran makan atau cuma klaim?",
+    "Merek Fertani belum pernah dengar, komposisinya apa?",
+    "Saya biasa racik sendiri, kapsul malah ribet dibuka",
+    "Takut barang tidak sampai atau beda, mending COD saja",
+    "Di Shopee pasti ada yang lebih murah",
+    "Tiap kolam beda selera ikan, satu essen untuk semua ikan kok bisa"
+  ],
+  "habits": [
+    "kamu mancing di kolam harian dekat rumah tiap Minggu pagi",
+    "kamu sering zonk 2–3 jam tanpa sambaran",
+    "kamu ikut grup Facebook pemancing di daerahmu",
+    "kamu punya tas pancing yang pernah bau karena essen tumpah",
+    "tiket kolam harian Rp30–60 ribu sekali mancing"
+  ]
+}

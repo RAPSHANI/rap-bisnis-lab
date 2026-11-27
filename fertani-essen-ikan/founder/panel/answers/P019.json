@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Seratus dua puluh sembilan ribu buat essen itu sama dengan uang harian saya, padahal di toko pancing dekat kolam essen botolan cuma 10-20 ribu dan bisa langsung dicoba. Saya juga nggak biasa beli online, apalagi dari iklan yang nggak jelas tokonya.",
+  "objection": "Tiap kolam beda selera ikan, satu kapsul untuk mas, nila, lele, bawal sekaligus kok bisa? Nggak ada komposisi, nggak ada testimoni, nggak ada nama toko, kayak barang iklan yang belum tentu nendang.",
+  "would_change_my_mind": "Kalau ada di toko pancing dekat kolam, dijual eceran per kapsul atau sachet 5-10 ribu, dan saya lihat sendiri teman satu kolam narik ikan pakai itu.",
+  "price_too_cheap": 5000,
+  "price_cheap": 15000,
+  "price_expensive": 35000,
+  "price_too_expensive": 60000
+}

@@ -1,0 +1,144 @@
+{
+ "business": "Fertani Essen Ikan (dropship, iklan Meta ke landing page, COD)",
+ "seed": 7,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 0,
+ "passes": 20,
+ "buy_rate": 0.0,
+ "by_segment": [
+  [
+   "Pemancing galatama/lomba yang rutin ikut kontes",
+   3,
+   0.0
+  ],
+  [
+   "Karyawan/pegawai yang mancing akhir pekan",
+   7,
+   0.0
+  ],
+  [
+   "Pemilik usaha kecil, mancing untuk santai",
+   2,
+   0.0
+  ],
+  [
+   "Pekerja harian/buruh/ojol yang mancing di kolam harian",
+   8,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Ikut kata teman sekolam",
+   4,
+   0.0
+  ],
+  [
+   "Pemancing lomba yang cari keunggulan",
+   2,
+   0.0
+  ],
+  [
+   "Pemula yang gampang tergoda iklan",
+   3,
+   0.0
+  ],
+  [
+   "Pemburu murah marketplace",
+   4,
+   0.0
+  ],
+  [
+   "Beli di toko pancing dekat kolam",
+   3,
+   0.0
+  ],
+  [
+   "Peracik sendiri",
+   4,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$77,459,000 and up",
+   7,
+   0.0
+  ],
+  [
+   "$47,484,000 to $77,459,000",
+   7,
+   0.0
+  ],
+  [
+   "under $47,484,000",
+   6,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   10,
+   [
+    "Buat lomba saya cuma pakai essen yang sudah terbukti di kolam galatama dan dipakai juara. Toko baru, komposisi tidak dicantumkan, belum ada ulasan, terus langsung disuruh ambil 3 botol. Saya tidak mau jadi kelinci percobaan pas lomba.",
+    "Videonya bikin penasaran, saya memang sering zonk berjam-jam. Tapi merek Fertani belum pernah dengar, komposisi tidak ditulis, belum ada ulasan, dan paket termurahnya Rp139.000 — terlalu mahal buat coba-coba barang yang belum jelas isinya."
+   ],
+   [
+    "P002",
+    "P003"
+   ]
+  ],
+  [
+   "price",
+   7,
+   [
+    "Paket paling murah Rp139 ribu, padahal essen di Shopee Rp20-30 ribu sudah banyak yang terjual ribuan. Toko baru, belum ada ulasan, komposisi nggak ditulis, saya nggak mau jadi kelinci percobaan buat mancing santai Minggu pagi.",
+    "Seratus enam puluh ribu itu uang makan saya beberapa hari, sementara essen botolan yang saya racik sendiri cuma belasan ribu dan sudah cukup buat sebulan. Belum ada satu pun teman sekolam yang pakai ini, jadi buat apa saya coba duluan."
+   ],
+   [
+    "P004",
+    "P006"
+   ]
+  ],
+  [
+   "habit",
+   3,
+   [
+    "Di galatama saya pakai essen yang dipakai jagoan kolam, bukan dari iklan. Merek kapsul baru tanpa ulasan dan tanpa komposisi belum pernah saya lihat dipakai orang yang sering strike, jadi uangnya mending ke essen yang sudah terbukti di lomba.",
+    "Saya biasa beli essen di toko pancing dekat kolam, sekalian lihat dan cium baunya, tanya yang jaga apa yang lagi jalan. Beli online dari toko baru yang belum ada ulasannya, Rp139–169 ribu sekali bayar, buat saya bukan kebiasaan dan terasa mahal dibanding essen cair 30–40 ribu."
+   ],
+   [
+    "P001",
+    "P007"
+   ]
+  ]
+ ],
+ "why_yes": [],
+ "flip": [
+  "Lihat sendiri pemancing yang sering juara di kolam saya pakai kapsul ini dan dapat sambaran, atau ada sampel 1-2 kapsul murah untuk dicoba di lomba sebelum beli paket.",
+  "Ada bukti hasil dari kolam galatama yang saya kenal atau dari pemancing lomba yang namanya jelas, ditambah bisa beli 1 botol dulu untuk dicoba saat latihan",
+  "Bisa beli 1 botol saja di kisaran Rp50–60 ribu pakai COD, plus ada video/testimoni pemancing lain (bukan cuma pemilik toko) dan komposisi dasarnya ditulis.",
+  "Ada pilihan beli 1 botol di bawah Rp50 ribu di Shopee dengan ulasan dan jumlah terjual yang banyak, atau teman di kolam harian sudah pakai dan terbukti strike.",
+  "Lihat sendiri teman sekolam yang sering strike pakai kapsul ini, dan ada pilihan beli satu botol saja harga di bawah Rp50 ribu buat coba dulu pakai COD.",
+  "Kalau saya lihat sendiri teman di kolam yang sama sering strike pakai kapsul ini, lalu bisa beli 1 botol saja di bawah Rp40 ribu, atau minta coba satu-dua kapsul dulu.",
+  "Ada di toko pancing dekat kolam saya dengan harga coba satuan sekitar Rp30–40 ribu, atau teman mancing di kolam yang sama sudah pakai dan terbukti dapat sambaran.",
+  "Ada paket coba 1 botol harga sekitar 35-45 ribu COD, plus testimoni dari pemancing lain di kolam harian yang saya kenal atau grup FB pancing.",
+  "Lihat sendiri teman sekolam yang biasa juara strike berturut-turut pakai kapsul ini, atau dikasih coba 1-2 kapsul gratis/murah dulu buat sekali sesi.",
+  "Ada satu botol eceran Rp35–45 ribu, bisa COD, dan teman di kolam sudah pakai dan strike beneran di depan saya.",
+  "Ada paket coba 1 botol sekitar 50-60 ribu, atau teman satu kolam yang saya kenal sudah pakai dan sambarannya kelihatan beda.",
+  "Ada satu botol coba di bawah 40 ribu di Shopee, dan ada teman di grup FB pemancing yang pamer hasil strike pakai ini.",
+  "Ada pemancing galatama yang saya kenal atau yang dikenal di kolam saya pakai dan juara, atau toko kasih 1 botol coba harga murah supaya saya uji sendiri di kolam harian dulu sebelum dipakai lomba.",
+  "Ada pilihan 1 botol coba sekitar Rp40–50 ribu di Shopee dengan ulasan pembeli asli dan foto strike, plus komposisi dicantumkan.",
+  "Ada teman di grup Facebook pemancing daerah saya yang sudah pakai dan strike, dan bisa beli 1 botol eceran murah di toko pancing dekat kolam.",
+  "Ada teman satu kolam atau orang lain yang bukan pemilik toko yang pakai dan beneran strike, plus bisa beli satu botol saja sekitar 30-40 ribu buat nyoba.",
+  "Ada eceran 1 botol atau sachet coba di bawah Rp30 ribu bisa COD, plus ada teman di grup Facebook mancing daerah saya yang posting strike pakai ini.",
+  "Ada pilihan 1 botol coba sekitar Rp50-60 ribu COD, ditambah testimoni atau video strike dari pemancing lain di kolam harian, bukan cuma dari pemilik toko.",
+  "Ada satu botol ecer harga sekitar 25-30 ribu yang dititip di toko pancing dekat kolam, dan saya lihat sendiri teman di kolam strike pakai itu.",
+  "Ada anggota grup mancing Facebook di daerah saya, bukan dari toko, yang posting hasil strike pakai kapsul ini di kolam harian, plus ada opsi beli satu botol saja dengan harga di bawah Rp50.000 buat coba dulu."
+ ],
+ "purchases_first_month_per_buyer": null,
+ "price_answers": 20
+}

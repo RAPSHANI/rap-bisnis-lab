@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Saya biasa racik sendiri, essen cair 30-40 ribu sudah buat banyak sesi. Rp129 ribu buat kapsul yang komposisinya saja tidak ditulis, tanpa testimoni dan tanpa nama toko, buat saya terlalu mahal dan terlalu gelap.",
+  "objection": "Isinya apa? Kalau cuma essen biasa dimasukkan kapsul, saya bayar tiga kali lipat cuma buat kemasan. Tidak ada bukti ikan beneran lebih nyambar, tidak ada nama toko yang bisa saya cek.",
+  "would_change_my_mind": "Lihat video jujur dari pemancing yang saya kenal atau di kolam yang saya tahu, ikannya nyambar pakai kapsul ini, plus ada paket coba kecil 5-10 kapsul sekitar 25-35 ribu.",
+  "price_too_cheap": 15000,
+  "price_cheap": 35000,
+  "price_expensive": 60000,
+  "price_too_expensive": 90000
+}
