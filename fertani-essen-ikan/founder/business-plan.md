@@ -220,7 +220,7 @@ A dan C hanya lebih baik kalau harga per botol yang lebih murah menurunkan CPA l
 Bonus non-diskon (panduan racikan + grup WA) untuk prabayar, dengan tanggal akhir nyata. Tanpa countdown palsu.
 
 ### 5. Yang diuji dengan pembeli nyata
-1. Organik dulu (Rp0): posting video uji di 3–5 grup FB pemancing lokal, tawarkan 1 botol Rp59.000 lewat WA. Ini menguji permintaan dan memberi testimoni pihak ketiga.
+1. Organik dulu (Rp0): posting video uji di 3–5 grup FB pemancing lokal, tawarkan 1 botol Rp75.000 lewat WA. Ini menguji permintaan dan memberi testimoni pihak ketiga.
 2. Meta Fase 1 dengan struktur B.
 3. Fase 2 hanya jika lulus gerbang CFO.
 
