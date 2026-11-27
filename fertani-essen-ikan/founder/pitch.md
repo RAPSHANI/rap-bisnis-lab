@@ -1,6 +1,4 @@
-Iklan Facebook/Instagram: "Ikan Kolam Lagi Mogok? Buka 1 Kapsul, Lempar." FERTANI Essen Ikan dalam bentuk kapsul.
-Isi 30 kapsul per botol. Pakai 1–2 kapsul per sesi: buka, campur ke adonan umpan (pelet, adonan putih/kuning, roti). Satu botol untuk 15–30 sesi mancing.
-Takaran pasti, tidak tumpah di tas, tangan tidak bau. Untuk ikan mas, nila, lele, bawal, patin, gurame; kolam harian, kilo gebrus, galatama.
-Harga: Beli 1 botol Rp129.000. Beli 1 Gratis 1 (2 botol) Rp139.000. Beli 2 Gratis 1 (3 botol) Rp169.000. Gratis ongkir Jawa–Bali.
-Bisa COD (bayar di tempat), transfer, atau QRIS. Barang rusak/bocor saat diterima diganti.
-Halaman tidak mencantumkan komposisi, testimoni pembeli, atau nama toko.
+Iklan Facebook/Instagram: video uji di kolam harian, "Ikan Kolam Lagi Mogok? Buka 1 Kapsul, Campur, Lempar." FERTANI Essen Ikan kapsul, dijual oleh [nama toko RAP], WA [nomor].
+30 kapsul per botol, 1–2 kapsul per sesi: buka, campur ke adonan pelet/roti, aduk. Takaran pasti, tidak tumpah di tas, tangan tidak bau. Tambahan untuk racikanmu, untuk mas, nila, lele, bawal, patin, gurame.
+Paket Juragan 3 botol (90 kapsul) Rp169.000, sekitar Rp2.500 per sesi. Paket 2 botol Rp139.000. 1 botol Rp129.000. Gratis ongkir Jawa–Bali.
+COD, transfer, atau QRIS. Bayar transfer/QRIS dapat bonus panduan racikan per jenis ikan + grup WA "lapor strike". Rusak/bocor diganti.

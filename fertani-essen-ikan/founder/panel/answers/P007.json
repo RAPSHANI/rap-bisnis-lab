@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Saya biasa beli essen di toko pancing dekat kolam, lihat barangnya, tanya yang jaga, langsung pakai. Beli online dari iklan Facebook tanpa nama toko, tanpa komposisi, tanpa testimoni, harga Rp129 ribu, saya tidak mau ambil risiko.",
+  "objection": "Rp129 ribu untuk satu botol itu mahal, essen cair di warung cuma 30–40 ribu. Belum ada bukti kapsul ini bikin ikan nyambar, tokonya juga tidak jelas siapa.",
+  "would_change_my_mind": "Kalau dijual di toko pancing langganan saya dan teman mancing sudah buktikan di kolam, atau ada sachet isi beberapa kapsul seharga 20–30 ribu untuk dicoba dulu.",
+  "price_too_cheap": 15000,
+  "price_cheap": 35000,
+  "price_expensive": 60000,
+  "price_too_expensive": 100000
+}

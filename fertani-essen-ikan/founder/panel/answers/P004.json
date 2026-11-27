@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Rp129 ribu buat satu botol essen? Di Shopee essen ikan mas yang terjual ribuan cuma 15–30 ribu, dan saya mancing santai tiap Minggu doang. Kapsul praktis sih, tapi nggak sampai segitu harganya.",
+  "objection": "Kemahalan dibanding essen cair di marketplace, dan tokonya nggak jelas: nggak ada nama toko, nggak ada testimoni, nggak ada komposisi. Takutnya cuma essen biasa dimasukin kapsul terus dijual lima kali lipat.",
+  "would_change_my_mind": "Ada di Shopee dengan banyak terjual dan ulasan bintang bagus, plus ada ukuran coba kecil sekitar Rp35–40 ribu biar bisa saya tes dulu di kolam.",
+  "price_too_cheap": 10000,
+  "price_cheap": 25000,
+  "price_expensive": 50000,
+  "price_too_expensive": 75000
+}

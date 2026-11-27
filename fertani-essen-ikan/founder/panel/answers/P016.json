@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Rp129 ribu itu hampir tiga kali tiket kolam saya, padahal essen cair di toko pancing cuma belasan sampai dua puluh ribuan dan racikan saya sendiri sudah dapat ikan. Kapsul itu buat orang yang malas ngeracik, bukan buat saya.",
+  "objection": "Nggak ada komposisi, nggak ada testimoni, nggak ada nama toko. Saya nggak mau buang seratus ribu lebih buat barang yang belum kelihatan ikannya beneran makan, jangan-jangan cuma essen biasa dimasukin kapsul.",
+  "would_change_my_mind": "Lihat sendiri teman di kolam pakai dan strike-nya jelas beda, lalu ada ukuran kecil isi 5-10 kapsul seharga 25-30 ribu buat dicoba dulu.",
+  "price_too_cheap": 10000,
+  "price_cheap": 25000,
+  "price_expensive": 45000,
+  "price_too_expensive": 70000
+}

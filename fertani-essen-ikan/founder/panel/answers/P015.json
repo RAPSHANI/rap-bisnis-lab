@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Merek Fertani belum pernah dengar, komposisinya nggak ditulis, testimoni nggak ada, nama toko juga nggak ada. Saya biasa beli essen di toko pancing dekat kolam, botol kecil 15-25 ribu sudah jalan, jadi nggak ada alasan bayar 129 ribu online buat barang yang belum jelas.",
+  "objection": "Ini isinya apa? Tanpa komposisi, testimoni, dan nama toko, bisa saja cuma essen biasa dimasukin kapsul terus harganya dinaikin. Dan Rp129.000 itu bisa buat 5-6 botol essen langganan saya.",
+  "would_change_my_mind": "Ada anggota grup Facebook pemancing daerah saya yang posting hasil strike pakai kapsul ini, atau toko pancing dekat kolam mulai jual eceran per beberapa kapsul supaya bisa dicoba murah dulu.",
+  "price_too_cheap": 10000,
+  "price_cheap": 25000,
+  "price_expensive": 50000,
+  "price_too_expensive": 75000
+}
