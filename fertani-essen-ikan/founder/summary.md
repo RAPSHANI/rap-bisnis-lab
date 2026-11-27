@@ -12,6 +12,6 @@
 
 **Yang dibutuhkan:** iklan Rp2,5 juta dalam dua fase, talangan Rp2,5 juta, produk/kreatif Rp0,5 juta, cadangan retur Rp0,5 juta.
 
-**Satu hal minggu ini:** beli 1 paket, uji di kolam, posting jujur di 3–5 grup FB mancing lokal, dan tawarkan 1 botol Rp59.000 lewat WA. Kalau dalam 7 hari tidak ada yang membeli eceran, jangan pasang iklan.
+**Satu hal minggu ini:** beli 1 paket, uji di kolam, posting jujur di 3–5 grup FB mancing lokal, dan tawarkan 1 botol Rp75.000 lewat WA (prabayar diutamakan). Kalau dalam 7 hari tidak ada yang membeli eceran, jangan pasang iklan.
 
 *Panel adalah pembeli simulasi dan angkanya proyeksi. Bukan nasihat keuangan, hukum, atau pajak.*

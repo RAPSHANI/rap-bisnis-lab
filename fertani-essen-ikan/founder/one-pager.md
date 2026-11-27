@@ -4,7 +4,7 @@
 
 - **Masalah:** pemancing kolam sering zonk; essen cair tumpah, bau, takarannya tebak-tebakan.
 - **Pelanggan:** pemancing hobi kolam harian/galatama di Jawa–Bali.
-- **Penawaran iklan:** Paket Juragan 3 botol Rp169.000 (default), Paket Hemat 2 botol Rp139.000. COD, gratis ongkir Jawa–Bali. Kanal organik: 1 botol Rp59.000 lewat WA/grup FB.
+- **Penawaran iklan:** Paket Juragan 3 botol Rp169.000 (default), Paket Hemat 2 botol Rp139.000. COD, gratis ongkir Jawa–Bali. Kanal organik: 1 botol Rp75.000 lewat WA/grup FB.
 
 | Angka | Nilai |
 |---|---|

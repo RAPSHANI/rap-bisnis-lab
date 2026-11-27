@@ -5,7 +5,7 @@
 ## Uji murah dulu (sebelum iklan, minggu 30 Nov–5 Des)
 1. Beli 1 paket lewat jalur pembeli: catat lama kirim, kondisi paket, nama pengirim, dan apakah ada isi selain botol.
 2. Pakai sendiri 2–3 sesi di kolam harian. **Kalau RAP sendiri tidak melihat bedanya, berhenti di sini** (hemat ~Rp5,8 juta).
-3. Posting video jujur di 3–5 grup Facebook pemancing lokal (organik, Rp0) dan tawarkan 1 botol Rp59.000 lewat WA. Target: 10 botol terjual dan minimal 3 pembeli mau posting hasil strike. Kalau dalam 7 hari tidak ada yang beli eceran, iklan Rp139.000+ hampir pasti gagal.
+3. Posting video jujur di 3–5 grup Facebook pemancing lokal (organik, Rp0) dan tawarkan 1 botol Rp75.000 lewat WA (prabayar diutamakan). Target: 10 botol terjual dan minimal 3 pembeli mau posting hasil strike. Kalau dalam 7 hari tidak ada yang beli eceran, iklan Rp139.000+ hampir pasti gagal.
 4. Sudah dijawab supplier: ongkir Rp12.000–30.000, retur kembali ke supplier dan dana dikembalikan, RAP bayar di depan, harga boleh diubah. Masih perlu: lama pencairan COD, apakah ongkir juga dibayar di depan, produsen dan komposisi (untuk menjawab keberatan trust).
 
 ## Hitung mundur

@@ -24,7 +24,7 @@ A dan C hanya lebih baik kalau harga per botol yang lebih murah menurunkan CPA l
 | Meta Ads → landing page | Hemat 2 botol | Rp139.000 |
 | Meta Ads → landing page | **Juragan 3 botol (default)** | Rp169.000 (~Rp2.500/sesi) |
 | Fase 2, hanya jika CPA uji B > Rp55.000 | 4 botol (120 kapsul) | Rp179.000 |
-| Marketplace / toko pancing (kanal kedua, tanpa iklan) | 1 botol | Rp49.000–59.000 (ESTIMASI, cek biaya platform & aturan dropship) |
+| Organik WA / grup FB (tanpa iklan) | 1 botol | Rp75.000 (lihat bagian 7) |
 
 ## 4. Penawaran pembuka
 Bonus non-diskon (panduan racikan + grup WA) untuk prabayar, dengan tanggal akhir nyata. Tanpa countdown palsu.
@@ -38,3 +38,17 @@ Bonus non-diskon (panduan racikan + grup WA) untuk prabayar, dengan tanggal akhi
 - "Paket paling murah Rp139 ribu, padahal essen di Shopee Rp20-30 ribu sudah banyak yang terjual ribuan." (P004)
 - "Seratus enam puluh ribu itu uang makan saya..." (v2 panel, lihat `panel-v2/results.md`)
 - Panel v1: "Rp129 ribu buat satu botol essen? Di Shopee essen ikan mas yang terjual ribuan cuma 15–30 ribu" (P004)
+
+## 7. Bagaimana kalau 1 botol Rp75.000 atau Rp80.000? (27 Nov 2026)
+Ongkir rata-rata Rp18.325, COD 3%, HPP kembali saat retur.
+
+| Paket | Margin sebelum iklan | CPA maks impas (RTS 15% / 25% / 35%) | Laba per order diterima @CPA 45rb, RTS 25% | RTS maks @CPA 45rb |
+|---|---|---|---|---|
+| 1 botol Rp75.000 | Rp35.975 | 25.081 / 17.819 / 10.556 | **-Rp36.242** | tidak ada (rugi di RTS 0%) |
+| 1 botol Rp80.000 | Rp40.825 | 29.204 / 21.456 / 13.709 | **-Rp31.392** | tidak ada (rugi di RTS 0%) |
+| 2 botol Rp139.000 | Rp79.605 | 62.167 / 50.541 / 38.916 | Rp7.388 | 30% |
+| 3 botol Rp169.000 | Rp90.255 | 71.219 / 58.529 / 45.838 | Rp18.038 | 36% |
+
+**Kesimpulan:** 1 botol Rp75–80 ribu tidak layak untuk iklan Meta. Iklan baru impas kalau CPA ≤ Rp18–21 ribu, padahal itu terlalu rendah untuk order COD dari iklan dingin. Harga ini juga masih di atas PME panel (~Rp70.000). Untuk penjualan organik (grup FB, WA, kenalan, tanpa biaya iklan), harga ini bagus: Rp36–41 ribu per botol, apalagi kalau prabayar. Kalau ditampilkan di landing page iklan, opsi ini juga berisiko mengambil pembeli dari paket 3 botol (Rp90 ribu margin → Rp36 ribu).
+
+Rekomendasi: **1 botol Rp75.000 hanya untuk kanal organik/WA** (prabayar diutamakan). Landing page iklan tetap 2 botol Rp139.000 / 3 botol Rp169.000. Rp75.000 dipilih daripada Rp80.000 karena lebih dekat ke batas "terlalu mahal" panel, dan selisih marginnya kecil untuk penjualan tanpa iklan.
