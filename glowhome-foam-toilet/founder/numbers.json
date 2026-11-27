@@ -1,26 +1,71 @@
 {
-  "business": "Glow Home Foam Cleaner, Paket Coba Kloset Bersih (1 botol + kain microfiber) Rp129.000 via Meta Ads -> landing page/WA -> COD, dropship",
+  "business": "Glow Home Foam Cleaner, Paket Coba 1 botol + panduan WA + garansi Rp129.000 via Meta Ads -> landing page/WA -> COD, dropship",
   "unit": "order 1 botol diterima pembeli",
   "price": 129000,
   "variable": [
-    {"label": "HPP 1 botol (dari RAP)", "cost": 26550},
-    {"label": "Ongkir kirim rata-rata Jawa-Bali tarif 1 kg (ESTIMASI: Rp12rb terdekat s/d Rp30rb terjauh dari RAP)", "cost": 20000},
-    {"label": "Packing/biaya supplier per paket (ESTIMASI, belum dikonfirmasi)", "cost": 3000},
-    {"label": "Kain microfiber 40x40 bonus, disisipkan supplier (ESTIMASI; cek supplier mau menyisipkan)", "cost": 4500},
-    {"label": "Biaya COD 3% (ESTIMASI, cek tarif ekspedisi)", "cost": 3870},
-    {"label": "Kerugian retur: RTS 25% x (ongkir 2 arah Rp40.000 + packing Rp3.000) / 0,75 (HPP dikembalikan supplier)", "cost": 14333},
-    {"label": "Garansi: 5% klaim uang kembali penuh Rp129rb + 2% botol bocor x Rp46.550 (ESTIMASI)", "cost": 7381},
-    {"label": "Iklan Meta: CPA Rp45.000 per order masuk / 0,75 diterima (ESTIMASI realistis; anggaran mentor Rp22.500)", "cost": 60000}
+    {
+      "label": "HPP 1 botol (dari RAP)",
+      "cost": 26550
+    },
+    {
+      "label": "Ongkir kirim rata-rata Jawa-Bali tarif 1 kg (ESTIMASI: Rp12rb terdekat s/d Rp30rb terjauh dari RAP)",
+      "cost": 20000
+    },
+    {
+      "label": "Packing/biaya supplier per paket (ESTIMASI, belum dikonfirmasi)",
+      "cost": 3000
+    },
+    {
+      "label": "Biaya COD 3% (ESTIMASI, cek tarif ekspedisi)",
+      "cost": 3870
+    },
+    {
+      "label": "Kerugian retur: RTS 25% x (ongkir 2 arah Rp40.000 + packing Rp3.000) / 0,75 (HPP dikembalikan supplier)",
+      "cost": 14333
+    },
+    {
+      "label": "Garansi: 5% klaim uang kembali penuh Rp129rb + 2% botol bocor x Rp46.550 (ESTIMASI)",
+      "cost": 7381
+    },
+    {
+      "label": "Iklan Meta: CPA Rp45.000 per order masuk / 0,75 diterima (ESTIMASI realistis; anggaran mentor Rp22.500)",
+      "cost": 60000
+    }
   ],
   "fixed_monthly": [
-    {"label": "Landing page/form + domain (ESTIMASI)", "cost": 150000},
-    {"label": "Pulsa/kuota WA admin (ESTIMASI)", "cost": 100000}
+    {
+      "label": "Landing page/form + domain (ESTIMASI)",
+      "cost": 150000
+    },
+    {
+      "label": "Pulsa/kuota WA admin (ESTIMASI)",
+      "cost": 100000
+    }
   ],
   "startup": [
-    {"label": "Beli 2 botol dari listing Rp40-45rb + timbang paket 1/2/3 botol di ekspedisi (ESTIMASI)", "cost": 120000},
-    {"label": "Kreatif video uji mentah di kloset tetangga + gambar panduan (dibuat sendiri, ESTIMASI)", "cost": 200000}
+    {
+      "label": "Beli 2 botol dari listing Rp40-45rb + timbang paket 1/2/3 botol di ekspedisi (ESTIMASI)",
+      "cost": 120000
+    },
+    {
+      "label": "Kreatif video uji mentah di kloset tetangga + gambar panduan (dibuat sendiri, ESTIMASI)",
+      "cost": 200000
+    }
   ],
   "days_per_month": 30,
   "plan_per_day": 5,
-  "ramp_per_day": [1, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 5]
+  "ramp_per_day": [
+    1,
+    2,
+    3,
+    3,
+    4,
+    4,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5
+  ]
 }
