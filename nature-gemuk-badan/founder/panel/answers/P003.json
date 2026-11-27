@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Rp139 ribu buat 10 hari itu kemahalan buat gaji saya, Curcuma atau jamu temulawak di warung jauh lebih murah dan ibu saya sudah biasa nyuruh itu. Toko baru tanpa ulasan juga, nggak ada yang rekomendasiin ke saya.",
+  "objection": "Bahannya mirip jamu temulawak biasa, di Shopee pasti ada yang jual lebih murah, kenapa harus bayar segini ke toko yang belum ada ulasannya.",
+  "would_change_my_mind": "Kalau ada teman atau saudara yang sudah minum dan beneran naik berat badannya, lalu harganya sekitar Rp60-75 ribu sebulan.",
+  "price_too_cheap": 15000,
+  "price_cheap": 35000,
+  "price_expensive": 75000,
+  "price_too_expensive": 120000
+}
