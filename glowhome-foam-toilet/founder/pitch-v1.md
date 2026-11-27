@@ -1,0 +1,4 @@
+Iklan Facebook/Instagram, video mentah tanpa potong: kloset berkerak kuning disemprot busa, didiamkan 3 menit, dilap kain, keraknya luruh. "Kerak kuning kloset gara-gara air sumur? Semprot, diamkan, lap. Pinggang aman."
+Produk: busa semprot pembersih kerak dan jamur 500 ml (merek Glow Home tercetak di botol). Untuk kloset, nat keramik, wastafel, kran. Ada daftar permukaan yang tidak boleh. Aroma segar, tetap pakai di ruangan berventilasi.
+Paket Kamar Mandi Kinclong: 3 botol + kain microfiber + panduan "Peta Noda" via WhatsApp + admin WA untuk tanya cara pakai. Garansi: botol bocor diganti; kalau setelah 2x pakai sesuai panduan keraknya tidak berkurang, kirim video, uang 1 botol kembali.
+Harga: Paket 3 botol Rp189.000 (Rp63.000 per botol). Mau coba: 2 botol Rp159.000, atau 1 botol Rp129.000. Gratis ongkir Jawa–Bali, COD bayar di tempat. Toko baru, belum ada ulasan pembeli di toko ini.

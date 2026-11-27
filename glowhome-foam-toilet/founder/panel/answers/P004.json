@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Seratus dua puluh sembilan ribu buat satu botol pembersih itu kebanyakan buat saya, itu sama dengan belanja dapur beberapa hari. Mertua mau datang memang, tapi saya mending beli Porstex sama sikat baru terus nyikat sendiri sore-sore.",
+  "objection": "Harganya enam kali lipat Porstex, dan tokonya sendiri bilang di marketplace lebih murah. Belum ada satu pun tetangga atau ibu-ibu di grup yang pernah pakai, jadi saya tidak tahu hasilnya di kloset saya beneran atau tidak. Garansi uang kembali kedengarannya bagus, tapi ribet harus foto-foto dan nunggu, belum tentu juga uangnya balik.",
+  "would_change_my_mind": "Kalau ada tetangga atau ibu-ibu di grup WA yang sudah pakai dan kirim foto klosetnya jadi bersih, dan ada ukuran kecil atau harga sekitar lima puluh ribuan.",
+  "price_too_cheap": 15000,
+  "price_cheap": 35000,
+  "price_expensive": 60000,
+  "price_too_expensive": 90000
+}

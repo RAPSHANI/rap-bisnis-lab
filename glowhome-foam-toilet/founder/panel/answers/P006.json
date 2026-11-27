@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason": "Izin Kemenkes ada dan videonya jujur, itu bikin saya percaya, tapi Rp129 ribu buat satu botol pembersih kloset kemahalan buat dapur saya. Tokonya sendiri bilang botol yang sama lebih murah di marketplace, jadi paling saya chat admin dulu, kirim foto kloset, terus kalau katanya cocok saya beli yang di Shopee saja.",
+  "reason_code": "price",
+  "objection": "Bedanya cuma kain sama panduan, tapi selisih harganya lumayan; Porstex Rp20-an ribu juga masih bisa kalau saya rajin nyikat. Terus belum ada satu pun ulasan, dan baunya nyengat atau nggak kalau anak lagi di rumah belum dijawab.",
+  "would_change_my_mind": "Harga paket di bawah Rp75 ribu, atau ada ibu di grup WA perumahan yang sudah pakai di kloset air sumur dan kirim foto hasilnya.",
+  "price_too_cheap": 20000,
+  "price_cheap": 45000,
+  "price_expensive": 75000,
+  "price_too_expensive": 110000
+}

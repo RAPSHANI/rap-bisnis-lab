@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Videonya jujur dan saya memang butuh buat kamar mandi kos, tapi iklannya sendiri bilang botol yang sama lebih murah di marketplace. Ya saya cari di Shopee aja, kain microfiber saya punya, garansinya nggak worth bayar dobel.",
+  "objection": "Rp129.000 buat satu botol itu mahal buat urusan kos, apalagi sudah ngaku di marketplace lebih murah. Satu botol juga belum tentu cukup buat beberapa kamar mandi, jadi kalau cocok saya mau beli yang murah tapi banyak.",
+  "would_change_my_mind": "Paket khusus pemilik kos: 2-3 botol di bawah harga marketplace per botol, tetap COD dan garansi, jadi nggak ada alasan pindah ke Shopee.",
+  "price_too_cheap": 20000,
+  "price_cheap": 45000,
+  "price_expensive": 75000,
+  "price_too_expensive": 110000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Videonya jujur, saya suka, tapi Rp129.000 buat sebotol pembersih itu sama dengan enam botol Porstex. Mereka sendiri bilang botolnya lebih murah di marketplace, jadi kalau penasaran ya saya beli di Shopee saja, kainnya saya punya.",
+  "objection": "Harganya kejauhan dari yang biasa saya beli di warung, dan tokonya baru belum ada ulasan. Uang segitu buat belanja dapur beberapa hari.",
+  "would_change_my_mind": "Kalau harganya di bawah Rp50.000 atau ada ukuran kecil buat coba, apalagi kalau tetangga atau ibu-ibu di grup sudah bukti kerak sumurnya hilang.",
+  "price_too_cheap": 10000,
+  "price_cheap": 30000,
+  "price_expensive": 50000,
+  "price_too_expensive": 80000
+}

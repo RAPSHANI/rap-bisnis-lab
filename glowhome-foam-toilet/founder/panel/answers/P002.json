@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Iklannya sendiri bilang botol yang sama lebih murah di marketplace, jadi saya langsung ketik 'Glow Home' di Shopee dan beli di sana. Kain microfiber ada di rumah, panduan bisa saya lihat dari video, Rp129.000 untuk satu botol pembersih kloset kemahalan buat saya.",
+  "objection": "Bayar hampir dua kali lipat cuma untuk kain dan garansi dari toko baru yang belum ada ulasannya, padahal videonya sendiri menunjukkan keraknya kadang cuma hilang separuh. Saya juga masih takut busanya merusak kloset atau baunya bikin sesak di kamar mandi saya yang sempit.",
+  "would_change_my_mind": "Harga di toko ini sama atau hampir sama dengan Shopee (sekitar Rp70.000-an) dengan garansi tetap ada, atau ada ulasan Shopee/TikTok dari ibu-ibu lain yang klosetnya juga kerak air sumur.",
+  "price_too_cheap": 15000,
+  "price_cheap": 45000,
+  "price_expensive": 75000,
+  "price_too_expensive": 110000
+}
