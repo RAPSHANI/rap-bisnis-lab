@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Iklannya sendiri bilang cuma buat kebersihan dan kesegaran, nggak ada efek apa-apa. Rp189 ribu buat 5 ml pembersih itu hampir 5% gaji sebulan, mending sabun sirih atau sabun biasa yang sepuluh ribuan.",
+  "objection": "Kalau cuma pembersih kenapa semahal itu? Botolnya kecil banget, tokonya baru dan belum ada ulasan, takutnya nanti barang nyampe malah nyesel, saya pernah tolak COD gara-gara berubah pikiran.",
+  "would_change_my_mind": "Harga di bawah Rp60 ribu dengan COD paket polos, plus ada ulasan atau testimoni pembeli asli.",
+  "price_too_cheap": 10000,
+  "price_cheap": 35000,
+  "price_expensive": 65000,
+  "price_too_expensive": 100000
+}

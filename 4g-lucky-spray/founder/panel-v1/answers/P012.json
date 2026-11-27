@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Saya sudah pernah kena iklan produk pria yang ternyata nggak ada rasanya, uang melayang. Ini malah bilang sendiri cuma buat bersih dan segar, buat itu saya cukup sabun dan air, ngapain Rp189 ribu, itu hampir dua hari narik saya.",
+  "objection": "Toko baru, belum ada ulasan satu pun, dan harganya mahal untuk botol 5 ml yang fungsinya cuma kebersihan. Saya curiga ujung-ujungnya sama aja kayak yang dulu.",
+  "would_change_my_mind": "Kalau ada teman atau tetangga yang sudah pakai dan bilang memang beda, plus harganya di bawah Rp50 ribu, mungkin saya coba satu botol pakai COD.",
+  "price_too_cheap": 10000,
+  "price_cheap": 30000,
+  "price_expensive": 60000,
+  "price_too_expensive": 100000
+}

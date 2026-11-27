@@ -1,0 +1,97 @@
+{
+ "n": 20,
+ "seed": 7,
+ "customer": {
+  "business": "4G Lucky Herbal Spray Pria (dropship, iklan Meta ke landing page, COD)",
+  "target": "pria dewasa menikah 25–55 tahun di Jawa yang melihat iklan Facebook/Instagram tentang spray perawatan area intim pria. Catatan: angka pendapatan dalam RUPIAH per tahun (bukan dolar), dan semua harga dalam Rupiah",
+  "where": "Jawa (dan sebagian luar Jawa), pembeli online lewat iklan Facebook/Instagram",
+  "age": [
+   25,
+   55
+  ],
+  "segments": [
+   {
+    "name": "Pekerja harian/buruh/ojol/sopir, menikah",
+    "share": 0.35,
+    "income": [
+     24000000,
+     48000000
+    ]
+   },
+   {
+    "name": "Karyawan swasta/pabrik/PNS golongan bawah",
+    "share": 0.35,
+    "income": [
+     48000000,
+     96000000
+    ]
+   },
+   {
+    "name": "Pedagang/pemilik usaha kecil, usia 40+",
+    "share": 0.2,
+    "income": [
+     72000000,
+     180000000
+    ]
+   },
+   {
+    "name": "Pria muda baru menikah, karyawan kota",
+    "share": 0.1,
+    "income": [
+     48000000,
+     120000000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Pembeli diam-diam COD",
+    "share": 0.22,
+    "how": "Malu beli di apotek, hanya mau COD lewat iklan, takut paket ketahuan istri atau keluarga."
+   },
+   {
+    "name": "Pemburu murah marketplace",
+    "share": 0.2,
+    "how": "Selalu cek harga di Shopee/Tokopedia/TikTok Shop dulu, tahu produk serupa ada yang Rp50–100 ribu."
+   },
+   {
+    "name": "Skeptis pernah tertipu",
+    "share": 0.18,
+    "how": "Pernah beli obat kuat/oles dari iklan yang tidak terasa apa-apa, sekarang curiga dengan semua iklan sejenis."
+   },
+   {
+    "name": "Penurut jamu dan herbal",
+    "share": 0.15,
+    "how": "Lebih percaya jamu, madu, dan herbal; minum jamu kuat dari warung atau tukang jamu."
+   },
+   {
+    "name": "Pembaca ulasan",
+    "share": 0.15,
+    "how": "Baca review bintang 1 dulu dan cek BPOM sebelum beli apa pun yang dipakai di badan."
+   },
+   {
+    "name": "Impulsif lihat iklan",
+    "share": 0.1,
+    "how": "Gampang tergoda iklan malam hari, langsung isi form COD, kadang menyesal dan menolak paket."
+   }
+  ],
+  "objections": [
+   "Rp189 ribu untuk 5 ml itu mahal, di marketplace ada yang di bawah Rp100 ribu",
+   "Kalau cuma pembersih, kenapa semahal itu? Sabun biasa juga bisa",
+   "Takut panas, iritasi, atau efek samping di area sensitif",
+   "Takut paketnya ketahuan istri, orang rumah, atau kurir",
+   "Sudah sering tertipu iklan produk pria yang tidak terasa apa-apa",
+   "Benar terdaftar BPOM atau palsu?",
+   "Istri bisa curiga kalau tiba-tiba pakai produk begini"
+  ],
+  "habits": [
+   "kamu scroll Facebook sebelum tidur jam 10–12 malam",
+   "kamu pernah beli jamu kuat Rp20–35 ribu dari warung",
+   "kamu punya aplikasi Shopee dan sering cek harga di sana",
+   "uang belanja rumah tangga dipegang istri",
+   "kamu pernah menolak paket COD karena berubah pikiran",
+   "kamu malu bertanya ke apoteker soal masalah pria"
+  ]
+ },
+ "pitch": "Iklan Facebook/Instagram (18+): \"Perawatan area pribadi pria, praktis tinggal semprot.\" 4G Lucky Herbal Spray Pria Dewasa 5 ml, kosmetik pemakaian luar, terdaftar BPOM NA18231600259 (produsen PT Mulya Tani Sejahtera, Pemalang).\nFungsi resmi: membantu menjaga kebersihan dan kesegaran area sensitif pria. Bahan: daun jambu biji, lidah buaya, panthenol. Iklan ini tidak menjanjikan efek stamina, tahan lama, atau ereksi.\nHarga 1 botol Rp189.000, paket 2 botol Rp329.000. Gratis ongkir, dikirim dari Ngawi (Jawa Timur), 2–4 hari untuk Jawa.\nCOD: bayar di tempat. Paket polos tanpa nama produk di luar. Ada nomor WA admin untuk tanya.\nToko online baru, belum ada ulasan pembeli di toko ini."
+}

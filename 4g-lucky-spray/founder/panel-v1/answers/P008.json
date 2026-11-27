@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Rp189 ribu itu hampir seminggu penghasilan saya narik, dan uang belanja dipegang istri, nggak mungkin saya minta buat semprotan yang cuma buat bersih-bersih. Kalau cuma kebersihan, sabun sirih atau air rebusan daun sirih juga cukup, jamu kuat di warung cuma belasan ribu.",
+  "objection": "Mahal banget buat 5 ml, toko baru belum ada ulasan, dan nomor BPOM bisa saja dicomot dari produk lain. Lagian katanya bukan buat stamina, terus buat apa saya bayar segitu?",
+  "would_change_my_mind": "Harga di bawah Rp50 ribu dan dijual di warung atau apotek dekat rumah yang bisa saya lihat langsung, atau ada teman yang sudah pakai dan bilang bagus.",
+  "price_too_cheap": 10000,
+  "price_cheap": 25000,
+  "price_expensive": 50000,
+  "price_too_expensive": 75000
+}
